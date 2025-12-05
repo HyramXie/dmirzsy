@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+# CUDA_VISIBLE_DEVICES=3 llamafactory-cli export examples/merge_lora/internvl_lora_sft.yaml
+### model
+model_name_or_path: /root/huggingface/OpenGVLab/InternVL3-8B-hf
+adapter_name_or_path: saves/internVL3-8b/lora/sft_17
+template: intern_vl
+trust_remote_code: true
+
+### export
+export_dir: output/internVL3-8b/lora/sft_17
+export_size: 5
+export_device: cpu
+export_legacy_format: false

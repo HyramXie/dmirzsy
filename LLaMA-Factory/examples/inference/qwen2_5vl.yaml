@@ -1,0 +1,4 @@
+model_name_or_path: /root/user/LLaMA-Factory/output/qwen2_vl-7b/lora/sft_15_t+c+i
+template: qwen2_vl
+infer_backend: vllm  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true

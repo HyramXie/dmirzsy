@@ -1,0 +1,11 @@
+# CUDA_VISIBLE_DEVICES=0 llamafactory-cli export examples/merge_lora/llava1_5_lora_sft.yaml
+# model
+model_name_or_path: /root/huggingface/llava-hf/llava-1.5-7b-hf
+adapter_name_or_path: saves/llava1_5-7b/lora/sft_15_t+c+sc
+template: llava
+finetuning_type: lora
+
+# export
+export_dir: output/llava1_5-7b/lora/sft_15_t+c+sc
+export_size: 2
+export_device: cpus
