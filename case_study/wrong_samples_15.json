@@ -1,0 +1,2000 @@
+[
+  {
+    "text": "RT @ OU Football : Practice one in the books Want more photos ? Follow the official Oklahoma football Facebook page ! # onlyONE",
+    "aspect": "Oklahoma",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "74960.jpg",
+    "image_context": "A coach in a red \"Oklahoma\" shirt and white hat is energetically addressing a group of attentive athletes outdoors, suggesting a motivational team huddle.",
+    "serial_number": 1
+  },
+  {
+    "text": "RT @ engadget : White House Demo Day focuses on diversity",
+    "aspect": "White House Demo Day",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "14581.jpg",
+    "image_context": "A group of people in a classroom setting are engaged in a lively and joyful conversation, with one person leaning forward enthusiastically and others smiling and laughing.",
+    "serial_number": 2
+  },
+  {
+    "text": "DETAILS : Man shot several times outside west Valley Circle K",
+    "aspect": "west Valley Circle K",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "423068.jpg",
+    "image_context": "A gas station parking lot is cordoned off with yellow tape, suggesting a restricted or crime scene area under investigation.",
+    "serial_number": 3
+  },
+  {
+    "text": "RT @ RollingStone : Meet the Michael Jackson impersonator who wants to heal Baltimore :",
+    "aspect": "Baltimore",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "45911.jpg",
+    "image_context": "A person energetically dances in the street, surrounded by a cheering crowd, creating a lively and joyful atmosphere.",
+    "serial_number": 4
+  },
+  {
+    "text": "RT @ KPerham : Ride near Bath Maine ? Watch out for this dude . He will assault you and call you a fag ( many times ) !",
+    "aspect": "Bath Maine",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "1052805.jpg",
+    "image_context": "An older man in a teal sweatshirt stands outdoors near a vehicle, appearing to speak or gesture, surrounded by a wooded area.",
+    "serial_number": 5
+  },
+  {
+    "text": "RT @ Skf3rn : Had an awesome time at # SDCC and finally got to meet this gorgeous girl @ Milloux # milloux # SuicideGirls",
+    "aspect": "# milloux",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1087206.jpg",
+    "image_context": "A smiling woman in a black dress and yellow glasses poses with a man in a red graphic t-shirt and sunglasses, suggesting a friendly interaction at an outdoor event.",
+    "serial_number": 6
+  },
+  {
+    "text": "Embattled Metro Councilman Dan Johnson to debate challenger John Witt , an independent . # Louisville",
+    "aspect": "Dan Johnson",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "553062.jpg",
+    "image_context": "Two men in formal attire sit at a table with microphones, appearing engaged in a discussion or debate, in a room with an American flag in the background.",
+    "serial_number": 7
+  },
+  {
+    "text": "Harriette moved back to Chicago to care for her mom : And it ' s been terrible # NextDayChi 17 :",
+    "aspect": "Harriette",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "71274.jpg",
+    "image_context": "A woman in a hooded coat sits alone on a city sidewalk bench, holding a plastic bag, with a contemplative expression, while another person stands nearby.",
+    "serial_number": 8
+  },
+  {
+    "text": "RT @ NYRangers : OFFICIAL : Martin St . Louis announces retirement from the National Hockey League . # NYR",
+    "aspect": "Martin",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "1378638.jpg",
+    "image_context": "A hockey player in a blue jersey waves to an applauding crowd, conveying a sense of appreciation and celebration on the ice rink.",
+    "serial_number": 9
+  },
+  {
+    "text": "RT @ wgkantai : See this lady ? Her name is Joyce Njuguna . She ' s ' disabled ' ( I hate that word ) . She ' s won us a bronze in powerlifting .",
+    "aspect": "Joyce Njuguna",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "63337.jpg",
+    "image_context": "A person in a red sports jacket stands on a stage, holding a small trophy, with a focused expression against a blue background.",
+    "serial_number": 10
+  },
+  {
+    "text": "Speaking of the Galbuts , commission just honored memory of matriarch Bessie Galbut , who passed away a few weeks ago .",
+    "aspect": "Bessie Galbut",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "62391.jpg",
+    "image_context": "A group of people, some in formal attire and one in medical scrubs, pose smilingly with a certificate in a council chamber setting, suggesting a celebratory or honorary event.",
+    "serial_number": 11
+  },
+  {
+    "text": "RT @ AmazingRoom : Breathtaking Cherry Blossoms in Japan",
+    "aspect": "Japan",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "94224.jpg",
+    "image_context": "A serene landscape features a quaint village nestled among pastel pink and white trees, evoking a peaceful, dreamlike atmosphere.",
+    "serial_number": 12
+  },
+  {
+    "text": "RT @ politico : Sen . John McCain : Loretta Lynch delay has ' nothing to do with race ' Getty",
+    "aspect": "Loretta Lynch",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "67354.jpg",
+    "image_context": "An older man in a suit appears serious and focused, standing indoors with a wood-paneled background.",
+    "serial_number": 13
+  },
+  {
+    "text": "Happy New Year ! Watching San Jose - Anaheim replay . . . believe it or not , this was the scene in Riverside County today",
+    "aspect": "San",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "2058555.jpg",
+    "image_context": "Three people are playing hockey on a small, snow-surrounded outdoor rink, suggesting a casual and playful atmosphere.",
+    "serial_number": 14
+  },
+  {
+    "text": "Congrats @ TylerKehoe1 , # SnowJam champ in MOD ! A class act , he split his win w buds Aaron Rudderham amp Travis Sabine !",
+    "aspect": "MOD",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1295130.jpg",
+    "image_context": "A group of casually dressed young people are gathered indoors, smiling and engaging in friendly conversation, with one person seated and others standing around.",
+    "serial_number": 15
+  },
+  {
+    "text": "RT @ BeschlossDC : Coretta Scott King with Robert amp Ethel Kennedy after husband ' s assassination , which occurred tonight 1968 : # Globe http :",
+    "aspect": "Ethel Kennedy",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "67336.jpg",
+    "image_context": "Three individuals are seated in a warmly lit room, engaged in a serious conversation, with one woman gesturing expressively while the others listen attentively.",
+    "serial_number": 16
+  },
+  {
+    "text": "RT @ shanilpanara : Bus Selfie on the way to Harry Potter Studios @ WFCTrust @ NCSEast # ShareYourSummer",
+    "aspect": "Harry Potter Studios",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1095597.jpg",
+    "image_context": "A group of smiling people, sitting closely together on a bus, are taking a cheerful selfie, displaying peace signs and playful expressions, suggesting a joyful and friendly atmosphere.",
+    "serial_number": 17
+  },
+  {
+    "text": "@ DEKALB Canada @ ChrisSnip1 @ Agridome @ agrisjim Dekalb 57 - 75 loving the heat and moisture in Tecumseh Ontario",
+    "aspect": "Tecumseh Ontario",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "126237.jpg",
+    "image_context": "A boy in an orange shirt stands quietly in a cornfield, partially obscured by tall green stalks, suggesting a sense of curiosity or playfulness in a rural setting.",
+    "serial_number": 18
+  },
+  {
+    "text": "Congratulations to our second draw winner - Bulaire Leber of ADSS Global , Haiti . Thanks for participating , Bulaire",
+    "aspect": "ADSS Global",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "94111.jpg",
+    "image_context": "Two men stand smiling in a trade show booth, one holding a boxed product, suggesting a positive business interaction or achievement.",
+    "serial_number": 19
+  },
+  {
+    "text": "RT @ SportsCenter : LeBron James had some touching words in a letter he wrote for Lauren Hill on Twitter .",
+    "aspect": "Lauren Hill",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "318024.jpg",
+    "image_context": "A tweet from LeBron James pays tribute to Lauren Hill, expressing admiration and condolences with a heartfelt message.",
+    "serial_number": 20
+  },
+  {
+    "text": "President handed over gold recovered by the Government from LTTE banks to rightful owners in Kilinochchi today .",
+    "aspect": "LTTE",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "639010.jpg",
+    "image_context": "A man in formal attire, smiling, presents an award to a woman in a sari, suggesting a ceremonial event with positive social interaction.",
+    "serial_number": 21
+  },
+  {
+    "text": "RT @ Fernanda FRocha : Old Palace in romantic # Sintra , Portugal Thank you : )",
+    "aspect": "# Sintra",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "479109.jpg",
+    "image_context": "None",
+    "serial_number": 22
+  },
+  {
+    "text": "RT @ Fernanda FRocha : Old Palace in romantic # Sintra , Portugal Thank you : )",
+    "aspect": "Portugal",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "479109.jpg",
+    "image_context": "None",
+    "serial_number": 23
+  },
+  {
+    "text": "ATTENTION : It seems as if incest has spread north to downtown Knoxville . Hide all small children and women # Bammers",
+    "aspect": "Knoxville",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "62273.jpg",
+    "image_context": "A casually dressed couple walks through a store, appearing relaxed and engaged in browsing.",
+    "serial_number": 24
+  },
+  {
+    "text": "RT @ suttonnick : Mail on Sunday front page : Cabinet Office in child abuse cover - up # tomorrowspaperstoday # bbcpapers",
+    "aspect": "Cabinet Office",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "322419.jpg",
+    "image_context": "A woman, dressed in casual attire, walks outdoors with a young girl, both appearing engaged and focused, set against a backdrop of serious newspaper headlines about a child abuse cover-up.",
+    "serial_number": 25
+  },
+  {
+    "text": "RT @ Gruffbrown : The artist in the Rolf Harris case has been sacked .",
+    "aspect": "Rolf Harris",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "90225.jpg",
+    "image_context": "In a courtroom setting, two uniformed officers sit attentively while a cartoon character animatedly gestures, creating a humorous contrast.",
+    "serial_number": 26
+  },
+  {
+    "text": "Great Opportunity in Martinez , CA ! ! ! Check it out ! Buenos Dias ! ! !",
+    "aspect": "CA",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1992922.jpg",
+    "image_context": "The image is a real estate flyer showcasing a remodeled home with multiple interior and exterior photos, emphasizing its features and financial details, creating an informative and appealing presentation for potential buyers.",
+    "serial_number": 27
+  },
+  {
+    "text": "RT @ OnlyHipHopFacts : Kanye West on the Yeezus tour .",
+    "aspect": "Kanye West",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "675295.jpg",
+    "image_context": "A heartfelt message expressing gratitude and love to fans, acknowledging personal growth and the importance of their support in a music career.",
+    "serial_number": 28
+  },
+  {
+    "text": "RT @ IHS4DefRiskSec : # Germany looks towards Leopard 2 replacement",
+    "aspect": "Leopard",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "72671.jpg",
+    "image_context": "A large military tank is positioned on a narrow road surrounded by dense greenery, creating a tense and imposing atmosphere.",
+    "serial_number": 29
+  },
+  {
+    "text": "When Karma comes and bites you in the ass , Cercie ! # GameOfThrones # GameOfThronesSeason5 # ValarMorghulis",
+    "aspect": "Karma",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "526589.jpg",
+    "image_context": "A woman with long hair and intricate attire sits on an ornate chair, looking intently forward in a dimly lit, regal setting.",
+    "serial_number": 30
+  },
+  {
+    "text": "When Karma comes and bites you in the ass , Cercie ! # GameOfThrones # GameOfThronesSeason5 # ValarMorghulis",
+    "aspect": "Cercie",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "526589.jpg",
+    "image_context": "A woman with long hair and intricate attire sits on an ornate chair, looking intently forward in a dimly lit, regal setting.",
+    "serial_number": 31
+  },
+  {
+    "text": "A biased picture is worth a thousand biased words . The @ AP knows this . Look at how they frame Hillary vs Ted Cruz .",
+    "aspect": "Ted Cruz",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "1097672.jpg",
+    "image_context": "A person in a teal blazer speaks passionately at a podium, gesturing with their hand against a backdrop of stars.",
+    "serial_number": 32
+  },
+  {
+    "text": "RT @ CheltenhamRaces : Look out for # charliechicken in Cheltenham this afternoon giving out free race day tickets to Family Funday Sunday ! . . .",
+    "aspect": "Cheltenham",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1359666.jpg",
+    "image_context": "A person in a bright yellow chicken costume stands indoors, striking a playful pose, suggesting a humorous or festive mood.",
+    "serial_number": 33
+  },
+  {
+    "text": "RT @ FallonTonight : Jimmy retired after this Thank You Note ! # FallonTonight",
+    "aspect": "Jimmy",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "830057.jpg",
+    "image_context": "A man in a suit humorously reads a thank-you note on a talk show set, juxtaposed with an image of a cyclist in racing attire, conveying a comedic sentiment.",
+    "serial_number": 34
+  },
+  {
+    "text": "RT @ JonSnowBastrd : Tyrion Lannister amp Peter Dinklage trending Worldwide # GameOfThrones . . . .",
+    "aspect": "Tyrion Lannister",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "573061.jpg",
+    "image_context": "Two medieval-dressed men engage in a lighthearted conversation, with one holding a cup and the other gesturing, suggesting humor.",
+    "serial_number": 35
+  },
+  {
+    "text": "RT @ JonSnowBastrd : Tyrion Lannister amp Peter Dinklage trending Worldwide # GameOfThrones . . . .",
+    "aspect": "Peter Dinklage",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "573061.jpg",
+    "image_context": "Two medieval-dressed men engage in a lighthearted conversation, with one holding a cup and the other gesturing, suggesting humor.",
+    "serial_number": 36
+  },
+  {
+    "text": "Harold Russell has SUCH swagger in THE BEST YEARS OF OUR LIVES . # tcmff",
+    "aspect": "THE BEST YEARS OF OUR LIVES",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "94274.jpg",
+    "image_context": "A star on the Hollywood Walk of Fame displays the name \"Harold Russell,\" symbolizing recognition and honor in the entertainment industry.",
+    "serial_number": 37
+  },
+  {
+    "text": "@ ChrisMurphyCT - Toni Harp knew that her city needed her # NHV",
+    "aspect": "Toni Harp",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "599207.jpg",
+    "image_context": "A person stands at a podium in front of an American flag, addressing an audience seated on stage, suggesting a formal or political event.",
+    "serial_number": 38
+  },
+  {
+    "text": "RT @ donnabrazile : Congratulations to @ Oprah and @ GloriaSteinem . Presidential Medal of Freedom .",
+    "aspect": "Presidential Medal of Freedom",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1000120.jpg",
+    "image_context": "Two women are standing closely together, smiling in a warmly lit indoor setting, surrounded by others engaged in conversation.",
+    "serial_number": 39
+  },
+  {
+    "text": "The Secret Psychology of Snapchat # socialmedia",
+    "aspect": "Snapchat",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "116632.jpg",
+    "image_context": "A playful ghost character wearing sunglasses and sticking out its tongue is set against a background of similar figures, conveying a fun and lighthearted atmosphere related to Snapchat.",
+    "serial_number": 40
+  },
+  {
+    "text": "RT @ Refugees : Today , 18 - year - old Yehya became the 1 millionth Syrian to register as a refugee in Lebanon",
+    "aspect": "Yehya",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "442115.jpg",
+    "image_context": "A man in a pink shirt sits outdoors against a tree, looking contemplative and relaxed in a natural setting.",
+    "serial_number": 41
+  },
+  {
+    "text": "RT @ MarkyMillionz : Views from Haiti . No filter",
+    "aspect": "Haiti",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "730046.jpg",
+    "image_context": "Three people are joyfully swimming and interacting in a vibrant, clear blue ocean under a bright, sunny sky, conveying a sense of relaxation and happiness.",
+    "serial_number": 42
+  },
+  {
+    "text": "RT @ 3pipenet : Another exquisite work by Jan van Eyck - drawing of Saint Barbara now in Antwerp",
+    "aspect": "Jan van Eyck",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "115300.jpg",
+    "image_context": "A serene figure in flowing robes sits with closed eyes and a calm expression, surrounded by a bustling medieval scene with a towering cathedral in the background.",
+    "serial_number": 43
+  },
+  {
+    "text": "Tonight in Syracuse ! Photo Show reception - hope to see you there ! # syracuse # photography # photoshow",
+    "aspect": "# syracuse",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1366065.jpg",
+    "image_context": "A vibrant poster for a fine art photography show features colorful hot air balloons, scenic landscapes, and a historic ship, evoking a sense of adventure and artistic celebration.",
+    "serial_number": 44
+  },
+  {
+    "text": "Oh , Siri . Totoro is indeed the best . # thingssirisays # totoro",
+    "aspect": "Siri",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "988188.jpg",
+    "image_context": "The image shows a text exchange where someone expresses affection for Totoro in response to a question about their favorite animal, indicating a playful or nostalgic sentiment.",
+    "serial_number": 45
+  },
+  {
+    "text": "RT @ KTVU : UPDATE Protesters have blocked traffic on both sides of I - 80 at University in # Berkeley",
+    "aspect": "University in # Berkeley",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "1922708.jpg",
+    "image_context": "A large crowd gathers on a highway at night, blocking traffic, suggesting a protest or demonstration with a tense atmosphere.",
+    "serial_number": 46
+  },
+  {
+    "text": "RT @ jasonrmcintyre : Get a Life RT @ thebiglead : LeBron ' s House Currently Surrounded By Cleveland Cavaliers ' Fans htt",
+    "aspect": "Cleveland Cavaliers",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "65332.jpg",
+    "image_context": "A woman stands outside a red car on a tree-lined road, engaging in conversation, suggesting a calm and casual interaction amidst a line of parked vehicles.",
+    "serial_number": 47
+  },
+  {
+    "text": "RT @ BuzzFeed : Rachel McAdams and Taylor Kitsch confirmed for True Detective season 2",
+    "aspect": "Rachel McAdams",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "72513.jpg",
+    "image_context": "A woman in a colorful dress smiles warmly at an event, while a man in a suit stands confidently against a backdrop with logos, both appearing poised and composed.",
+    "serial_number": 48
+  },
+  {
+    "text": "RT @ BuzzFeed : Rachel McAdams and Taylor Kitsch confirmed for True Detective season 2",
+    "aspect": "Taylor Kitsch",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "72513.jpg",
+    "image_context": "A woman in a colorful dress smiles warmly at an event, while a man in a suit stands confidently against a backdrop with logos, both appearing poised and composed.",
+    "serial_number": 49
+  },
+  {
+    "text": "RT @ SadHappyAmazing : The Young : Emma Watson , Jennifer Lawrence , Shailene Woodley , and Lily Collins",
+    "aspect": "Emma Watson",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "10239.jpg",
+    "image_context": "Four young girls, each with a distinct expression ranging from thoughtful to cheerful, are captured in various indoor settings, suggesting moments of contemplation and happiness.",
+    "serial_number": 50
+  },
+  {
+    "text": "RT @ SadHappyAmazing : The Young : Emma Watson , Jennifer Lawrence , Shailene Woodley , and Lily Collins",
+    "aspect": "Jennifer Lawrence",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "10239.jpg",
+    "image_context": "Four young girls, each with a distinct expression ranging from thoughtful to cheerful, are captured in various indoor settings, suggesting moments of contemplation and happiness.",
+    "serial_number": 51
+  },
+  {
+    "text": "RT @ SadHappyAmazing : The Young : Emma Watson , Jennifer Lawrence , Shailene Woodley , and Lily Collins",
+    "aspect": "Shailene Woodley",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "10239.jpg",
+    "image_context": "Four young girls, each with a distinct expression ranging from thoughtful to cheerful, are captured in various indoor settings, suggesting moments of contemplation and happiness.",
+    "serial_number": 52
+  },
+  {
+    "text": "RT @ SadHappyAmazing : The Young : Emma Watson , Jennifer Lawrence , Shailene Woodley , and Lily Collins",
+    "aspect": "Lily Collins",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "10239.jpg",
+    "image_context": "Four young girls, each with a distinct expression ranging from thoughtful to cheerful, are captured in various indoor settings, suggesting moments of contemplation and happiness.",
+    "serial_number": 53
+  },
+  {
+    "text": "RT @ fgcallari : The Hudson has frozen !",
+    "aspect": "Hudson",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "595230.jpg",
+    "image_context": "None",
+    "serial_number": 54
+  },
+  {
+    "text": "Bad wreck on i40 near Sandy Ridge Road , one lane blocked , traffic very slow .",
+    "aspect": "Sandy Ridge Road",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "418041.jpg",
+    "image_context": "A damaged car is stranded on a wet highway, facing oncoming traffic, with a large truck nearby, suggesting a recent accident in rainy conditions.",
+    "serial_number": 55
+  },
+  {
+    "text": "RT @ MakingOfs : A geographical look of how many people Liam Neeson has killed in his movies and where :",
+    "aspect": "Liam Neeson",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "285461.jpg",
+    "image_context": "A world map titled \"Liam Neeson Kill Map\" displays various film-related kill counts across different regions, highlighting an action-oriented theme.",
+    "serial_number": 56
+  },
+  {
+    "text": "RT @ fffridge : Our short film about Canadian Paralympic skier Josh Duek is taking shape . Apt considering the weather . . .",
+    "aspect": "Paralympic",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "700529.jpg",
+    "image_context": "A person in a wheelchair, smiling and engaged in conversation with another individual in a red jacket, is being filmed outdoors, suggesting a positive and collaborative interaction.",
+    "serial_number": 57
+  },
+  {
+    "text": "RT @ Go2Knysna : @ simola : Stunning day in Knysna # knysna # simola @ Go2Knysna # GolfSA",
+    "aspect": "Knysna",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1025886.jpg",
+    "image_context": "A serene landscape features a winding river through lush, rolling hills under a bright blue sky, evoking a sense of tranquility and natural beauty.",
+    "serial_number": 58
+  },
+  {
+    "text": "RT @ Go2Knysna : @ simola : Stunning day in Knysna # knysna # simola @ Go2Knysna # GolfSA",
+    "aspect": "# knysna",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1025886.jpg",
+    "image_context": "A serene landscape features a winding river through lush, rolling hills under a bright blue sky, evoking a sense of tranquility and natural beauty.",
+    "serial_number": 59
+  },
+  {
+    "text": "RT @ WESH : Victims identified in deadly crash in Kissimmee pond",
+    "aspect": "Kissimmee",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "1752576.jpg",
+    "image_context": "A red tarp covers an object on grass, while two people stand nearby, observing with a concerned demeanor.",
+    "serial_number": 60
+  },
+  {
+    "text": "RT @ tedcruz : Iran acquiring nuclear weapons is the single greatest national security threat facing the US :",
+    "aspect": "Iran",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "62275.jpg",
+    "image_context": "The image features a bold message \"A Nuclear Iran Threatens America\" over a backdrop of nuclear cooling towers and the Iranian flag, with a prominent call-to-action button urging to \"Stop the Iran Deal,\" conveying a sense of urgency and political tension.",
+    "serial_number": 61
+  },
+  {
+    "text": "RT @ tedcruz : Iran acquiring nuclear weapons is the single greatest national security threat facing the US :",
+    "aspect": "US",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "62275.jpg",
+    "image_context": "The image features a bold message \"A Nuclear Iran Threatens America\" over a backdrop of nuclear cooling towers and the Iranian flag, with a prominent call-to-action button urging to \"Stop the Iran Deal,\" conveying a sense of urgency and political tension.",
+    "serial_number": 62
+  },
+  {
+    "text": "RT @ BBCOne : Dear Madonna , THIS is how you wear a cape . # Poldark # Demelza",
+    "aspect": "Madonna",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "798937.jpg",
+    "image_context": "A woman with a joyful expression walks confidently through a bustling historical street, holding her red cloak, while others in period attire engage in various activities.",
+    "serial_number": 63
+  },
+  {
+    "text": "RT @ KvanOosterom : Netherlands Navy counters piracy off coast Somalia , with frigate Johan de Witt , here docking in # Seychelles",
+    "aspect": "Somalia",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "73254.jpg",
+    "image_context": "A man walks along a sunny dock near a large ship, creating a serene and calm maritime setting.",
+    "serial_number": 64
+  },
+  {
+    "text": "RT @ Reuters : The site of a Malaysia Airlines plane crash in the settlement of Grabovo in Donetsk region :",
+    "aspect": "Grabovo",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "68141.jpg",
+    "image_context": "None",
+    "serial_number": 65
+  },
+  {
+    "text": "RT @ MoeAlayan : Mayweather and Pacquiao should just drop the fight and make Rush Hour 4",
+    "aspect": "Mayweather",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1037210.jpg",
+    "image_context": "Two individuals are smiling and holding a championship belt together, indicating a celebratory or promotional event.",
+    "serial_number": 66
+  },
+  {
+    "text": "RT @ MoeAlayan : Mayweather and Pacquiao should just drop the fight and make Rush Hour 4",
+    "aspect": "Pacquiao",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1037210.jpg",
+    "image_context": "Two individuals are smiling and holding a championship belt together, indicating a celebratory or promotional event.",
+    "serial_number": 67
+  },
+  {
+    "text": "And Alshon Jeffrey bobbles a potential TD ball in the 2nd q . # bears # packers",
+    "aspect": "Alshon Jeffrey",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "73113.jpg",
+    "image_context": "A football player leaps to catch the ball in mid-air while a defender closely contests, set in a packed stadium with spectators watching intently.",
+    "serial_number": 68
+  },
+  {
+    "text": "RT @ Marcel Koot : haha , Centraal Beheer basht mijn werkgever , maar dan wel gewoon grappig . # moetkunnen : - )",
+    "aspect": "Centraal Beheer",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "125859.jpg",
+    "image_context": "A Facebook post shows a building with the \"Delta Lloyd\" sign under a stormy sky, accompanied by a message about storm damage and insurance.",
+    "serial_number": 69
+  },
+  {
+    "text": "Winning the 1st stage of Absa Cape Epic in Oak Valley . .",
+    "aspect": "Absa Cape Epic",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "314073.jpg",
+    "image_context": "Two cyclists, covered in mud and raising their arms triumphantly, cross the finish line of a mountain bike race amidst cheering spectators.",
+    "serial_number": 70
+  },
+  {
+    "text": "RT @ petejohn10 : NEARLY 500 DONBASS CHILDREN HAVE GONE TO CRIMEA TO RECUPERATE AND REST",
+    "aspect": "CRIMEA",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1111710.jpg",
+    "image_context": "A serene coastal town with a calm harbor, surrounded by hills and buildings, suggesting a peaceful vacation setting.",
+    "serial_number": 71
+  },
+  {
+    "text": "RT @ NASCAR : Retweet to congratulate @ DaleJr for winning his 2nd race of 2014 ! # NASCAR",
+    "aspect": "# NASCAR",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "161160.jpg",
+    "image_context": "A jubilant man in a racing suit raises his fist in celebration amidst a shower of liquid, surrounded by cheering people in matching attire.",
+    "serial_number": 72
+  },
+  {
+    "text": "RT @ TheLitCritGuy : Mark Hamill celebrates # WorldBookDay by dressing up as Zizek .",
+    "aspect": "Mark Hamill",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "33700.jpg",
+    "image_context": "A bearded man with a neutral expression stands outdoors, wearing a leather jacket, suggesting a casual and contemplative mood.",
+    "serial_number": 73
+  },
+  {
+    "text": "RT @ TheLitCritGuy : Mark Hamill celebrates # WorldBookDay by dressing up as Zizek .",
+    "aspect": "Zizek",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "33700.jpg",
+    "image_context": "A bearded man with a neutral expression stands outdoors, wearing a leather jacket, suggesting a casual and contemplative mood.",
+    "serial_number": 74
+  },
+  {
+    "text": "I suspect Shayanna Jenkins is glad to be going home . Her testimony is over . No comment as she left # Fox25",
+    "aspect": "Shayanna Jenkins",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "42037.jpg",
+    "image_context": "A woman in a striped dress and blazer exits a building with a serious expression, accompanied by another woman, a man holding documents, and a police officer.",
+    "serial_number": 75
+  },
+  {
+    "text": "Our boy getting love on ESPN ! # GoJackets",
+    "aspect": "ESPN",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "363851.jpg",
+    "image_context": "A man in a suit holds a microphone with a serious expression, standing indoors in front of a sports-themed backdrop, suggesting a formal announcement or interview setting.",
+    "serial_number": 76
+  },
+  {
+    "text": "Our EMC Community Network is buzzing about # RedefinePossible . Check out our vPass :",
+    "aspect": "EMC Community Network",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "113570.jpg",
+    "image_context": "A man in a suit stands on stage, presenting confidently in front of a large screen displaying a technology product, while an audience observes attentively.",
+    "serial_number": 77
+  },
+  {
+    "text": "RT @ HuffingtonPost : The 10 best bargain resorts in the Caribbean",
+    "aspect": "Caribbean",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "73826.jpg",
+    "image_context": "Towering white clouds loom over a serene tropical beach lined with palm trees, evoking a sense of calm before an impending storm.",
+    "serial_number": 78
+  },
+  {
+    "text": "Did something from Pinterest that actually turned out right",
+    "aspect": "Pinterest",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "74604.jpg",
+    "image_context": "Two people are engaged in a craft project at a table, focusing on a chevron-patterned board, suggesting a collaborative and creative indoor activity.",
+    "serial_number": 79
+  },
+  {
+    "text": "@ NBCSports : FSU ' s hearing on Jameis Winston ' s sexual assault delayed until Dec . 1 . Of course",
+    "aspect": "FSU",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "64176.jpg",
+    "image_context": "A football player in maroon and gold attire, wearing a helmet, appears focused and determined on the field.",
+    "serial_number": 80
+  },
+  {
+    "text": "Check out this keyboard that was made with Kiwi for iOS 8 ! # getkiwiapp",
+    "aspect": "iOS 8",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "122423.jpg",
+    "image_context": "A digital keyboard interface is displayed on a screen, suggesting text input with predictive text options like \"I,\" \"Kiwi,\" and \"The.\"",
+    "serial_number": 81
+  },
+  {
+    "text": "Bad news : Raeside has left Victoria TC . Good news : his cartoons r still in # kamloops AM News .",
+    "aspect": "Raeside",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "627840.jpg",
+    "image_context": "Two men in a small boat on a lake look surprised as a large firefighting plane flies overhead, highlighting the irony of their presence interfering with emergency operations.",
+    "serial_number": 82
+  },
+  {
+    "text": "Bad news : Raeside has left Victoria TC . Good news : his cartoons r still in # kamloops AM News .",
+    "aspect": "Victoria TC",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "627840.jpg",
+    "image_context": "Two men in a small boat on a lake look surprised as a large firefighting plane flies overhead, highlighting the irony of their presence interfering with emergency operations.",
+    "serial_number": 83
+  },
+  {
+    "text": "Please join us in welcoming licensed real estate salesperson Dominique Ward to our Delmar office @ BHHSRealEstate",
+    "aspect": "Delmar",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "541630.jpg",
+    "image_context": "A smiling individual in professional attire is featured in a welcoming promotional image for a real estate company, conveying a friendly and approachable demeanor.",
+    "serial_number": 84
+  },
+  {
+    "text": "RT @ Morphing Celebs : Louis Tomlinson and Dave Franco",
+    "aspect": "Louis Tomlinson",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "14872.jpg",
+    "image_context": "Three individuals are shown in a collage, each with a slight smile and dressed formally, suggesting a positive and confident mood.",
+    "serial_number": 85
+  },
+  {
+    "text": "RT @ Morphing Celebs : Louis Tomlinson and Dave Franco",
+    "aspect": "Dave Franco",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "14872.jpg",
+    "image_context": "Three individuals are shown in a collage, each with a slight smile and dressed formally, suggesting a positive and confident mood.",
+    "serial_number": 86
+  },
+  {
+    "text": "Such an amazing book signing at Stonebriar Mall and it continues tomorrow ! # YourDivineFingerprint # ELCFingerprint",
+    "aspect": "Stonebriar Mall",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "92872.jpg",
+    "image_context": "A lively book signing event with a smiling author interacting with enthusiastic fans, some holding signed copies, in a bustling indoor setting.",
+    "serial_number": 87
+  },
+  {
+    "text": "Complain about Kyoto a bit and someone takes you to see the mayor . Interesting ! Mayor Kadokawa , thanks for your time !",
+    "aspect": "mayor",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1979462.jpg",
+    "image_context": "Two men in formal attire are smiling and shaking hands in an office, suggesting a positive and cordial interaction.",
+    "serial_number": 88
+  },
+  {
+    "text": "The remains of a memorial for a man shot and killed in Chicago ' s Austin neighborhood last week",
+    "aspect": "Chicago",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "70700.jpg",
+    "image_context": "A group of people, some wearing red shirts, stand and converse on a city sidewalk near a liquor store, with a deflated balloon hanging on a fence in the foreground.",
+    "serial_number": 89
+  },
+  {
+    "text": "Mexico rising # CDMX",
+    "aspect": "Mexico",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "71499.jpg",
+    "image_context": "A construction site with towering cranes and partially built skyscrapers looms over a graffiti-marked metal fence under a partly cloudy sky.",
+    "serial_number": 90
+  },
+  {
+    "text": "RT @ TheEconomist : Commercial property prices in Britain are 37 below their 2007 peak",
+    "aspect": "Britain",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "280092.jpg",
+    "image_context": "The graph illustrates the fluctuation of capital values and rents in Britain's commercial property market from 2000 to 2015, highlighting a peak in capital values around 2007 followed by a sharp decline.",
+    "serial_number": 91
+  },
+  {
+    "text": "Too cool - Skype conference by students at PSPA competition event today with editors of O , the Oprah Magazine .",
+    "aspect": "Skype",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "441031.jpg",
+    "image_context": "An audience in a dimly lit room attentively watches a video call on a large screen showing two seated individuals speaking from a conference room.",
+    "serial_number": 92
+  },
+  {
+    "text": "Too cool - Skype conference by students at PSPA competition event today with editors of O , the Oprah Magazine .",
+    "aspect": "PSPA competition",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "441031.jpg",
+    "image_context": "An audience in a dimly lit room attentively watches a video call on a large screen showing two seated individuals speaking from a conference room.",
+    "serial_number": 93
+  },
+  {
+    "text": "David Denholm from Kellogg kicking off the # ShareUrBreakfast DC event . RT to donate school bfast to kids in need ! ( cl )",
+    "aspect": "David Denholm",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "727215.jpg",
+    "image_context": "A man in a suit speaks at a podium in a formal indoor setting, surrounded by seated individuals and cereal boxes, suggesting a promotional or business event.",
+    "serial_number": 94
+  },
+  {
+    "text": "David Denholm from Kellogg kicking off the # ShareUrBreakfast DC event . RT to donate school bfast to kids in need ! ( cl )",
+    "aspect": "Kellogg",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "727215.jpg",
+    "image_context": "A man in a suit speaks at a podium in a formal indoor setting, surrounded by seated individuals and cereal boxes, suggesting a promotional or business event.",
+    "serial_number": 95
+  },
+  {
+    "text": "RT @ vicenews : Canada is helping fund pro - Ukrainian TV to combat Kremlin propaganda :",
+    "aspect": "Canada",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "23589.jpg",
+    "image_context": "None",
+    "serial_number": 96
+  },
+  {
+    "text": "RT @ BBCSporf : Adnan Januzaj at Man United : Goals : 4 Bookings for diving : 5",
+    "aspect": "Adnan Januzaj",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "777980.jpg",
+    "image_context": "A soccer player lies face down on the grass, wearing a red jersey, suggesting exhaustion or disappointment on the field.",
+    "serial_number": 97
+  },
+  {
+    "text": "RT @ BBCSporf : Adnan Januzaj at Man United : Goals : 4 Bookings for diving : 5",
+    "aspect": "Man United",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "777980.jpg",
+    "image_context": "A soccer player lies face down on the grass, wearing a red jersey, suggesting exhaustion or disappointment on the field.",
+    "serial_number": 98
+  },
+  {
+    "text": "RT @ Ashton5SOS : TONIGHT HERE IN AMSTERDAM !",
+    "aspect": "AMSTERDAM",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "124766.jpg",
+    "image_context": "A vibrant, playful poster featuring colorful icons like hearts, clouds, and musical symbols, advertising a 5 Seconds of Summer concert at Ziggo Dome Amsterdam on May 20, 2015.",
+    "serial_number": 99
+  },
+  {
+    "text": "RT @ PressHerald : Ex - IMF chief Strauss - Kahn cleared of pimping said he didn ' t know orgy women were prostitutes . http",
+    "aspect": "Strauss - Kahn",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "65711.jpg",
+    "image_context": "The individual appears serious and contemplative, with a slight frown, suggesting a somber or reflective mood.",
+    "serial_number": 100
+  },
+  {
+    "text": "RT @ CBSSports : His Airness . Emojified . # WorldEmojiDay",
+    "aspect": "Emojified",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "45650.jpg",
+    "image_context": "A basketball player in mid-air, wearing a red jersey, performs a slam dunk in a packed stadium, evoking excitement and admiration from the crowd.",
+    "serial_number": 101
+  },
+  {
+    "text": "RT @ TIMELESSBIEBER : when justin bieber says go win a grammy , you go win a damn grammy",
+    "aspect": "grammy",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1106183.jpg",
+    "image_context": "A tweet expresses a friendly and humorous interaction between two individuals, mentioning singing together and encouraging one to win a Grammy, accompanied by a smiling emoticon.",
+    "serial_number": 102
+  },
+  {
+    "text": "RT @ TIMELESSBIEBER : when justin bieber says go win a grammy , you go win a damn grammy",
+    "aspect": "grammy",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "1106183.jpg",
+    "image_context": "A tweet expresses a friendly and humorous interaction between two individuals, mentioning singing together and encouraging one to win a Grammy, accompanied by a smiling emoticon.",
+    "serial_number": 103
+  },
+  {
+    "text": "RT @ KING5Seattle : . @ DougBaldwinJr soaking in the moment # Seahawks Photo : Steven Bisig , USA Today Sports",
+    "aspect": "# Seahawks",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "572586.jpg",
+    "image_context": "Amidst a shower of confetti, a jubilant football player in uniform raises his arms in celebration, surrounded by cheering teammates wearing championship shirts.",
+    "serial_number": 104
+  },
+  {
+    "text": "ENOUGH WITH ISRAEL Israel PM : Iran Nuke deal will make war in Middle East",
+    "aspect": "Israel",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "790590.jpg",
+    "image_context": "A group of formally dressed individuals is seated around a conference table in a diplomatic setting, with flags in the background, indicating an international meeting or negotiation.",
+    "serial_number": 105
+  },
+  {
+    "text": "UVA representing and contributing at # alumnicharitychallenge @ Hardywood",
+    "aspect": "UVA",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "755149.jpg",
+    "image_context": "A woman smiles warmly while placing a bag into a food bank donation box at an outdoor event, suggesting a positive and charitable atmosphere.",
+    "serial_number": 106
+  },
+  {
+    "text": "We have you covered . See why the Data Protection Suite amp Data Domain are even better together",
+    "aspect": "Data Protection Suite",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "110150.jpg",
+    "image_context": "The image shows EMC's Data Domain hardware alongside a Data Protection Suite box, emphasizing data security and protection solutions.",
+    "serial_number": 107
+  },
+  {
+    "text": "RT @ MannfredNikolai : Russia Using INTERPOL To Target Russian Dissidents Living Abroad",
+    "aspect": "Russia",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "24022.jpg",
+    "image_context": "A man and woman stand closely against a brick wall, both with neutral expressions, wearing winter attire.",
+    "serial_number": 108
+  },
+  {
+    "text": "RT @ StrataNL : Nice shot of HNLMS Tromp and HNLMS Van Amstel in Plymouth Sound by @ AllanWarships @ kon marine # marine # defensie",
+    "aspect": "HNLMS Van",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "73331.jpg",
+    "image_context": "A large naval ship sails in open waters with a distant island visible, creating a serene and commanding maritime scene.",
+    "serial_number": 109
+  },
+  {
+    "text": "RT @ CBSSunday : Gallery : The haunting beauty of winter in Yellowstone",
+    "aspect": "Yellowstone",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "29115.jpg",
+    "image_context": "A serene winter landscape features snow-covered branches framing a distant view of steaming geysers under a clear blue sky.",
+    "serial_number": 110
+  },
+  {
+    "text": "RT @ rappersaid : When DoodleBob said , ME HOY MINOY HOY",
+    "aspect": "DoodleBob",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "928023.jpg",
+    "image_context": "A person dressed as a pirate with a playful expression, wearing a hat with a skull emblem, is accompanied by a parrot, surrounded by a fiery decorative frame.",
+    "serial_number": 111
+  },
+  {
+    "text": "RT @ HonoredTroops : Pat Tillman was the man",
+    "aspect": "Pat Tillman",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "41189.jpg",
+    "image_context": "The image juxtaposes a soldier in uniform with a determined expression beside a football player celebrating on the field, highlighting a message about heroism and service.",
+    "serial_number": 112
+  },
+  {
+    "text": "RT @ BoyBelieberDame : his neck is so suckable tho # MTVHottest Justin Bieber",
+    "aspect": "Justin Bieber",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "123416.jpg",
+    "image_context": "A person in a red jersey and cap covers their mouth with a hand, appearing contemplative or concerned in an outdoor setting.",
+    "serial_number": 113
+  },
+  {
+    "text": "RT @ bobsalerni : Secret Eighth day tattoos spotted at B amp N , Brighton , MI ! @ diannesalerni @ YLBrighton @ BrightonPatch",
+    "aspect": "Eighth day",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1056382.jpg",
+    "image_context": "A bookstore shelf displays \"The Eighth Day\" by Dianne K. Salerni, evoking a sense of mystery and adventure with its dramatic cover art.",
+    "serial_number": 114
+  },
+  {
+    "text": "@ DuPontPioneer 1184 in Tecumseh , Ontario . Great looking variety ! !",
+    "aspect": "Tecumseh",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "126236.jpg",
+    "image_context": "A young boy in an orange shirt stands quietly among tall corn plants, partially hidden, conveying a sense of curiosity and playfulness in a rural outdoor setting.",
+    "serial_number": 115
+  },
+  {
+    "text": "@ DuPontPioneer 1184 in Tecumseh , Ontario . Great looking variety ! !",
+    "aspect": "Ontario",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "126236.jpg",
+    "image_context": "A young boy in an orange shirt stands quietly among tall corn plants, partially hidden, conveying a sense of curiosity and playfulness in a rural outdoor setting.",
+    "serial_number": 116
+  },
+  {
+    "text": "Auto Torts week is finally upon us ! Have you signed up to join us in sunny Sandestin , FL ?",
+    "aspect": "Sandestin",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "780791.jpg",
+    "image_context": "A serene beachside resort features a large, inviting pool surrounded by yellow umbrellas and lounge chairs, suggesting a relaxing vacation atmosphere.",
+    "serial_number": 117
+  },
+  {
+    "text": "Auto Torts week is finally upon us ! Have you signed up to join us in sunny Sandestin , FL ?",
+    "aspect": "FL",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "780791.jpg",
+    "image_context": "A serene beachside resort features a large, inviting pool surrounded by yellow umbrellas and lounge chairs, suggesting a relaxing vacation atmosphere.",
+    "serial_number": 118
+  },
+  {
+    "text": "Luther College message on info literacy . @ bookbagsara might add to your repertoire !",
+    "aspect": "Luther College",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "196619.jpg",
+    "image_context": "A bulletin board features cutouts of characters with speech bubbles humorously offering academic advice, set against a colorful backdrop, creating a playful and motivational atmosphere.",
+    "serial_number": 119
+  },
+  {
+    "text": "RT @ mashable : Obama was greeted by Confederate flags when he got to Nashville yesterday :",
+    "aspect": "Obama",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "15046.jpg",
+    "image_context": "A person in a sleeveless shirt and cowboy hat stands on a roadside, holding Confederate flags as a black limousine with small American flags passes by, suggesting a politically charged atmosphere.",
+    "serial_number": 120
+  },
+  {
+    "text": "Nike Is Crushing It and on the Attack",
+    "aspect": "Nike",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "35603.jpg",
+    "image_context": "The image features the Nike logo prominently displayed against a textured black background, with the \"cmlviz.com\" branding above it.",
+    "serial_number": 121
+  },
+  {
+    "text": "More than a few Rays fans in town and packing Wrigley today # cubs # rays # wrigley100",
+    "aspect": "# rays",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "73440.jpg",
+    "image_context": "A baseball player interacts warmly with two young fans, one smiling eagerly, at a stadium, creating a joyful and engaging atmosphere.",
+    "serial_number": 122
+  },
+  {
+    "text": "RT @ blackvoices : We remember George Stinney # 28BlackLives",
+    "aspect": "George Stinney",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1500439.jpg",
+    "image_context": "A young boy in a striped shirt appears solemn and serious in a mugshot-style photograph, conveying a sense of vulnerability and gravity.",
+    "serial_number": 123
+  },
+  {
+    "text": "Found this board game at the Chelsea Flea Market . Oh how the times have changed for Bruce . . . .",
+    "aspect": "Bruce",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1062760.jpg",
+    "image_context": "The image shows a vintage board game box featuring an athlete in a red USA jersey, smiling broadly while running, suggesting a theme of sports and competition.",
+    "serial_number": 124
+  },
+  {
+    "text": "RT @ WSJ : Islamic State is expanding its reach in Libya , sending money , trainers and fighters",
+    "aspect": "Islamic State",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "22850.jpg",
+    "image_context": "A convoy of military vehicles with armed individuals is seen on a road, displaying a prominent black flag, suggesting a militant or insurgent activity.",
+    "serial_number": 125
+  },
+  {
+    "text": "RT @ WSJ : Islamic State is expanding its reach in Libya , sending money , trainers and fighters",
+    "aspect": "Libya",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "22850.jpg",
+    "image_context": "A convoy of military vehicles with armed individuals is seen on a road, displaying a prominent black flag, suggesting a militant or insurgent activity.",
+    "serial_number": 126
+  },
+  {
+    "text": "RT @ ESPNNFL : McShay picks Kevin White with 7 to CHI . Imagine Alshon Jeffrey amp Kevin White as a WR duo . # MelToddMock",
+    "aspect": "Alshon Jeffrey",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "108911.jpg",
+    "image_context": "Two football players, one in college attire and the other in professional gear, leap to catch a football, showcasing athleticism and competitive intensity.",
+    "serial_number": 127
+  },
+  {
+    "text": "RT @ jasonjwilde : Here is what Starke , Fla . police seized from # Packers DT Letroy Guion .",
+    "aspect": "Letroy Guion",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "46293.jpg",
+    "image_context": "A table in an office setting is filled with stacks of cash, a firearm, and a bag of a substance, suggesting a law enforcement display of seized items.",
+    "serial_number": 128
+  },
+  {
+    "text": "RT @ kjalee : Seriously Colgate , do we really need gendered toothpaste ?",
+    "aspect": "Colgate",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "115832.jpg",
+    "image_context": "A hand holds a Colgate MaxFresh toothpaste box labeled \"FOR MEN\" in a store aisle, suggesting a gender-specific marketing approach.",
+    "serial_number": 129
+  },
+  {
+    "text": "RT @ JenTheRiot : BLOGGERS NEEDED ! Please help with the Peace Love amp Romance tour . # SNRTG # IARTG",
+    "aspect": "Peace Love",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1072361.jpg",
+    "image_context": "A woman with a playful expression covers one eye with her hand, set against a striped background, promoting a blog tour for romance bloggers.",
+    "serial_number": 130
+  },
+  {
+    "text": "RCMP confirm discovery of body in Juniper . Search for missing woman called off .",
+    "aspect": "Juniper",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "627711.jpg",
+    "image_context": "A group of search and rescue team members, wearing helmets and gear, engage in a focused discussion outdoors with one member pointing, indicating direction or strategy.",
+    "serial_number": 131
+  },
+  {
+    "text": "RT @ mdj17 : Its the NRA ? ? ?",
+    "aspect": "NRA",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "694025.jpg",
+    "image_context": "A serious-looking man is pictured alongside bold text discussing gun trafficking charges, plea bargains, and a critique of the justice system.",
+    "serial_number": 132
+  },
+  {
+    "text": "Portugal 1 - 0 Serbia",
+    "aspect": "Portugal",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "119370.jpg",
+    "image_context": "A focused soccer player in a striped jersey looks intently to the side during a match, with a serious expression and styled hair, suggesting concentration and determination.",
+    "serial_number": 133
+  },
+  {
+    "text": "Public Works Authority has announced a temp . closure on Shamal Road tomorrow .",
+    "aspect": "Shamal Road",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "560264.jpg",
+    "image_context": "A map indicates a temporary road closure for 8 hours on Al Shamal Road, affecting traffic flow towards Doha and Al Shamal.",
+    "serial_number": 134
+  },
+  {
+    "text": "RT @ ProyectoAyudaJB : Rt por Jiley # MTVHottest Justin Bieber",
+    "aspect": "Justin Bieber",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "96470.jpg",
+    "image_context": "Two individuals pose playfully, one making a shushing gesture while the other points with a playful grimace, suggesting a lighthearted and fun interaction.",
+    "serial_number": 135
+  },
+  {
+    "text": "Why rape works as oppression amp why the UN does not : interesting views from Madeleine . . .",
+    "aspect": "UN",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "12842.jpg",
+    "image_context": "An older individual with short white hair sits confidently on a bench outdoors, wearing a dark outfit and a neutral expression, suggesting a contemplative or relaxed mood.",
+    "serial_number": 136
+  },
+  {
+    "text": "Malindi means business . I agree with @ JoyfulAmb @ hlamulo4 that this deserves a Frame ! Kwaaaaaaaa",
+    "aspect": "Malindi",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "660284.jpg",
+    "image_context": "A person in colorful attire enthusiastically embraces a large, vibrant portrait of a smiling woman indoors, conveying a sense of admiration and joy.",
+    "serial_number": 137
+  },
+  {
+    "text": "Glass Cliff Walk at Yunyang Longgang , # Chongqing - # China # outdoors # ttot # amazing",
+    "aspect": "Yunyang Longgang",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "414281.jpg",
+    "image_context": "A narrow glass walkway clings to a steep cliffside, offering a thrilling and adventurous experience at Yunyang Longgang National Park.",
+    "serial_number": 138
+  },
+  {
+    "text": "Glass Cliff Walk at Yunyang Longgang , # Chongqing - # China # outdoors # ttot # amazing",
+    "aspect": "# Chongqing",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "414281.jpg",
+    "image_context": "A narrow glass walkway clings to a steep cliffside, offering a thrilling and adventurous experience at Yunyang Longgang National Park.",
+    "serial_number": 139
+  },
+  {
+    "text": "Glass Cliff Walk at Yunyang Longgang , # Chongqing - # China # outdoors # ttot # amazing",
+    "aspect": "# China",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "414281.jpg",
+    "image_context": "A narrow glass walkway clings to a steep cliffside, offering a thrilling and adventurous experience at Yunyang Longgang National Park.",
+    "serial_number": 140
+  },
+  {
+    "text": "Goodbye to @ GeneralClark . Now we welcome Eurogroup President Jeroen @ J Dijsselbloem # ACEurozone",
+    "aspect": "President Jeroen",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1347104.jpg",
+    "image_context": "A serious-looking man in formal attire is featured on a large screen with text about Eurozone recovery, suggesting an economic discussion or presentation setting.",
+    "serial_number": 141
+  },
+  {
+    "text": "Cosmetic Dentist , Dr . Michael Schneider , introduces a zero - pain smile makeover TMRW !",
+    "aspect": "TMRW",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "170834.jpg",
+    "image_context": "A group of people sit comfortably in a living room setting, engaged in a lively and friendly conversation, with smiles and attentive postures suggesting a positive and welcoming atmosphere.",
+    "serial_number": 142
+  },
+  {
+    "text": "RT @ TheDailyEdge : Scott Walker : We should treat everyone the same in America . Except women , of course . # GOPDebate",
+    "aspect": "Scott Walker",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "922717.jpg",
+    "image_context": "The image features a serious political message about a controversial bill related to mandatory ultrasounds, juxtaposed with the FBI's definition of rape, highlighting a tense and critical social issue.",
+    "serial_number": 143
+  },
+  {
+    "text": "RT @ LucianaBianchi : My thoughts go to all mothers and fathers in Kenya . # 147notjustanumber # KenyaAttack",
+    "aspect": "Kenya",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "952916.jpg",
+    "image_context": "A silhouette of a woman's face, adorned with elaborate earrings, is integrated into the outline of Africa, with a tear on her cheek, conveying a poignant and emotional message.",
+    "serial_number": 144
+  },
+  {
+    "text": "RT @ kbyadgi : NTL training with these lovely ladies ! @ RoKhannaUSA # CA17 # WheresMike",
+    "aspect": "NTL",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "820763.jpg",
+    "image_context": "Three young women are indoors, smiling broadly at the camera, suggesting a joyful and friendly atmosphere.",
+    "serial_number": 145
+  },
+  {
+    "text": "@ BuzzFeed : The ages of all of the Disney Princesses This is quite worrying .",
+    "aspect": "Disney Princesses",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "494092.jpg",
+    "image_context": "A group of animated princesses in colorful, sparkling gowns stand together, smiling warmly and exuding a cheerful, friendly atmosphere.",
+    "serial_number": 146
+  },
+  {
+    "text": "Goodbye to Anacortes",
+    "aspect": "Anacortes",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "335477.jpg",
+    "image_context": "A person sits alone in a ferry cabin, looking down with a contemplative expression, as another ferry is visible outside the window.",
+    "serial_number": 147
+  },
+  {
+    "text": "Owned this for years . Learned at TCMFF 2014 part of 1938 whirlwind press to hype ADVENTURES OF ROBIN HOOD . # tcmparty",
+    "aspect": "ADVENTURES OF ROBIN HOOD",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "93761.jpg",
+    "image_context": "A man on a vintage magazine cover poses thoughtfully with a hand under his chin, exuding a calm and composed demeanor.",
+    "serial_number": 148
+  },
+  {
+    "text": "RT @ ManUtdGraphics : Awards The winner of the Jimmy Murphy Young Player of the Year award for the 2013 14 season is James Wilson ! # MUFC ht",
+    "aspect": "# MUFC",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "65091.jpg",
+    "image_context": "A soccer player in a red jersey kneels on the field with arms outstretched in celebration, surrounded by a cheering crowd.",
+    "serial_number": 149
+  },
+  {
+    "text": "RT @ Little Interest : My milk is best if used by Mario . # MildyInteresting",
+    "aspect": "Mario",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1450983.jpg",
+    "image_context": "A milk jug displays an expiration date of \"MAR 10 2015,\" suggesting outdated or expired content.",
+    "serial_number": 150
+  },
+  {
+    "text": "RT @ ForeignPolicy : Can Pope Francis heal the political divide on climate change ?",
+    "aspect": "Pope Francis",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "117083.jpg",
+    "image_context": "A person in white religious attire waves and smiles warmly in front of a grand architectural backdrop under a clear blue sky.",
+    "serial_number": 151
+  },
+  {
+    "text": "RT @ yizmo : YouTube beats Facebook amp Google to become top youth brand",
+    "aspect": "Google",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "571778.jpg",
+    "image_context": "A ranked list of popular youth brands highlights YouTube, Amazon, and Google as the top three, indicating their significant influence and appeal among young audiences.",
+    "serial_number": 152
+  },
+  {
+    "text": "RT @ AdrianEdmondson : Found a shop that Rik would have loved . . . ( His three basic needs satisfied in one place ) .",
+    "aspect": "Rik",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "32749.jpg",
+    "image_context": "The image shows the storefront of \"BJ's Sweets & Tobacco,\" a specialist tobacconist and confectioner, with a closed red shutter and signage indicating its location on Lichfield Street.",
+    "serial_number": 153
+  },
+  {
+    "text": "RT @ vergecars : Ghostbusters director Paul Feig shows off the new Ecto - 1 car",
+    "aspect": "Paul Feig",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "45690.jpg",
+    "image_context": "A vintage, customized vehicle with a distinctive logo and equipment on top is parked indoors, evoking nostalgia and excitement.",
+    "serial_number": 154
+  },
+  {
+    "text": "RT @ daisyjuggalot : Ppl be like in Africa everyone have their hutts or live in the bush ! Well Welcome to my # Hutt",
+    "aspect": "Africa",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "30407.jpg",
+    "image_context": "A child sits joyfully on a car parked in front of a large, elegant house, conveying a sense of happiness and comfort in a residential setting.",
+    "serial_number": 155
+  },
+  {
+    "text": "Dikgacoi sent to boot camp https : t . co C4xrKRWae6",
+    "aspect": "Dikgacoi",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1945937.jpg",
+    "image_context": "A smiling soccer player in a blue and orange training outfit stands on a field, exuding a sense of joy and camaraderie with teammates in the background.",
+    "serial_number": 156
+  },
+  {
+    "text": "RT @ ketchupxmgc : Rt for Louis Tomlinson Fav for Carter Reynolds",
+    "aspect": "Carter Reynolds",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "32115.jpg",
+    "image_context": "A person wearing a casual sweater and backwards cap smiles warmly while pointing playfully with both hands in an indoor setting.",
+    "serial_number": 157
+  },
+  {
+    "text": "VOTE TRUMP FUCK Ted Cruz tries to pull Trump card on Senate floor https : t . co DMiXRZC9Qm",
+    "aspect": "Trump",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "790683.jpg",
+    "image_context": "A man in a suit stands solemnly in a formal setting, possibly a legislative chamber, suggesting a serious or contemplative moment.",
+    "serial_number": 158
+  },
+  {
+    "text": "Hello , Israel ! Tel Aviv and the view to Jaffa",
+    "aspect": "Jaffa",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "73787.jpg",
+    "image_context": "A man on a bicycle gazes at a crowded beach during sunset, creating a relaxed and leisurely atmosphere.",
+    "serial_number": 159
+  },
+  {
+    "text": "# Barnstable Harbor after the big northeastern ! 12 inches of heavy slushy white stuff . . .",
+    "aspect": "# Barnstable Harbor",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "603511.jpg",
+    "image_context": "A serene, snow-covered landscape with a frozen body of water and distant houses under a clear blue sky evokes a sense of calm and isolation.",
+    "serial_number": 160
+  },
+  {
+    "text": "You are invited to our BBQ Garden Party on Sat 20 September at deafPLUS , Trinity Centre , London . Pls RT and share .",
+    "aspect": "BBQ Garden Party",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "647159.jpg",
+    "image_context": "The image promotes a family-friendly BBQ garden party hosted by Deaf Parenting UK, featuring activities like a bouncing castle and face painting, set in a large garden with provisions for indoor events in case of rain.",
+    "serial_number": 161
+  },
+  {
+    "text": "RT @ THR : TV Ratings : Bruce Jenner Interview Nabs 16 . 9 Million Viewers",
+    "aspect": "Nabs",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1308471.jpg",
+    "image_context": "The person appears contemplative and serious, sitting indoors in a blue shirt during an interview setting with a news logo visible.",
+    "serial_number": 162
+  },
+  {
+    "text": "Elevate Life Worship is holding open auditions for vocals and band on July 26 ! Learn more :",
+    "aspect": "Elevate Life Worship",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "91196.jpg",
+    "image_context": "A person in a hat and denim jacket plays an electric guitar on stage, suggesting a musical audition setting.",
+    "serial_number": 163
+  },
+  {
+    "text": "No one from public steps up to speak in favor of the asking Mayor Sims to resign . Several stand to speak against .",
+    "aspect": "Mayor Sims",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "418409.jpg",
+    "image_context": "A diverse group of people sits attentively in a crowded auditorium, with some individuals standing and engaging in conversation, suggesting a formal or community meeting.",
+    "serial_number": 164
+  },
+  {
+    "text": "RT @ SportsCenter : Phil Mickelson is 5 strokes back . The last time he won a major , he trailed by 5 strokes entering final round .",
+    "aspect": "Phil Mickelson",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "62796.jpg",
+    "image_context": "A golfer in a pink shirt stands pensively on the green, surrounded by an attentive crowd under a clear sky.",
+    "serial_number": 165
+  },
+  {
+    "text": "RT @ darthvette : Beautiful Street View Somewhere in Verona , Italy . .",
+    "aspect": "Verona",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "554970.jpg",
+    "image_context": "A picturesque, narrow alleyway with colorful buildings and lush greenery evokes a serene and charming atmosphere.",
+    "serial_number": 166
+  },
+  {
+    "text": "RT @ darthvette : Beautiful Street View Somewhere in Verona , Italy . .",
+    "aspect": "Italy",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "554970.jpg",
+    "image_context": "A picturesque, narrow alleyway with colorful buildings and lush greenery evokes a serene and charming atmosphere.",
+    "serial_number": 167
+  },
+  {
+    "text": "Hi I am Shimba",
+    "aspect": "Shimba",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1310063.jpg",
+    "image_context": "A small beagle puppy is being held up, looking directly at the camera with a calm expression, highlighting its soft fur and tiny paws.",
+    "serial_number": 168
+  },
+  {
+    "text": "RT @ DazedMagazine : Watch a German news anchor call out racism against refugees live on air :",
+    "aspect": "German",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "759594.jpg",
+    "image_context": "A woman in a yellow outfit stands solemnly in a news studio with a world map backdrop, conveying a serious or concerned tone.",
+    "serial_number": 169
+  },
+  {
+    "text": "RT @ WESH : Video : Valencia College sued over forced vaginal exams",
+    "aspect": "Valencia College",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "1751885.jpg",
+    "image_context": "A legal document titled \"COMPLAINT AND DEMAND FOR JURY TRIAL\" is shown, indicating a formal legal proceeding involving multiple parties.",
+    "serial_number": 170
+  },
+  {
+    "text": "RT @ SMendesTour : Shawn with Ohio squad today at his M amp G in Cleveland , OH . ( 7 21 - 2015 ) . @ ayhtdwshawn",
+    "aspect": "Shawn",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "499573.jpg",
+    "image_context": "A group of five smiling young people pose closely together, exuding joy and camaraderie in a casual setting.",
+    "serial_number": 171
+  },
+  {
+    "text": "RT @ 90swomen : Naomi Campbell and Michael Jackson x 90s .",
+    "aspect": "Naomi Campbell",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "118562.jpg",
+    "image_context": "A man and woman are engaged in a playful dance, smiling at each other, in a casual outdoor setting.",
+    "serial_number": 172
+  },
+  {
+    "text": "Anyone near Akron , come see the Avant Garde Craft Show @ TheAkronTangier today 11 - 6",
+    "aspect": "Avant Garde Craft Show",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "115220.jpg",
+    "image_context": "The image is a promotional flyer for the Avant-Garde Art & Craft Show on December 2, 2012, featuring local handmade art and craft vendors, with free admission and a portion of proceeds benefiting a local animal rescue.",
+    "serial_number": 173
+  },
+  {
+    "text": "RT @ ProSyndicate : Incredible Mr . Moon fan art from Craig once again !",
+    "aspect": "Craig",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "702116.jpg",
+    "image_context": "A masked figure in protective gear holds a weapon, shouting \"ALFIE!\" in a tense and dramatic setting.",
+    "serial_number": 174
+  },
+  {
+    "text": "Starlin Castro with better glove work in the 6th , tagging out Alexei Ramirez on a stolen base",
+    "aspect": "Starlin Castro",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "70495.jpg",
+    "image_context": "A baseball player in blue leaps mid-air to tag a sliding opponent in white on a sandy field, capturing a moment of intense athletic competition.",
+    "serial_number": 175
+  },
+  {
+    "text": "RT @ mccannswild : tumblr is DEFENDING JUSTIN WHAT A DAY TO BE ALIVE",
+    "aspect": "JUSTIN",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "566271.jpg",
+    "image_context": "A split image shows two individuals with neutral expressions, one in a leather jacket and the other in a pink outfit, accompanied by a headline about a public critique.",
+    "serial_number": 176
+  },
+  {
+    "text": "RT @ KennettDems : RT if you are voting for Democrats on November 4th ! # GOTV",
+    "aspect": "Democrats",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "539593.jpg",
+    "image_context": "The image features a stylized donkey in red and blue, encouraging viewers to support Democrats in the upcoming election on November 4th.",
+    "serial_number": 177
+  },
+  {
+    "text": "RT @ KennettDems : RT if you are voting for Democrats on November 4th ! # GOTV",
+    "aspect": "# GOTV",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "539593.jpg",
+    "image_context": "The image features a stylized donkey in red and blue, encouraging viewers to support Democrats in the upcoming election on November 4th.",
+    "serial_number": 178
+  },
+  {
+    "text": "Flash Flood Warning for Suffolk and Nassau again . This will be in effect through 8 : 15pm . @ PIX11News",
+    "aspect": "Flash Flood Warning",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "477288.jpg",
+    "image_context": "A map highlights Nassau and Suffolk counties in green under a flash flood warning, indicating potential severe weather conditions.",
+    "serial_number": 179
+  },
+  {
+    "text": "Flash Flood Warning for Suffolk and Nassau again . This will be in effect through 8 : 15pm . @ PIX11News",
+    "aspect": "Suffolk",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "477288.jpg",
+    "image_context": "A map highlights Nassau and Suffolk counties in green under a flash flood warning, indicating potential severe weather conditions.",
+    "serial_number": 180
+  },
+  {
+    "text": "RT @ BEAUTIFULPlCS : Happy New Year from Washington D . C . ! # NYE # 2015",
+    "aspect": "New Year",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "128664.jpg",
+    "image_context": "A vibrant display of fireworks illuminates the night sky above iconic landmarks, creating a celebratory and patriotic atmosphere.",
+    "serial_number": 181
+  },
+  {
+    "text": "RT @ BEAUTIFULPlCS : Happy New Year from Washington D . C . ! # NYE # 2015",
+    "aspect": "# NYE",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "128664.jpg",
+    "image_context": "A vibrant display of fireworks illuminates the night sky above iconic landmarks, creating a celebratory and patriotic atmosphere.",
+    "serial_number": 182
+  },
+  {
+    "text": "RT @ thehill : Warren pokes fun at Scott Brown , Sarah Palin :",
+    "aspect": "Scott Brown",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "617017.jpg",
+    "image_context": "A person in a purple blazer speaks passionately indoors, gesturing with one hand, suggesting engagement in a serious discussion or debate.",
+    "serial_number": 183
+  },
+  {
+    "text": "@ ForTheMen : Kaepernick is a savage @ Abyymartell",
+    "aspect": "Kaepernick",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "164471.jpg",
+    "image_context": "A Twitter exchange shows a user criticizing an athlete's workout routine, to which the athlete responds defensively, highlighting social media follower count and dismissing the critique.",
+    "serial_number": 184
+  },
+  {
+    "text": "RT @ DNAinfoCHI : Photojournalist John H . White ' s epic career celebrated with Roosevelt University exhibit",
+    "aspect": "Roosevelt University",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "73236.jpg",
+    "image_context": "Two children joyfully run towards the camera with wide smiles, set against a backdrop of a large apartment building, conveying a sense of carefree happiness.",
+    "serial_number": 185
+  },
+  {
+    "text": "RT @ jypnation : 2PM WORLD TOUR GO CRAZY IN JAKARTA 2014 . 12 . 05 ( Fri ) Istora Senayan - Komplek Gelora Bung Karno",
+    "aspect": "2PM WORLD TOUR GO CRAZY",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "5898.jpg",
+    "image_context": "A group of six energetic individuals in colorful attire are jumping and posing enthusiastically on stage, conveying excitement and anticipation for a world tour event.",
+    "serial_number": 186
+  },
+  {
+    "text": "Amb . Martin Kimani to be Director National Counter Terrorism Centre . Incumbent Isaac Ochieng to serve as envoy of Kenya",
+    "aspect": "Martin Kimani",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1005776.jpg",
+    "image_context": "A rotating globe with the bold text \"BREAKING NEWS\" suggests an urgent or important announcement.",
+    "serial_number": 187
+  },
+  {
+    "text": "Amb . Martin Kimani to be Director National Counter Terrorism Centre . Incumbent Isaac Ochieng to serve as envoy of Kenya",
+    "aspect": "Isaac Ochieng",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1005776.jpg",
+    "image_context": "A rotating globe with the bold text \"BREAKING NEWS\" suggests an urgent or important announcement.",
+    "serial_number": 188
+  },
+  {
+    "text": "RT @ dreamteamfc : How many players will Aston Villa have left by the start of the season ?",
+    "aspect": "Aston Villa",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "386184.jpg",
+    "image_context": "A man in a formal outfit gestures emphatically with his hand, appearing focused and intense, possibly in a coaching or instructing context.",
+    "serial_number": 189
+  },
+  {
+    "text": "RT @ YIofficial : Retweet if you agree with UKIP policy .",
+    "aspect": "UKIP",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1301326.jpg",
+    "image_context": "A serious-looking man is featured beside bold text indicating 70% of Britons support an Australian-style points-based immigration system, with a call to share and support UKIP policy.",
+    "serial_number": 190
+  },
+  {
+    "text": "Beautiful views in the Magaliesberg last week :",
+    "aspect": "Magaliesberg",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1406677.jpg",
+    "image_context": "A serene landscape view captures a lush, expansive valley under a bright, hazy sky, evoking a sense of tranquility and awe.",
+    "serial_number": 191
+  },
+  {
+    "text": "RT @ metmuseum : Feast your eyes on one of Candace Wheeler ' s most luxurious textiles : # WomensHistoryMonth",
+    "aspect": "Candace Wheeler",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "74577.jpg",
+    "image_context": "A decorative textile features an intricate pattern of pink flowers and green vines, evoking a sense of elegance and natural beauty.",
+    "serial_number": 192
+  },
+  {
+    "text": "Harrods Hotel Kuala Lumpur , a 7 - star hotel to open in 2018 - # MyFest2015 # Malaysia # Harrods",
+    "aspect": "Harrods Hotel Kuala Lumpur",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "414719.jpg",
+    "image_context": "The image showcases a modern, luxurious high-rise hotel in Kuala Lumpur with vibrant city lights and a prominent \"Harrods\" sign, suggesting an upscale and prestigious atmosphere.",
+    "serial_number": 193
+  },
+  {
+    "text": "RT @ tunkuv : Wedding photo becomes symbol of South Korea MERS scare",
+    "aspect": "MERS",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "34108.jpg",
+    "image_context": "A large group of people, all wearing face masks, pose together in a formal setting with a bride and groom at the center, suggesting a wedding celebration.",
+    "serial_number": 194
+  },
+  {
+    "text": "Wrong way # Bears : # Patriots Ninkovich takes a fumble for a TD ahead of Jake Long",
+    "aspect": "Ninkovich",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "72661.jpg",
+    "image_context": "A football player in navy uniform runs with the ball while another player in white dives to tackle him on a sports field, with a referee observing the action.",
+    "serial_number": 195
+  },
+  {
+    "text": "RT @ Squawka : FA Cup final : Arsenal vs . Aston Villa , Saturday 30th May .",
+    "aspect": "Arsenal",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "617873.jpg",
+    "image_context": "A group of soccer players in red and white jerseys celebrate on the field, embracing and smiling, suggesting a moment of triumph or victory.",
+    "serial_number": 196
+  },
+  {
+    "text": "RT @ KABAR CHELSEA : Fernando Torres . # CB",
+    "aspect": "Fernando Torres",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "30136.jpg",
+    "image_context": "A series of images shows a soccer player in various moments of struggle and determination on the field, accompanied by the encouraging text \"DON'T GIVE UP FERNANDO TORRES.\"",
+    "serial_number": 197
+  },
+  {
+    "text": "A fire has reportedly broken out at a prison in Florence . -",
+    "aspect": "Florence",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "422153.jpg",
+    "image_context": "Thick black smoke billows into the sky from a fire in an industrial area, creating a sense of urgency and concern.",
+    "serial_number": 198
+  },
+  {
+    "text": "The Best way to visit the Louvre Museum . # paris",
+    "aspect": "# paris",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "483163.jpg",
+    "image_context": "The image depicts the illuminated glass pyramid of the Louvre Museum at night, creating a serene and majestic atmosphere with no visible human interaction.",
+    "serial_number": 199
+  },
+  {
+    "text": "RT @ AnakNonton : # SeputarFilm Bruno Mars is Roberto in RIO 2 movie ! Coming soon !",
+    "aspect": "Roberto",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "716402.jpg",
+    "image_context": "None",
+    "serial_number": 200
+  },
+  {
+    "text": "RT @ AnakNonton : # SeputarFilm Bruno Mars is Roberto in RIO 2 movie ! Coming soon !",
+    "aspect": "RIO 2",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "716402.jpg",
+    "image_context": "None",
+    "serial_number": 201
+  },
+  {
+    "text": "RT @ TarHeelPhoto : Students gathering at the Dean E . Smith Center to honor Dean Smith",
+    "aspect": "Dean Smith",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "71741.jpg",
+    "image_context": "A large group of people gather solemnly at night around a memorial with flowers, as \"RIP DEAN\" is written on the ground, conveying a sense of mourning and remembrance.",
+    "serial_number": 202
+  },
+  {
+    "text": "Visiting Bologna University , where arts amp sciences equally important . Cf . by @ sarahchurchwell",
+    "aspect": "Bologna University",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1413646.jpg",
+    "image_context": "A collage featuring the University of Bologna's emblem, an illustration blending science and art, and a vibrant street scene with historic architecture, evokes a sense of academic tradition and cultural richness.",
+    "serial_number": 203
+  },
+  {
+    "text": "RT @ CapX : Trump and Corbyn are a symptom of our shrunken politics - @ rcolvile",
+    "aspect": "Corbyn",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "33118.jpg",
+    "image_context": "A man stands at a podium with an expressive, open-mouthed gesture, set against a backdrop of an American flag, suggesting a speech or public address.",
+    "serial_number": 204
+  },
+  {
+    "text": "RT @ businessinsider : 22 stunning aerial photos of Cuba",
+    "aspect": "Cuba",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1357925.jpg",
+    "image_context": "A serene aerial view of a pristine coastline with turquoise waters and lush greenery evokes a sense of tranquility and natural beauty.",
+    "serial_number": 205
+  },
+  {
+    "text": "Great morning with @ mkfm at Bletchley Park pushing the button for the FM application , fingers crossed !",
+    "aspect": "Bletchley Park",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "423135.jpg",
+    "image_context": "A group of smiling individuals in formal attire gather closely around a laptop in an indoor setting, suggesting a celebratory or collaborative event.",
+    "serial_number": 206
+  },
+  {
+    "text": "RT @ ymcacampwidji : The Percy Jackson themed lit camp went on a field trip to the Parthenon !",
+    "aspect": "The Percy Jackson",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "568010.jpg",
+    "image_context": "A large group of smiling children in bright orange shirts and a few adults in blue shirts pose together on steps in front of a historic building, suggesting a cheerful group outing or camp activity.",
+    "serial_number": 207
+  },
+  {
+    "text": "RT @ ymcacampwidji : The Percy Jackson themed lit camp went on a field trip to the Parthenon !",
+    "aspect": "Parthenon",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "568010.jpg",
+    "image_context": "A large group of smiling children in bright orange shirts and a few adults in blue shirts pose together on steps in front of a historic building, suggesting a cheerful group outing or camp activity.",
+    "serial_number": 208
+  },
+  {
+    "text": "Jermon Bushrod looking all - mighty in the tunnel , but all downhill from there . # Bears photos :",
+    "aspect": "Jermon Bushrod",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "72867.jpg",
+    "image_context": "A football player in full gear, number 74, emerges confidently from a tunnel with dramatic lighting and smoke, suggesting anticipation and excitement before a game.",
+    "serial_number": 209
+  },
+  {
+    "text": "Jermon Bushrod looking all - mighty in the tunnel , but all downhill from there . # Bears photos :",
+    "aspect": "# Bears",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "72867.jpg",
+    "image_context": "A football player in full gear, number 74, emerges confidently from a tunnel with dramatic lighting and smoke, suggesting anticipation and excitement before a game.",
+    "serial_number": 210
+  },
+  {
+    "text": "RT @ BuzzFeed : A Kentucky clerk who kept getting confused for Kim Davis made an amazing t - shirt",
+    "aspect": "Kentucky",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1015598.jpg",
+    "image_context": "A woman stands confidently outdoors, smiling broadly while wearing a red shirt with a humorous message, suggesting a playful or defiant sentiment.",
+    "serial_number": 211
+  },
+  {
+    "text": "RT @ BuzzFeed : A Kentucky clerk who kept getting confused for Kim Davis made an amazing t - shirt",
+    "aspect": "Kim Davis",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "1015598.jpg",
+    "image_context": "A woman stands confidently outdoors, smiling broadly while wearing a red shirt with a humorous message, suggesting a playful or defiant sentiment.",
+    "serial_number": 212
+  },
+  {
+    "text": "RT @ shaun505 : 4 people dead after plane crashes near Silver City .",
+    "aspect": "Silver City",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "1114560.jpg",
+    "image_context": "Two individuals walk near a blazing fire with thick smoke, creating a tense and urgent atmosphere in a rural setting.",
+    "serial_number": 213
+  },
+  {
+    "text": "RT @ SenTedCruz : What is the Export - Import Bank ? Even then - Senator Obama agrees : Corporate Welfare . # EndExIm",
+    "aspect": "Export - Import Bank",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "62463.jpg",
+    "image_context": "A man in a suit stands in a formal indoor setting, gesturing emphatically with a serious expression, suggesting he is speaking or presenting passionately.",
+    "serial_number": 214
+  },
+  {
+    "text": "RT @ BBCNewsAsia : Why is the US Navy practising for war with China ? @ wingcommander1 reports",
+    "aspect": "US Navy",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "46517.jpg",
+    "image_context": "A fleet of naval ships, led by an aircraft carrier, navigates through open waters, suggesting a coordinated military operation or exercise.",
+    "serial_number": 215
+  },
+  {
+    "text": "RT @ BBCNewsAsia : Why is the US Navy practising for war with China ? @ wingcommander1 reports",
+    "aspect": "China",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "46517.jpg",
+    "image_context": "A fleet of naval ships, led by an aircraft carrier, navigates through open waters, suggesting a coordinated military operation or exercise.",
+    "serial_number": 216
+  },
+  {
+    "text": "Tornado Warning for Salem County in Southern NJ until 5pm . @ PIX11News",
+    "aspect": "Southern NJ",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "478477.jpg",
+    "image_context": "A weather map displays severe thunderstorm and tornado warnings with highlighted areas in red and yellow, indicating potential danger.",
+    "serial_number": 217
+  },
+  {
+    "text": "RT @ 2Ls1T : Either I need to tweak my profile or Reed need to improve their job recommendation software .",
+    "aspect": "Reed",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "115614.jpg",
+    "image_context": "An email notification from reed.co.uk announces job openings at Nando's, MI6, and Soho House, indicating diverse employment opportunities.",
+    "serial_number": 218
+  },
+  {
+    "text": "HTC One Max , Y U so big ? ?",
+    "aspect": "HTC One Max",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "673088.jpg",
+    "image_context": "A silver HTC smartphone lies on a wooden surface, showcasing a sleek design with a 4G LTE logo.",
+    "serial_number": 219
+  },
+  {
+    "text": "Severe thunderstorm warnings continues for parts of NW NJ - - expect heavy rain and gusty winds . @ PIX11News",
+    "aspect": "NW",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "478689.jpg",
+    "image_context": "A live radar image shows a cluster of intense thunderstorms with red and yellow areas indicating heavy rainfall over Jefferson, suggesting severe weather conditions.",
+    "serial_number": 220
+  },
+  {
+    "text": "Here you go Dallas fans .",
+    "aspect": "Dallas",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "20276.jpg",
+    "image_context": "A giant eagle stands dominantly over a miniature football player lying on the ground, evoking a surreal and humorous contrast.",
+    "serial_number": 221
+  },
+  {
+    "text": "RT @ PhxKen : AWESOME QUOTE BY CARTER G . WOODSON . . . . WANT OUT OF THE BLACK GHETTO ? ? READ THIS",
+    "aspect": "CARTER",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "1140731.jpg",
+    "image_context": "A solemn portrait of a man in formal attire is accompanied by a thought-provoking quote addressing social issues, attributed to Carter G. Woodson.",
+    "serial_number": 222
+  }
+]

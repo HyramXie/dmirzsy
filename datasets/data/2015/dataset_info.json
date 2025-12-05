@@ -1,0 +1,18 @@
+{
+  "mllm_demo": {
+    "file_name": "test+context_15.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "alpaca_en_demo": {
+    "file_name": "test_c_text.json"
+  }
+}

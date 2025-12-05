@@ -1,0 +1,2702 @@
+[
+  {
+    "text": "Rise + shine : @ zendaya takes flight on @ voguemagazine ' s July cover wearing CALVIN KLEIN 205 W39NYC .",
+    "aspect": "voguemagazine",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2191.jpg",
+    "image_context": "The image features a confident woman with a poised expression, wearing a stylish feathered outfit, suggesting elegance and empowerment in a fashion magazine setting.",
+    "serial_number": 1
+  },
+  {
+    "text": "Rise + shine : @ zendaya takes flight on @ voguemagazine ' s July cover wearing CALVIN KLEIN 205 W39NYC .",
+    "aspect": "CALVIN KLEIN",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2191.jpg",
+    "image_context": "The image features a confident woman with a poised expression, wearing a stylish feathered outfit, suggesting elegance and empowerment in a fashion magazine setting.",
+    "serial_number": 2
+  },
+  {
+    "text": "Barcelona Crowned 2016 La Liga Champions , Suarez Sink . . .",
+    "aspect": "Suarez",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_17_852.jpg",
+    "image_context": "Three soccer players in matching jerseys celebrate energetically on the field, with one shouting and others smiling broadly, conveying excitement and camaraderie.",
+    "serial_number": 3
+  },
+  {
+    "text": "Barack Obama is gravely concerned about carbon ' s impact on our planet .",
+    "aspect": "Barack Obama",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_1125.jpg",
+    "image_context": "Two people are on the deck of a luxurious yacht, one taking a photo, while others in white attire gather near a smaller boat, suggesting a relaxed, affluent setting.",
+    "serial_number": 4
+  },
+  {
+    "text": "Meta Theory : Donald Trump will win the election WITH THE POWER OF THE CHAOS EMERALDS ? !",
+    "aspect": "Donald Trump",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2958.jpg",
+    "image_context": "A man in a suit with a confident smile stands indoors, gesturing as colorful, illustrated diamonds float around him, suggesting a sense of control and opulence.",
+    "serial_number": 5
+  },
+  {
+    "text": "Houston ‘ has emerged ’ as serious threat to sign Chris Paul ( per @ ESPNSteinLine )",
+    "aspect": "Houston",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2022.jpg",
+    "image_context": "A basketball player in a Clippers jersey is intensely dribbling the ball on a court, focused and poised, with a crowd watching from the stands.",
+    "serial_number": 6
+  },
+  {
+    "text": "Fifth Harmony ' s seats at the @ BBMAs ! They are in front of Kelly Rowland and behind Kesha !",
+    "aspect": "Kelly Rowland",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1552.jpg",
+    "image_context": "Reserved seating in an indoor venue displays signs for musical acts, indicating anticipation for a formal event or award ceremony.",
+    "serial_number": 7
+  },
+  {
+    "text": "Fifth Harmony ' s seats at the @ BBMAs ! They are in front of Kelly Rowland and behind Kesha !",
+    "aspect": "Kesha",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1552.jpg",
+    "image_context": "Reserved seating in an indoor venue displays signs for musical acts, indicating anticipation for a formal event or award ceremony.",
+    "serial_number": 8
+  },
+  {
+    "text": "Listen to @ AggieBaseball take on TCU in the elimination game tomorrow at 12 : 45 pm on The Zone !",
+    "aspect": "TCU",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "17_06_15717.jpg",
+    "image_context": "The image features the Texas A&M logo prominently displayed with the word \"BASEBALL\" beneath it, suggesting a focus on sports or team pride.",
+    "serial_number": 9
+  },
+  {
+    "text": "Listen to @ AggieBaseball take on TCU in the elimination game tomorrow at 12 : 45 pm on The Zone !",
+    "aspect": "The Zone",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_15717.jpg",
+    "image_context": "The image features the Texas A&M logo prominently displayed with the word \"BASEBALL\" beneath it, suggesting a focus on sports or team pride.",
+    "serial_number": 10
+  },
+  {
+    "text": "Meek Mill beats Drake , Kendrick Lamar , Future to win Top Rap Album at Billboard Music Awards",
+    "aspect": "Drake",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3718.jpg",
+    "image_context": "A man wearing sunglasses and a red beanie smiles confidently while holding a pendant, suggesting a relaxed and celebratory atmosphere.",
+    "serial_number": 11
+  },
+  {
+    "text": "Meek Mill beats Drake , Kendrick Lamar , Future to win Top Rap Album at Billboard Music Awards",
+    "aspect": "Kendrick Lamar",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3718.jpg",
+    "image_context": "A man wearing sunglasses and a red beanie smiles confidently while holding a pendant, suggesting a relaxed and celebratory atmosphere.",
+    "serial_number": 12
+  },
+  {
+    "text": "Meek Mill beats Drake , Kendrick Lamar , Future to win Top Rap Album at Billboard Music Awards",
+    "aspect": "Future",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3718.jpg",
+    "image_context": "A man wearing sunglasses and a red beanie smiles confidently while holding a pendant, suggesting a relaxed and celebratory atmosphere.",
+    "serial_number": 13
+  },
+  {
+    "text": "@ marshalls this is your New Rochelle store . Conflicted , because I got a sweet outfit for $ 40 .",
+    "aspect": "marshalls",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_125.jpg",
+    "image_context": "A pile of broken hangers and stuffing lies scattered on a wooden floor, suggesting disarray or a recent cleanup.",
+    "serial_number": 14
+  },
+  {
+    "text": "Today we ' re remembering former U . S . President John F . Kennedy , who was born on this day 100 years ago",
+    "aspect": "John F . Kennedy",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4359.jpg",
+    "image_context": "A solemn portrait of a man in formal attire with a neutral expression, accompanied by text commemorating his life dates.",
+    "serial_number": 15
+  },
+  {
+    "text": "Nirvana and Foos guitar legend Pat Smear is currently loving # GlastonburyFestival . And is 57 . # Inspiration",
+    "aspect": "Nirvana",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_9064.jpg",
+    "image_context": "A musician with a joyful expression plays guitar passionately on stage, surrounded by band members and musical equipment, creating an energetic and lively atmosphere.",
+    "serial_number": 16
+  },
+  {
+    "text": "Nirvana and Foos guitar legend Pat Smear is currently loving # GlastonburyFestival . And is 57 . # Inspiration",
+    "aspect": "Foos",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_9064.jpg",
+    "image_context": "A musician with a joyful expression plays guitar passionately on stage, surrounded by band members and musical equipment, creating an energetic and lively atmosphere.",
+    "serial_number": 17
+  },
+  {
+    "text": "Nirvana and Foos guitar legend Pat Smear is currently loving # GlastonburyFestival . And is 57 . # Inspiration",
+    "aspect": "Pat Smear",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_9064.jpg",
+    "image_context": "A musician with a joyful expression plays guitar passionately on stage, surrounded by band members and musical equipment, creating an energetic and lively atmosphere.",
+    "serial_number": 18
+  },
+  {
+    "text": "SEE VIDEO ! WWE Monday Night Raw 12 / 9 / 13 - Daniel Bryan gets . . .",
+    "aspect": "Daniel Bryan",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2780.jpg",
+    "image_context": "A group of people, including a man in a suit speaking into a microphone, stand in a wrestling ring with attentive expressions, suggesting a serious or important announcement.",
+    "serial_number": 19
+  },
+  {
+    "text": "I ' ve just watched episode S05E20 of Dragon Ball Super ! # dragonballchou",
+    "aspect": "dragonballchou",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_242.jpg",
+    "image_context": "A character with a confident expression points forward, suggesting determination or challenge, set against a dark, intense background.",
+    "serial_number": 20
+  },
+  {
+    "text": "Florida Governor Rick Scott has endorsed Donald Trump for President ! # Trump2016 # TrumpTrain",
+    "aspect": "Florida",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2993.jpg",
+    "image_context": "A man in a suit and red tie stands smiling in front of a U.S. and state flag, suggesting a formal or political setting.",
+    "serial_number": 21
+  },
+  {
+    "text": "Florida Governor Rick Scott has endorsed Donald Trump for President ! # Trump2016 # TrumpTrain",
+    "aspect": "Rick Scott",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2993.jpg",
+    "image_context": "A man in a suit and red tie stands smiling in front of a U.S. and state flag, suggesting a formal or political setting.",
+    "serial_number": 22
+  },
+  {
+    "text": "Milos Degenek gets Socceroos home call for clashes with Greece",
+    "aspect": "Milos Degenek",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_29_350.jpg",
+    "image_context": "Two soccer players in intense action on the field, one in yellow kicking the ball while the other in red attempts to intercept, conveying competitive energy.",
+    "serial_number": 23
+  },
+  {
+    "text": "Milos Degenek gets Socceroos home call for clashes with Greece",
+    "aspect": "Greece",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_29_350.jpg",
+    "image_context": "Two soccer players in intense action on the field, one in yellow kicking the ball while the other in red attempts to intercept, conveying competitive energy.",
+    "serial_number": 24
+  },
+  {
+    "text": "Harry Potter and The Order of the Phoenix . ღ",
+    "aspect": "Harry Potter and The Order of the Phoenix",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4146.jpg",
+    "image_context": "Two individuals in school uniforms stand in a dimly lit hallway, engaging in a thoughtful conversation with serious expressions, as one holds a piece of paper.",
+    "serial_number": 25
+  },
+  {
+    "text": "Me , along with a couple of friends - - James Franco and JJ Abrams - - on the set of 11 / 22 / 63 . Everything looks cool .",
+    "aspect": "JJ Abrams",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2705.jpg",
+    "image_context": "Three men are indoors, smiling and posing closely together, with one pointing at another, suggesting a friendly and celebratory interaction.",
+    "serial_number": 26
+  },
+  {
+    "text": "Free concert coming soon with @ ZachandRodney on # hleradio",
+    "aspect": "ZachandRodney",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_392.jpg",
+    "image_context": "Two men stand confidently in a natural outdoor setting, one in a blue plaid shirt and the other in a black embellished jacket, promoting an evening show.",
+    "serial_number": 27
+  },
+  {
+    "text": "Bushfire Festival : C ' mon baby , light your fire",
+    "aspect": "Bushfire Festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_25_932.jpg",
+    "image_context": "A woman passionately sings into a microphone on stage, her expressive face and vibrant attire conveying energy and emotion.",
+    "serial_number": 28
+  },
+  {
+    "text": "Opening night for soccer ! Great game CMS girls and boys ! Congratulations on your wins @ ChallengerLCSD !",
+    "aspect": "ChallengerLCSD",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_18498.jpg",
+    "image_context": "Players in red and yellow jerseys are actively engaged in a soccer match on a field under evening skies, with no visible audience.",
+    "serial_number": 29
+  },
+  {
+    "text": "@ NBAonTNT they ' ve done gone fishing ! 1 2 3 Cancun !",
+    "aspect": "Cancun",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_489.jpg",
+    "image_context": "Two casually dressed men pose closely together, smiling and making peace signs, conveying a relaxed and friendly atmosphere.",
+    "serial_number": 30
+  },
+  {
+    "text": "Come support the KSC U10 Boys Soccer team BBQ 11 - 5 today . Thank You @ Pillers1957 for your generous donation",
+    "aspect": "Pillers1957",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_29_979.jpg",
+    "image_context": "Three men, smiling and casually dressed, stand together under a canopy at an outdoor event, suggesting a friendly and relaxed atmosphere.",
+    "serial_number": 31
+  },
+  {
+    "text": "Devolver loses $ 100 K on banned E3 festival",
+    "aspect": "E3 festival",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_3490.jpg",
+    "image_context": "A large sign for a convention center prominently displays the E3 logo, suggesting a gaming event atmosphere.",
+    "serial_number": 32
+  },
+  {
+    "text": "( 20 ) More photos of Justin Bieber onstage performing # Summerburst Festival in Stockholm Sweden . ( June 10 )",
+    "aspect": "Summerburst Festival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_13824.jpg",
+    "image_context": "A person in a gray hoodie with yellow text performs on stage, wearing a headset microphone, with a focused expression in a dimly lit concert setting.",
+    "serial_number": 33
+  },
+  {
+    "text": "We would like to welcome @ sid_iv to the Viking Football Family ! # RowTheShip",
+    "aspect": "sid_iv",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_12_1212.jpg",
+    "image_context": "A football player in full gear is poised to throw a pass, exuding focus and determination against a backdrop of city skyline graphics.",
+    "serial_number": 34
+  },
+  {
+    "text": "NBA star @ carmeloanthony and his stunning wife @ lala arrive on the red carpet . # MetGala # LaLa # CarmeloAnthony",
+    "aspect": "carmeloanthony",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_125.jpg",
+    "image_context": "A couple poses elegantly on a red carpet, with the woman in a glamorous gown and the man in a tuxedo, exuding confidence and style in a formal event setting.",
+    "serial_number": 35
+  },
+  {
+    "text": "NBA star @ carmeloanthony and his stunning wife @ lala arrive on the red carpet . # MetGala # LaLa # CarmeloAnthony",
+    "aspect": "LaLa",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_125.jpg",
+    "image_context": "A couple poses elegantly on a red carpet, with the woman in a glamorous gown and the man in a tuxedo, exuding confidence and style in a formal event setting.",
+    "serial_number": 36
+  },
+  {
+    "text": "NBA star @ carmeloanthony and his stunning wife @ lala arrive on the red carpet . # MetGala # LaLa # CarmeloAnthony",
+    "aspect": "CarmeloAnthony",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_125.jpg",
+    "image_context": "A couple poses elegantly on a red carpet, with the woman in a glamorous gown and the man in a tuxedo, exuding confidence and style in a formal event setting.",
+    "serial_number": 37
+  },
+  {
+    "text": ". # ThrowBackThursday Backstage with Lady Gaga and the family . # TBT",
+    "aspect": "Lady Gaga",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_3156.jpg",
+    "image_context": "A group of five people, smiling and casually dressed, pose closely together indoors, suggesting a friendly and relaxed social interaction.",
+    "serial_number": 38
+  },
+  {
+    "text": "Definitely a dog friendly festival at @ cambeerfest - these 2 are working here ( they ' ve got name cards anyway ) !",
+    "aspect": "cambeerfest",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_26_399.jpg",
+    "image_context": "A small brown dog with a name tag sits calmly on a textured floor, appearing attentive and slightly curious.",
+    "serial_number": 39
+  },
+  {
+    "text": "Heat reportedly expect Chris Bosh to return next season after dealing with blood clots",
+    "aspect": "Chris Bosh",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_651.jpg",
+    "image_context": "A basketball player in a \"Heat\" jersey appears focused and determined on the court, suggesting intense concentration during a game.",
+    "serial_number": 40
+  },
+  {
+    "text": "here is a short comic about me going to a suede concert",
+    "aspect": "suede",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_12851.jpg",
+    "image_context": "A band on stage, with the lead singer sarcastically addressing an audience member, conveys frustration through their speech bubble and intense expressions.",
+    "serial_number": 41
+  },
+  {
+    "text": "Gearing up for the final game of Day 2 at the NCAA New England Regional between @ TuftsBaseball and @ OswegoAthletics",
+    "aspect": "TuftsBaseball",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_19_42.jpg",
+    "image_context": "A quiet, empty sports facility under dramatic skies, with illuminated floodlights and a calm, deserted atmosphere.",
+    "serial_number": 42
+  },
+  {
+    "text": "I ' ve just witnessed Wes Morgan lift a premier league title . Football really is bonkers .",
+    "aspect": "premier league",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_07_750.jpg",
+    "image_context": "A jubilant group of people in blue jerseys celebrate energetically on a sports field, holding a trophy aloft with fireworks in the background.",
+    "serial_number": 43
+  },
+  {
+    "text": "HARRY STYLES WITH SHORT HAIR SPOTTED . THIS IS NOT A DRILL I REPEAT THIS IS NOT A DRILL . IM DEAD # RIPHarrysHair",
+    "aspect": "HARRY STYLES",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_2943.jpg",
+    "image_context": "A person walks confidently on a street, wearing a casual outfit with a hat, displaying a focused expression amidst parked cars.",
+    "serial_number": 44
+  },
+  {
+    "text": "Lets see how many Beliebers are active and retweeting this # VeranoMTV2017 Justin Bieber",
+    "aspect": "VeranoMTV2017",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4339.jpg",
+    "image_context": "A shirtless person with tattoos, wearing a cap, stands in a dimly lit social setting, surrounded by others who appear to be engaged in conversation.",
+    "serial_number": 45
+  },
+  {
+    "text": ". SteveScalise remains in critical condition after shooting at baseball practice ; dougmckelway reports .",
+    "aspect": "SteveScalise",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "17_06_3472.jpg",
+    "image_context": "Emergency vehicles and police tape create a tense scene on a sunlit street, indicating a critical incident response.",
+    "serial_number": 46
+  },
+  {
+    "text": "Is the passing of Ted Dimitru a loss to SA Football ? What a STUPID question by @ eNCA to @ ZolaDoda",
+    "aspect": "Ted Dimitru",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "16_05_26_459.jpg",
+    "image_context": "A man in a suit stands indoors, appearing professional and composed, likely delivering news or a report on television.",
+    "serial_number": 47
+  },
+  {
+    "text": "# news # bollywood ' Salman Khan beats Shah Rukh Khan pays 32 cr as advance tax '",
+    "aspect": "Shah Rukh Khan",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_1071.jpg",
+    "image_context": "Two men are portrayed side by side, one in a casual white tank top with sunglasses exuding a relaxed demeanor, and the other in a formal black tuxedo with a serious expression, highlighting contrasting styles and moods.",
+    "serial_number": 48
+  },
+  {
+    "text": "Nice first pitch delivery today . @ RaysBaseball @ BlueJays # MacDill",
+    "aspect": "BlueJays",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_01_451.jpg",
+    "image_context": "Two individuals in military attire are rappelling down inside a stadium, with a crowd below holding a large American flag, creating a patriotic and ceremonial atmosphere.",
+    "serial_number": 49
+  },
+  {
+    "text": "When there ' s only 88 more days till cowboy football",
+    "aspect": "cowboy",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_5370.jpg",
+    "image_context": "A football player, wearing a Dallas Cowboys beanie, lies on the grass with a football, appearing relaxed and contemplative, imagining himself in a triumphant pose.",
+    "serial_number": 50
+  },
+  {
+    "text": "Baseball : Wilton takes down Shelton",
+    "aspect": "Wilton",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "17_06_15296.jpg",
+    "image_context": "A baseball player in an orange jersey is intensely focused as he pitches the ball on a field.",
+    "serial_number": 51
+  },
+  {
+    "text": "Baseball : Wilton takes down Shelton",
+    "aspect": "Shelton",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_15296.jpg",
+    "image_context": "A baseball player in an orange jersey is intensely focused as he pitches the ball on a field.",
+    "serial_number": 52
+  },
+  {
+    "text": "Alfred Hitchcock on the beach during the 1963 Cannes Film Festival",
+    "aspect": "Alfred Hitchcock",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_05_324.jpg",
+    "image_context": "A man in a suit crouches on a sandy beach, looking intently at the camera with a serious expression, creating a striking contrast with the serene ocean backdrop.",
+    "serial_number": 53
+  },
+  {
+    "text": "Alfred Hitchcock on the beach during the 1963 Cannes Film Festival",
+    "aspect": "Cannes Film Festival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_05_324.jpg",
+    "image_context": "A man in a suit crouches on a sandy beach, looking intently at the camera with a serious expression, creating a striking contrast with the serene ocean backdrop.",
+    "serial_number": 54
+  },
+  {
+    "text": "Encapsulated with Igor after his pre - concert talk - less than 40 mins till the concert .",
+    "aspect": "Igor",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_10_618.jpg",
+    "image_context": "Three people are seated on stage in a large auditorium, engaging in a panel discussion with an attentive audience.",
+    "serial_number": 55
+  },
+  {
+    "text": "The home of Outlook Festival .",
+    "aspect": "Outlook Festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_29_423.jpg",
+    "image_context": "An aerial view showcases a lush, green forest surrounding a historic fort-like structure near a serene blue body of water.",
+    "serial_number": 56
+  },
+  {
+    "text": "According to WWD , Mark Ronson is hoping to have Lady Gaga ' s new album released by year - end .",
+    "aspect": "Mark Ronson",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_3234.jpg",
+    "image_context": "Two individuals pose closely in a dimly lit indoor setting, one wearing a reflective, avant-garde outfit, both with neutral expressions, suggesting a formal or celebratory event.",
+    "serial_number": 57
+  },
+  {
+    "text": "John Miller , Donald Trump , John Baron , etc . What ' s This Guy ' s REAL IDENTITY ? # cnn",
+    "aspect": "John Baron",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4377.jpg",
+    "image_context": "A digitally manipulated image shows a person pulling off a mask to reveal another face underneath, suggesting a transformation or hidden identity.",
+    "serial_number": 58
+  },
+  {
+    "text": "Read what will happen to Man Utd if they fail to qualify for Champions League football …",
+    "aspect": "Champions League",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_13_294.jpg",
+    "image_context": "Two men in Manchester United jackets sit closely on a bench, one looking serious and the other attentive, suggesting a focused discussion in a sports setting.",
+    "serial_number": 59
+  },
+  {
+    "text": "# ICYMI : Galen Rupp is returning to the track at the Portland Track Festival :",
+    "aspect": "Portland Track Festival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_12044.jpg",
+    "image_context": "A focused athlete in running attire sprints intensely on a track, with a blurred crowd in the background, suggesting a competitive event.",
+    "serial_number": 60
+  },
+  {
+    "text": "Everything that is right about the great game of baseball . Opening Night for @ WasecaBluejays at Tink Larson Field .",
+    "aspect": "WasecaBluejays",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_20_288.jpg",
+    "image_context": "Spectators in casual attire watch a baseball game from bleachers, creating a lively and engaged atmosphere on a sunny day.",
+    "serial_number": 61
+  },
+  {
+    "text": "Chris Paul Expected To Meet With Clippers , Spurs , Nuggets , Rockets :",
+    "aspect": "Clippers",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1902.jpg",
+    "image_context": "A basketball player in a Clippers jersey smiles and gestures confidently on the court, indicating a positive and energetic atmosphere.",
+    "serial_number": 62
+  },
+  {
+    "text": "Chris Paul Expected To Meet With Clippers , Spurs , Nuggets , Rockets :",
+    "aspect": "Spurs",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1902.jpg",
+    "image_context": "A basketball player in a Clippers jersey smiles and gestures confidently on the court, indicating a positive and energetic atmosphere.",
+    "serial_number": 63
+  },
+  {
+    "text": "Chris Paul Expected To Meet With Clippers , Spurs , Nuggets , Rockets :",
+    "aspect": "Nuggets",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1902.jpg",
+    "image_context": "A basketball player in a Clippers jersey smiles and gestures confidently on the court, indicating a positive and energetic atmosphere.",
+    "serial_number": 64
+  },
+  {
+    "text": "Chris Paul Expected To Meet With Clippers , Spurs , Nuggets , Rockets :",
+    "aspect": "Rockets",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1902.jpg",
+    "image_context": "A basketball player in a Clippers jersey smiles and gestures confidently on the court, indicating a positive and energetic atmosphere.",
+    "serial_number": 65
+  },
+  {
+    "text": "May The 4 th Be With You , Harry Potter style",
+    "aspect": "Harry Potter",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_1277.jpg",
+    "image_context": "A group of young individuals in school uniforms stand confidently in a dimly lit, ornate hall, each holding glowing lightsabers, suggesting a blend of fantasy and camaraderie.",
+    "serial_number": 66
+  },
+  {
+    "text": "Luke ' s first baseball game ! Go Cubs ! # sbcubs",
+    "aspect": "Cubs",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_12202.jpg",
+    "image_context": "A baby, comfortably held by an adult wearing a sports-themed shirt, chews on a blanket, conveying a sense of warmth and security in a casual outdoor setting.",
+    "serial_number": 67
+  },
+  {
+    "text": "John Kerry : Leaving Paris Accord ' shameful ' moment for U . S .",
+    "aspect": "John Kerry",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3840.jpg",
+    "image_context": "A man in a suit and tie appears on a news broadcast in front of a cityscape, discussing the U.S. withdrawal from the Paris Climate Deal, conveying a serious tone.",
+    "serial_number": 68
+  },
+  {
+    "text": "John Kerry : Leaving Paris Accord ' shameful ' moment for U . S .",
+    "aspect": "U . S",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3840.jpg",
+    "image_context": "A man in a suit and tie appears on a news broadcast in front of a cityscape, discussing the U.S. withdrawal from the Paris Climate Deal, conveying a serious tone.",
+    "serial_number": 69
+  },
+  {
+    "text": "@ HanrattyDave And here ' s a cold , unflinching reminder that Oscar Isaac looks like THIS in the movie",
+    "aspect": "Oscar Isaac",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "16_05_18_781.jpg",
+    "image_context": "A character in ornate armor extends an authoritative hand amidst a fiery, intense background, conveying power and determination.",
+    "serial_number": 70
+  },
+  {
+    "text": "1991, Robin Hood : Prince of Thieves was released . 25 years on , I fulfilled a dream of visiting the tree # RobinHood",
+    "aspect": "Robin Hood : Prince of Thieves",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1411.jpg",
+    "image_context": "A solitary tree stands majestically in a serene, grassy valley under a partly cloudy sky, evoking a sense of tranquility and solitude.",
+    "serial_number": 71
+  },
+  {
+    "text": "1991, Robin Hood : Prince of Thieves was released . 25 years on , I fulfilled a dream of visiting the tree # RobinHood",
+    "aspect": "RobinHood",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1411.jpg",
+    "image_context": "A solitary tree stands majestically in a serene, grassy valley under a partly cloudy sky, evoking a sense of tranquility and solitude.",
+    "serial_number": 72
+  },
+  {
+    "text": "Emma Watson ' s look for ' The Circle ' Photocall in Paris",
+    "aspect": "The Circle",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_256.jpg",
+    "image_context": "A woman in an elegant floral gown stands outdoors, exuding confidence and grace, with a serene expression and a stylish handbag.",
+    "serial_number": 73
+  },
+  {
+    "text": "Yee Peng Lanna , a lantern festival in Chiang Mai , Thailand | Photo by aijohsuke",
+    "aspect": "Yee Peng Lanna",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_14267.jpg",
+    "image_context": "People gather joyfully at night, releasing glowing lanterns into the sky, creating a serene and festive atmosphere.",
+    "serial_number": 74
+  },
+  {
+    "text": "Do NBA Players Like LeBron James Need More Rest ? | First Take | March 20, 2017",
+    "aspect": "LeBron James",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_13702.jpg",
+    "image_context": "A basketball player in a jersey playfully points and smiles towards the camera, exuding a cheerful and confident demeanor on the sidelines of a game.",
+    "serial_number": 75
+  },
+  {
+    "text": "Mamata Benerjee agrees that his party leaders took corruption but unbaised Journalist disagrees .",
+    "aspect": "Mamata Benerjee",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_01_17400.jpg",
+    "image_context": "A Twitter exchange shows a critical political discussion, with one user accusing the government of misuse of power, while another user challenges this view by referencing a news article, indicating a tense debate.",
+    "serial_number": 76
+  },
+  {
+    "text": "Petition to have Jessica Lange come back for American Horror Story season 6",
+    "aspect": "Jessica Lange",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2875.jpg",
+    "image_context": "A woman with a composed expression lights a cigarette indoors, wearing a colorful floral-patterned dress.",
+    "serial_number": 77
+  },
+  {
+    "text": "Man Utd can learn from Liverpool last year to win Premier League - Ryan Giggs -",
+    "aspect": "Man Utd",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_11036.jpg",
+    "image_context": "I'm sorry, I can't provide a description of this image.",
+    "serial_number": 78
+  },
+  {
+    "text": "Charlie is decidedly not excited about @ ussoccer_ynt at 4 am . # U20WC",
+    "aspect": "ussoccer_ynt",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_14969.jpg",
+    "image_context": "A black dog is peacefully sleeping on a red couch, conveying a sense of calm and comfort.",
+    "serial_number": 79
+  },
+  {
+    "text": "Highlights from Vogue Festival : Alessandro Michele",
+    "aspect": "Vogue Festival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_23_390.jpg",
+    "image_context": "Two people are engaged in a relaxed conversation on stage, seated in armchairs with a floral centerpiece between them, suggesting a formal yet casual interview setting.",
+    "serial_number": 80
+  },
+  {
+    "text": "Highlights from Vogue Festival : Alessandro Michele",
+    "aspect": "Alessandro Michele",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_23_390.jpg",
+    "image_context": "Two people are engaged in a relaxed conversation on stage, seated in armchairs with a floral centerpiece between them, suggesting a formal yet casual interview setting.",
+    "serial_number": 81
+  },
+  {
+    "text": "Don ’ t say we didn ’ t remind you , no more extension ! Join the best creativity Festival in Barcelona # OFFF18 💥",
+    "aspect": "Barcelona",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_12966.jpg",
+    "image_context": "The image features bold text announcing \"EARLY BIRD TICKETS\" with urgency emphasized by \"LAST DAY ON SUNDAY!\" against a dark background.",
+    "serial_number": 82
+  },
+  {
+    "text": "Don ’ t say we didn ’ t remind you , no more extension ! Join the best creativity Festival in Barcelona # OFFF18 💥",
+    "aspect": "OFFF18",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_12966.jpg",
+    "image_context": "The image features bold text announcing \"EARLY BIRD TICKETS\" with urgency emphasized by \"LAST DAY ON SUNDAY!\" against a dark background.",
+    "serial_number": 83
+  },
+  {
+    "text": "Bell : Warriors eyeing NBA championship , not 16 - 0 record",
+    "aspect": "Warriors",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_1226.jpg",
+    "image_context": "I'm sorry, I can't describe the image as it is not available.",
+    "serial_number": 84
+  },
+  {
+    "text": "Knowing is not enough ; we must apply . Being willing is not enough ; we must do . Leonardo da Vinci # quote",
+    "aspect": "Leonardo da Vinci",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4311.jpg",
+    "image_context": "A woman with a serene expression and folded hands sits indoors, exuding calmness and mystery.",
+    "serial_number": 85
+  },
+  {
+    "text": "i gotta feeling by the black eyed peas blocked you belong with me by taylor swift",
+    "aspect": "the black eyed peas",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_309.jpg",
+    "image_context": "The image shows a music chart with \"I Gotta Feeling\" by The Black Eyed Peas at number one and \"You Belong With Me\" by Taylor Swift at number two, indicating their popularity.",
+    "serial_number": 86
+  },
+  {
+    "text": "i gotta feeling by the black eyed peas blocked you belong with me by taylor swift",
+    "aspect": "you belong with me",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_309.jpg",
+    "image_context": "The image shows a music chart with \"I Gotta Feeling\" by The Black Eyed Peas at number one and \"You Belong With Me\" by Taylor Swift at number two, indicating their popularity.",
+    "serial_number": 87
+  },
+  {
+    "text": "i gotta feeling by the black eyed peas blocked you belong with me by taylor swift",
+    "aspect": "taylor swift",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_309.jpg",
+    "image_context": "The image shows a music chart with \"I Gotta Feeling\" by The Black Eyed Peas at number one and \"You Belong With Me\" by Taylor Swift at number two, indicating their popularity.",
+    "serial_number": 88
+  },
+  {
+    "text": "Sorry ESPN , 2004 Patriots were greatest football team assembled in last 30 years",
+    "aspect": "ESPN",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "17_06_3585.jpg",
+    "image_context": "A football player in a Patriots uniform, wearing a helmet and displaying a determined expression, stands on a field with teammates in the background, conveying focus and readiness.",
+    "serial_number": 89
+  },
+  {
+    "text": "SEE VIDEO ! Inside The NBA : Curry vs . Jordan . . .",
+    "aspect": "Curry",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_29_622.jpg",
+    "image_context": "Four men in suits are seated at a studio desk with \"Inside the NBA\" branding, engaged in a lively discussion.",
+    "serial_number": 90
+  },
+  {
+    "text": "SEE VIDEO ! Inside The NBA : Curry vs . Jordan . . .",
+    "aspect": "Jordan",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_29_622.jpg",
+    "image_context": "Four men in suits are seated at a studio desk with \"Inside the NBA\" branding, engaged in a lively discussion.",
+    "serial_number": 91
+  },
+  {
+    "text": "❤ # Bieber # Collectible ONE DIRECTION JUSTIN BIEBER MUSIC POSTERS MAGAZINE # JustinBieber …",
+    "aspect": "JustinBieber",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_312.jpg",
+    "image_context": "A magazine cover features a prominent close-up of a serious-looking young man, with smaller images of a group of young men smiling and interacting, suggesting a focus on pop culture and music.",
+    "serial_number": 92
+  },
+  {
+    "text": "I can ' t believe this guy is coaching in the NBA . He couldn ' t coach me at NIU but had been in the NBA for years now .",
+    "aspect": "NBA",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_17_507.jpg",
+    "image_context": "A man in a suit appears focused and contemplative, sitting indoors, possibly during a sports event, as indicated by the on-screen text identifying him as an assistant coach.",
+    "serial_number": 93
+  },
+  {
+    "text": "I can ' t believe this guy is coaching in the NBA . He couldn ' t coach me at NIU but had been in the NBA for years now .",
+    "aspect": "NIU",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_17_507.jpg",
+    "image_context": "A man in a suit appears focused and contemplative, sitting indoors, possibly during a sports event, as indicated by the on-screen text identifying him as an assistant coach.",
+    "serial_number": 94
+  },
+  {
+    "text": "I can ' t believe this guy is coaching in the NBA . He couldn ' t coach me at NIU but had been in the NBA for years now .",
+    "aspect": "NBA",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_17_507.jpg",
+    "image_context": "A man in a suit appears focused and contemplative, sitting indoors, possibly during a sports event, as indicated by the on-screen text identifying him as an assistant coach.",
+    "serial_number": 95
+  },
+  {
+    "text": "Should we be concerned by how much Sheryl Underwood looks like James Brown ?",
+    "aspect": "Sheryl Underwood",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_1409.jpg",
+    "image_context": "Two people are smiling and posing together in a festive setting, with one wearing a vibrant, star-spangled costume, suggesting a joyful and celebratory atmosphere.",
+    "serial_number": 96
+  },
+  {
+    "text": "Hey @ yankeebean , we ' re outside Lady Bird Johnson ' s office . # womenlead # firstladies",
+    "aspect": "Lady Bird Johnson",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1164.jpg",
+    "image_context": "The image shows an indoor museum setting featuring a portrait of a woman in a field, with an adjacent room displaying red furniture and various artifacts, evoking a sense of historical reflection.",
+    "serial_number": 97
+  },
+  {
+    "text": "Couples dancing in the Grand Foyer of the Paris Opera House at the Victory Ball . May , 1946 .",
+    "aspect": "Grand Foyer",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4191.jpg",
+    "image_context": "Elegantly dressed couples dance gracefully in a grand, opulent ballroom, creating an atmosphere of celebration and sophistication.",
+    "serial_number": 98
+  },
+  {
+    "text": "The American dream is dead thanks to incompetent leadership and political correctness . WE NEED DONALD TRUMP .",
+    "aspect": "American",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_3486.jpg",
+    "image_context": "A smiling man wearing a \"Make America Great Again\" hat and \"Trump\" shirt gives a thumbs-up next to a truck with a pro-Trump sign and flag, suggesting strong political support.",
+    "serial_number": 99
+  },
+  {
+    "text": "# Barcelona celebrates Spanish league title with city parade",
+    "aspect": "Spanish",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_15_314.jpg",
+    "image_context": "A jubilant crowd celebrates as a bus carrying a sports team, adorned with \"Champions\" and confetti, parades through the street.",
+    "serial_number": 100
+  },
+  {
+    "text": "Delighted ! My memoir receives Honorable Mention in Spiritual by San Francisco Book Festival .",
+    "aspect": "San Francisco Book Festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_6882.jpg",
+    "image_context": "The book cover features intricate geometric patterns and highlights a personal journey from Pakistani Muslim to American Muslim, suggesting themes of cultural transition and identity.",
+    "serial_number": 101
+  },
+  {
+    "text": "Here are the first photos of the Harry Potter play cast in character",
+    "aspect": "Harry Potter",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4105.jpg",
+    "image_context": "A family stands closely together in a studio setting, with the young man in the center wearing a school uniform and the adults dressed in formal and casual attire, all displaying neutral expressions.",
+    "serial_number": 102
+  },
+  {
+    "text": "Charlie Robison concert with my bride # bombfactory",
+    "aspect": "bombfactory",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_3661.jpg",
+    "image_context": "A smiling couple poses closely together in a dimly lit environment, suggesting a joyful or celebratory atmosphere.",
+    "serial_number": 103
+  },
+  {
+    "text": "Hear Lorde Describe How Frank Ocean Influenced Her New Album",
+    "aspect": "Lorde",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_16151.jpg",
+    "image_context": "A person is energetically performing on stage, holding a microphone, with a joyful expression and wearing a sheer, patterned outfit.",
+    "serial_number": 104
+  },
+  {
+    "text": "Hear Lorde Describe How Frank Ocean Influenced Her New Album",
+    "aspect": "Frank Ocean",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_16151.jpg",
+    "image_context": "A person is energetically performing on stage, holding a microphone, with a joyful expression and wearing a sheer, patterned outfit.",
+    "serial_number": 105
+  },
+  {
+    "text": "Mad that this guy used to be the worlds best footballer ! ! # R9 # ronaldo",
+    "aspect": "R9",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "17_06_4491.jpg",
+    "image_context": "A man in a white soccer uniform stands on a field, appearing contemplative, with a crowd in the background.",
+    "serial_number": 106
+  },
+  {
+    "text": "# iwasblockedfor asking Lil Wayne if Whoopi Goldberg was his mom .",
+    "aspect": "Lil Wayne",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_269.jpg",
+    "image_context": "Two individuals with dreadlocks and sunglasses are smiling broadly, conveying a sense of happiness and confidence.",
+    "serial_number": 107
+  },
+  {
+    "text": "# iwasblockedfor asking Lil Wayne if Whoopi Goldberg was his mom .",
+    "aspect": "Whoopi Goldberg",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_269.jpg",
+    "image_context": "Two individuals with dreadlocks and sunglasses are smiling broadly, conveying a sense of happiness and confidence.",
+    "serial_number": 108
+  },
+  {
+    "text": "Sunday NFL Thoughts : Ravens penalty , Peyton HGH update , owners mad at . . .",
+    "aspect": "Peyton",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "16_05_30_665.jpg",
+    "image_context": "A football player in full gear, including a helmet with a red faceguard, stands on a sports field, exuding focus and determination.",
+    "serial_number": 109
+  },
+  {
+    "text": "How Barack Obama ’ s Foreign Policy De - Stabilized the World",
+    "aspect": "Barack Obama",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_1349.jpg",
+    "image_context": "I'm sorry, I can't help with identifying or describing people in images.",
+    "serial_number": 110
+  },
+  {
+    "text": "Proud to hand out the # ParisAirForum innovation award to @ skylightsaero for their inflight # VR solution 👏 🏻",
+    "aspect": "ParisAirForum",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_3351.jpg",
+    "image_context": "Three formally dressed individuals stand on a stage, with one woman holding a microphone, suggesting an award announcement or presentation event.",
+    "serial_number": 111
+  },
+  {
+    "text": "Proud to hand out the # ParisAirForum innovation award to @ skylightsaero for their inflight # VR solution 👏 🏻",
+    "aspect": "skylightsaero",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_3351.jpg",
+    "image_context": "Three formally dressed individuals stand on a stage, with one woman holding a microphone, suggesting an award announcement or presentation event.",
+    "serial_number": 112
+  },
+  {
+    "text": "From Justin Bieber to Farruko , check out J Balvin ' s most memorable collaborations",
+    "aspect": "Justin Bieber",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2918.jpg",
+    "image_context": "Two performers on stage, one in a camouflage jacket and the other in a shiny jacket, engage in an energetic musical performance under colorful stage lights.",
+    "serial_number": 113
+  },
+  {
+    "text": "From Justin Bieber to Farruko , check out J Balvin ' s most memorable collaborations",
+    "aspect": "J Balvin",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2918.jpg",
+    "image_context": "Two performers on stage, one in a camouflage jacket and the other in a shiny jacket, engage in an energetic musical performance under colorful stage lights.",
+    "serial_number": 114
+  },
+  {
+    "text": "20 years of Harry Potter . Thank you , JK Rowling . # HarryPotter20",
+    "aspect": "JK Rowling",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4261.jpg",
+    "image_context": "A woman with a confident expression stands against a dark background, wearing a black dress with a white collar, suggesting professionalism and poise.",
+    "serial_number": 115
+  },
+  {
+    "text": "Former Ogden Raptor Cody Bellinger is already a fixture in Major League Baseball",
+    "aspect": "Ogden Raptor",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_7441.jpg",
+    "image_context": "A baseball player in a Los Angeles uniform, wearing a helmet and gloves, appears focused and determined as he runs on a field, with a blurred crowd in the background.",
+    "serial_number": 116
+  },
+  {
+    "text": "Our starting goalie in the NHL conf finals ! Our town Our team ! Let ' s Go BLUES ! # stlblues Mooooose !",
+    "aspect": "stlblues",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_12_559.jpg",
+    "image_context": "A man in a robe and hat holds a drink, standing next to a woman in a festive sweater, both smiling in a cozy indoor setting.",
+    "serial_number": 117
+  },
+  {
+    "text": "Here is hoping it does not rain tonight for the opening of # CannesFilmFestival",
+    "aspect": "CannesFilmFestival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_11_874.jpg",
+    "image_context": "A woman in a black dress and hat smiles confidently near a red carpet, suggesting an event or festival setting.",
+    "serial_number": 118
+  },
+  {
+    "text": "Every photo of Jared Kushner looks like he just realized he ' s going to prison for Donald Trump .",
+    "aspect": "Donald Trump",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_2248.jpg",
+    "image_context": "A man in a suit looks attentively at another speaking man in a formal indoor setting.",
+    "serial_number": 119
+  },
+  {
+    "text": "My parents before their first The Cure concert , 1986",
+    "aspect": "Cure",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_24_110.jpg",
+    "image_context": "A young man and woman stand closely together outdoors, both smiling slightly, wearing casual attire and bathed in warm sunlight, suggesting a relaxed and intimate moment.",
+    "serial_number": 120
+  },
+  {
+    "text": "President Donald Trump ' s White House declines to recognize LGBT Pride Month",
+    "aspect": "LGBT",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3026.jpg",
+    "image_context": "A person stands outdoors holding a large rainbow flag aloft, silhouetted against a bright sky, conveying a sense of pride and celebration.",
+    "serial_number": 121
+  },
+  {
+    "text": "Donald Trump narrowly leads Hillary Clinton in Ohio , new poll says # Cleveland",
+    "aspect": "Donald Trump",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_995.jpg",
+    "image_context": "A person wearing a red \"Make America Great Again\" cap waves with a neutral expression, suggesting a public or political event setting.",
+    "serial_number": 122
+  },
+  {
+    "text": "NEW PHOTOS : Lady Gaga leaves her apartment in NYC ( May 11 )",
+    "aspect": "Lady Gaga",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4548.jpg",
+    "image_context": "A woman confidently exits a building wearing heart-shaped sunglasses, a \"Queen\" T-shirt, and a vibrant yellow fur coat, exuding a bold and stylish demeanor.",
+    "serial_number": 123
+  },
+  {
+    "text": "Taylor momsen as a statue of Jesus Lol",
+    "aspect": "Taylor",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1226.jpg",
+    "image_context": "A person stands on stage with arms outstretched, exuding confidence and engagement in a dimly lit performance setting.",
+    "serial_number": 124
+  },
+  {
+    "text": "@ OfficialYJM Amazing concert ty 4 comming to # Monterrey",
+    "aspect": "OfficialYJM",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_22_300.jpg",
+    "image_context": "A guitarist passionately plays on stage under dramatic lighting, surrounded by an enthusiastic audience capturing the moment on their phones.",
+    "serial_number": 125
+  },
+  {
+    "text": "Two weeks today and we will be seeing @ Busted at the Isle of Wight festival ! Bring it on 🐷 🚀",
+    "aspect": "Isle of Wight festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_26_35.jpg",
+    "image_context": "A countdown timer with a vibrant background displays time left until the \"Busted Isle Of Wight Festival\" alongside an image of three casually dressed individuals.",
+    "serial_number": 126
+  },
+  {
+    "text": "So proud of this team ! ! @ juventusfcen 🇮 🇹 🙌 🏽 🎉 🎉 # ForzaJuve # Chiellini400 # SerieATIM # Hi5tory # SuperGigi",
+    "aspect": "juventusfcen",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_14_611.jpg",
+    "image_context": "A jubilant soccer team, wearing black and white jerseys, celebrates triumphantly as they lift a trophy amidst confetti, exuding joy and camaraderie.",
+    "serial_number": 127
+  },
+  {
+    "text": "Girls ’ flag football taking important steps in Saskatoon # TODAY",
+    "aspect": "Saskatoon",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_08_873.jpg",
+    "image_context": "A group of young women in green sports attire with \"Crusaders\" printed on their shirts stand on a field, engaging in conversation and appearing relaxed and cheerful.",
+    "serial_number": 128
+  },
+  {
+    "text": "# Radiohead @ opener_festival # TTMR good old times are back 😅 😊 🎸 🎼 🎧 🎹",
+    "aspect": "Radiohead",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "17_06_9777.jpg",
+    "image_context": "A crowd enthusiastically raises hands in the air at a concert, silhouetted against a vibrant red and white stage backdrop.",
+    "serial_number": 129
+  },
+  {
+    "text": "# NHLPlayoffs Trevor Daley Injury : Updates on # Penguins Defenseman ' s Leg and Return",
+    "aspect": "Trevor Daley",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_26_364.jpg",
+    "image_context": "A focused hockey player in a white jersey leans forward, poised for action on the ice, surrounded by teammates and opponents in a competitive game setting.",
+    "serial_number": 130
+  },
+  {
+    "text": "Luca Toni scores with Panenka penalty as relegated Verona humble Serie A champions Juventus",
+    "aspect": "Juventus",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "16_05_08_56.jpg",
+    "image_context": "A soccer player in a yellow and blue striped jersey celebrates with a joyful expression and clenched fists on a sports field.",
+    "serial_number": 131
+  },
+  {
+    "text": "WATCH : Raptors Free Agent Camp : John Jenkins - June 15, 2017 # raptors # NBA",
+    "aspect": "Raptors",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_3332.jpg",
+    "image_context": "A man sits with arms crossed and a neutral expression, surrounded by others in a crowded indoor setting, suggesting attentiveness or anticipation.",
+    "serial_number": 132
+  },
+  {
+    "text": "How to watch Ariana Grande ' s Manchester benefit concert",
+    "aspect": "Manchester benefit",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_14634.jpg",
+    "image_context": "A woman in a glamorous pink dress sings passionately into a vintage microphone on stage, exuding confidence and emotion.",
+    "serial_number": 133
+  },
+  {
+    "text": "This rainy Monday we ' re reminiscing about a rainy day in # Bath when we took a tour of the famous @ RomanBathsBath",
+    "aspect": "RomanBathsBath",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_02_767.jpg",
+    "image_context": "People explore the historic Roman baths, some taking photos while others walk or sit, surrounded by ancient architecture and a green pool.",
+    "serial_number": 134
+  },
+  {
+    "text": "Donald Trump spent much of a rally thrashing Republican rivals who no longer threaten him",
+    "aspect": "Donald Trump",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2226.jpg",
+    "image_context": "A man in a suit and tie speaks into a microphone with a serious expression, gesturing with his hand, in a crowded indoor setting.",
+    "serial_number": 135
+  },
+  {
+    "text": "Donald Trump spent much of a rally thrashing Republican rivals who no longer threaten him",
+    "aspect": "Republican",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2226.jpg",
+    "image_context": "A man in a suit and tie speaks into a microphone with a serious expression, gesturing with his hand, in a crowded indoor setting.",
+    "serial_number": 136
+  },
+  {
+    "text": "It ' s Friday time to enjoy the new summer Gin from @ AldiUK @ GinFestival # FridayFeeling",
+    "aspect": "GinFestival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_3724.jpg",
+    "image_context": "A chilled gin cocktail with lemon slices is presented alongside a bottle labeled \"1599 Summer Cup,\" evoking a refreshing and festive atmosphere.",
+    "serial_number": 137
+  },
+  {
+    "text": "Tell me why the guy who sings Despacito with Justin Bieber looks like Rufus Humphrey 😂",
+    "aspect": "Rufus Humphrey",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_161.jpg",
+    "image_context": "A man with a confident expression and stylish attire is prominently featured against a minimalistic background, suggesting a professional or promotional setting.",
+    "serial_number": 138
+  },
+  {
+    "text": "LeBron James to Produce NBA Documentary -",
+    "aspect": "LeBron James",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_1049.jpg",
+    "image_context": "Several people are gathered around a large wall mural, with one person actively painting, creating a sense of collaboration and creativity in an urban setting.",
+    "serial_number": 139
+  },
+  {
+    "text": "If Donald Trump is elected , we promise to restore his normal hair to this image .",
+    "aspect": "Donald Trump",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3036.jpg",
+    "image_context": "A person in a military-style uniform stands at a podium with a controversial backdrop, evoking strong political and historical sentiments.",
+    "serial_number": 140
+  },
+  {
+    "text": "Victoria Beckham admits her mic wasn ' t even on during shows :",
+    "aspect": "Victoria Beckham",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3785.jpg",
+    "image_context": "Five women in colorful, sparkling outfits energetically pose on stage, exuding confidence and joy, with a cheering crowd in the background.",
+    "serial_number": 141
+  },
+  {
+    "text": "Just my thoughts on Ted ' s remarks regarding the quality of Donald Trump ' s upbringing . .",
+    "aspect": "Ted",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2681.jpg",
+    "image_context": "The text describes a rally where Ted Cruz criticizes Donald Trump's upbringing, suggesting tension and dissatisfaction, with a focus on family dynamics and personal achievements.",
+    "serial_number": 142
+  },
+  {
+    "text": "Just my thoughts on Ted ' s remarks regarding the quality of Donald Trump ' s upbringing . .",
+    "aspect": "Donald Trump",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "O_2681.jpg",
+    "image_context": "The text describes a rally where Ted Cruz criticizes Donald Trump's upbringing, suggesting tension and dissatisfaction, with a focus on family dynamics and personal achievements.",
+    "serial_number": 143
+  },
+  {
+    "text": "When someone thinks they can beat you at Harry Potter trivia",
+    "aspect": "Harry Potter",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2389.jpg",
+    "image_context": "A smiling character in formal attire, wearing a top hat, is depicted with the caption, \"The Fat Controller laughed. 'You are wrong.'\"",
+    "serial_number": 144
+  },
+  {
+    "text": "Nothing is permanent in this wicked world - not even our troubles . - Charlie Chaplin # Bornonthisday",
+    "aspect": "Charlie Chaplin",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4414.jpg",
+    "image_context": "A person dressed in vintage attire with a bowler hat and a small mustache, displaying a neutral expression, reminiscent of classic silent film characters.",
+    "serial_number": 145
+  },
+  {
+    "text": "Germany ' s Rock am Ring Festival Evacuated After Terror Threat",
+    "aspect": "Rock am Ring Festival",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_12480.jpg",
+    "image_context": "A large crowd gathers enthusiastically in an outdoor festival setting, facing a stage with vibrant signage, suggesting a lively and energetic atmosphere.",
+    "serial_number": 146
+  },
+  {
+    "text": "Russell Westbrook on guarding Steph Curry : ' He ' s not nothing I haven ' t seen '",
+    "aspect": "Russell Westbrook",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_444.jpg",
+    "image_context": "Two basketball players intensely compete for the ball on a crowded court, displaying determination and focus in a high-stakes game.",
+    "serial_number": 147
+  },
+  {
+    "text": "16,000 people just watched me get a live tattoo of Donald Trump sucking a dick . Welcome to the future .",
+    "aspect": "Donald Trump",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_316.jpg",
+    "image_context": "A tattoo on a person's leg depicts a caricature of a man in a suit with exaggerated features, humorously eating a corndog, suggesting a satirical or mocking sentiment.",
+    "serial_number": 148
+  },
+  {
+    "text": "OKC evens the series ! Kevin Durant ' s 41 points lead Thunder to 111 - 97 victory over Spurs in Game 4 .",
+    "aspect": "OKC",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2608.jpg",
+    "image_context": "A basketball player in a Thunder jersey is driving past defenders on a court, with an intense focus, while the crowd watches in anticipation during the Western Conference Semifinals.",
+    "serial_number": 149
+  },
+  {
+    "text": "God damn it . Steve Jobs is alive and well . @ burnie",
+    "aspect": "Steve Jobs",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_55.jpg",
+    "image_context": "A man in a black sweater gestures expressively with his hands, appearing to explain something in an indoor setting with a neutral background.",
+    "serial_number": 150
+  },
+  {
+    "text": "Artists Show Support for Ariana Grande ' s Manchester Benefit Concert on Twitter -",
+    "aspect": "Manchester Benefit",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_6848.jpg",
+    "image_context": "Two performers hold hands on stage, one singing into a microphone, both displaying supportive and positive expressions, creating a sense of unity and camaraderie.",
+    "serial_number": 151
+  },
+  {
+    "text": "Alum @ ThompsonScribe before he covers Game of NBA Finals takes the time to speak to the class .",
+    "aspect": "ThompsonScribe",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_15076.jpg",
+    "image_context": "A group of people in a conference room attentively watch a video call projected on a screen, with one woman standing and others seated around a table, suggesting a professional or educational setting.",
+    "serial_number": 152
+  },
+  {
+    "text": "NCT 127 ' s Taeyong thanks fans for the birthday billboard in Times Square",
+    "aspect": "NCT 127",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2682.jpg",
+    "image_context": "A person stands with arms raised in a busy urban setting, exuding excitement amidst bright billboards and bustling pedestrians.",
+    "serial_number": 153
+  },
+  {
+    "text": "Valavuori : Buckets Warriors need from Curry vs . Trailblazers . # NBA # WARRIORSvBLAZERS # NBAPlayoffs",
+    "aspect": "Warriors",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_01_804.jpg",
+    "image_context": "A basketball player in casual attire sits courtside holding a ball and eating popcorn, appearing relaxed and contemplative, with a lively crowd in the background.",
+    "serial_number": 154
+  },
+  {
+    "text": "Valavuori : Buckets Warriors need from Curry vs . Trailblazers . # NBA # WARRIORSvBLAZERS # NBAPlayoffs",
+    "aspect": "Curry",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_01_804.jpg",
+    "image_context": "A basketball player in casual attire sits courtside holding a ball and eating popcorn, appearing relaxed and contemplative, with a lively crowd in the background.",
+    "serial_number": 155
+  },
+  {
+    "text": "‘ Roadies ’ Trailer : Light a Fire in Your Loins with Cameron Crowe ’ s New Showtime Series",
+    "aspect": "Roadies",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_3258.jpg",
+    "image_context": "A person in a harness sits confidently on a metal framework under bright stage lights, suggesting a theatrical or performance setting.",
+    "serial_number": 156
+  },
+  {
+    "text": "At the # Mets game with BBQ , beer and baseball . I ' m all set .",
+    "aspect": "Mets",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_2296.jpg",
+    "image_context": "A casual outdoor setting with a tray of barbecue food and a can of IPA on a picnic table, suggesting a relaxed, enjoyable meal experience.",
+    "serial_number": 157
+  },
+  {
+    "text": "Russell Westbrook on Stephen Curry : “ He ’ s not nothing I haven ’ t seen ” OKC v Warriors",
+    "aspect": "Russell Westbrook",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_1061.jpg",
+    "image_context": "A basketball player in white swiftly maneuvers between two opponents in blue jerseys on a crowded court, showcasing intense focus and agility.",
+    "serial_number": 158
+  },
+  {
+    "text": "Russell Westbrook on Stephen Curry : “ He ’ s not nothing I haven ’ t seen ” OKC v Warriors",
+    "aspect": "Stephen Curry",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_1061.jpg",
+    "image_context": "A basketball player in white swiftly maneuvers between two opponents in blue jerseys on a crowded court, showcasing intense focus and agility.",
+    "serial_number": 159
+  },
+  {
+    "text": "A German shepherd saved a whole squad from an ISIS ambush",
+    "aspect": "German",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4515.jpg",
+    "image_context": "A German Shepherd stands alert and attentive outdoors, exuding confidence and readiness.",
+    "serial_number": 160
+  },
+  {
+    "text": "A German shepherd saved a whole squad from an ISIS ambush",
+    "aspect": "ISIS",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_4515.jpg",
+    "image_context": "A German Shepherd stands alert and attentive outdoors, exuding confidence and readiness.",
+    "serial_number": 161
+  },
+  {
+    "text": "# hudsonupdates Hungry ? Jersey City to hold annual ' Project : Eats ' festival",
+    "aspect": "Project : Eats",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_3725.jpg",
+    "image_context": "People are gathered at an outdoor street festival, engaging in conversation and enjoying food, creating a lively and social atmosphere.",
+    "serial_number": 162
+  },
+  {
+    "text": "I thought women were supposed to hate Donald Trump ? # WomenForTrump",
+    "aspect": "Donald Trump",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2609.jpg",
+    "image_context": "A woman indoors smiles while holding a \"Women for Trump!\" sign, with a television showing a political figure in the background.",
+    "serial_number": 163
+  },
+  {
+    "text": "Eagles News : Jim Schwartz says Philadelphia has two of the best safeties in the NFL # nfl …",
+    "aspect": "Jim Schwartz",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_25_304.jpg",
+    "image_context": "A man in athletic attire and a beanie stands outdoors, looking focused and determined, suggesting a sports-related context.",
+    "serial_number": 164
+  },
+  {
+    "text": "Eagles News : Jim Schwartz says Philadelphia has two of the best safeties in the NFL # nfl …",
+    "aspect": "Philadelphia",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_25_304.jpg",
+    "image_context": "A man in athletic attire and a beanie stands outdoors, looking focused and determined, suggesting a sports-related context.",
+    "serial_number": 165
+  },
+  {
+    "text": "So stoked to see the Indian flag in the @ PrideToronto parade !",
+    "aspect": "PrideToronto",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_2714.jpg",
+    "image_context": "A lively outdoor parade features diverse participants waving flags and holding signs, creating an atmosphere of celebration and unity.",
+    "serial_number": 166
+  },
+  {
+    "text": "emma watson ' s calvin klein dress was made out of recycled plastic bottles and she absolutely killed it # MetGala",
+    "aspect": "calvin klein",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4307.jpg",
+    "image_context": "A woman in an elegant black and white gown stands confidently on a red carpeted staircase, surrounded by photographers capturing the moment.",
+    "serial_number": 167
+  },
+  {
+    "text": "Daniel Bryan we ' ll miss u # wwe # model # nxt # nsfw ☻",
+    "aspect": "Daniel Bryan",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "O_2486.jpg",
+    "image_context": "Two women in bikinis, wearing sunglasses, pose confidently on a sunny beach, suggesting a relaxed and cheerful atmosphere.",
+    "serial_number": 168
+  },
+  {
+    "text": "Ticket prices for Ed Sheeran concert in Manila released",
+    "aspect": "Ed Sheeran",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4252.jpg",
+    "image_context": "The image promotes an Ed Sheeran concert in Manila, displaying ticket prices alongside a smiling photo of the artist, creating an upbeat and anticipatory atmosphere.",
+    "serial_number": 169
+  },
+  {
+    "text": "Cowboys quarterback Tony Romo opens up about family , faith and football :",
+    "aspect": "Cowboys",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_25_21.jpg",
+    "image_context": "A happy family poses outdoors, with the mother and daughter seated holding a football, while the father and son crouch beside them, all smiling warmly.",
+    "serial_number": 170
+  },
+  {
+    "text": "happy birthday evan hope you have a great day 🎉 @ theSLIFElife # calculuseded # soccergang",
+    "aspect": "theSLIFElife",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_3356.jpg",
+    "image_context": "Two people are energetically dancing and laughing outside at night, suggesting a joyful and carefree moment.",
+    "serial_number": 171
+  },
+  {
+    "text": "St . Cat ' s earns first baseball victory of season 7 - 4 over St Joe ' s . Jack Letsch throws complete game for the win !",
+    "aspect": "St Joe",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "16_05_05_742.jpg",
+    "image_context": "A baseball player in white slides aggressively into a base as the opposing player in gray prepares to tag him, both displaying intense focus and competitive energy on the field.",
+    "serial_number": 172
+  },
+  {
+    "text": "Seven former Fresno State players sign NFL free - agent deals . . .",
+    "aspect": "Fresno State",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_43.jpg",
+    "image_context": "A football player in a red uniform aggressively lunges to tackle an opponent in a white and yellow uniform, who is running with the ball on a sports field.",
+    "serial_number": 173
+  },
+  {
+    "text": "One Direction ’ s @ NiallOfficial has joined the line - up for # SoccerAid in support of Unicef ! ! !",
+    "aspect": "SoccerAid",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_211.jpg",
+    "image_context": "A person wearing glasses and a flat cap gazes calmly at the camera, dressed in a casual blue shirt, suggesting a relaxed indoor setting.",
+    "serial_number": 174
+  },
+  {
+    "text": "One Direction ’ s @ NiallOfficial has joined the line - up for # SoccerAid in support of Unicef ! ! !",
+    "aspect": "Unicef",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_211.jpg",
+    "image_context": "A person wearing glasses and a flat cap gazes calmly at the camera, dressed in a casual blue shirt, suggesting a relaxed indoor setting.",
+    "serial_number": 175
+  },
+  {
+    "text": "Knockout Cup : Round 1 : 1 st Leg : RT for Helen Wood Like for Victoria Beckham",
+    "aspect": "Helen Wood",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_1002.jpg",
+    "image_context": "A woman poses confidently in a black bikini, with a direct gaze and slightly parted lips, conveying a sense of allure and self-assurance.",
+    "serial_number": 176
+  },
+  {
+    "text": "Getting a little afternoon reading in with @ tferris before # dcpride2017 parade .",
+    "aspect": "tferris",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_14047.jpg",
+    "image_context": "A person is relaxing indoors, reading a book with a small dog wearing a colorful bandana sitting on their lap, creating a cozy and content atmosphere.",
+    "serial_number": 177
+  },
+  {
+    "text": "@ johnbartlettNY Hi John ! The New Vegan Times Magazine is proud to connect with you ! We are here to serve !",
+    "aspect": "johnbartlettNY",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_14_1173.jpg",
+    "image_context": "A promotional image for \"The New Vegan Times\" blog emphasizes diverse news topics, lifestyle interests, and social updates, encouraging viewers to \"See Veganism differently\" with an engaging and modern appeal.",
+    "serial_number": 178
+  },
+  {
+    "text": "Montreal festival float causes race row",
+    "aspect": "Montreal",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_364.jpg",
+    "image_context": "Two individuals in matching beige outfits are energetically pushing a float in a lively outdoor parade, surrounded by casually dressed onlookers.",
+    "serial_number": 179
+  },
+  {
+    "text": "Today we learned that Leonardo DiCaprio is a boxers man",
+    "aspect": "Leonardo DiCaprio",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2236.jpg",
+    "image_context": "Three casually dressed men are engaged in a friendly conversation while standing with bicycles on a city street, one smiling and gesturing animatedly.",
+    "serial_number": 180
+  },
+  {
+    "text": "Tonight ' s view for the @ bryanadams concert wonder if I can get a chant going let ' s go bryan let ' s go lol",
+    "aspect": "bryanadams",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_14_776.jpg",
+    "image_context": "A large crowd fills an indoor arena, creating an atmosphere of anticipation and excitement as they await a performance on stage.",
+    "serial_number": 181
+  },
+  {
+    "text": "Primary Football Cup . St Bede ' s v St Augustines friendly . . . . both out but now for the friendly # sportsmanship",
+    "aspect": "Primary Football Cup",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_2945.jpg",
+    "image_context": "Children in maroon and yellow jerseys play a soccer match on a sunny day, with a coach observing from the sidelines.",
+    "serial_number": 182
+  },
+  {
+    "text": "Happy Birthday @ Jeena_PS and good luck with Kerala at the # SeniorNationals2017 # IndiaBasketball",
+    "aspect": "Kerala",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_16127.jpg",
+    "image_context": "A woman stands confidently in a basketball jersey with \"India\" and the number 13, exuding a calm and focused demeanor.",
+    "serial_number": 183
+  },
+  {
+    "text": "@ DragonflyJonez After the WCF he definetely gonna man on a mission",
+    "aspect": "WCF",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_6361.jpg",
+    "image_context": "A man in a suit leans forward with a contemplative expression, sitting behind chairs labeled \"Western Conference Finals\" in a sports arena setting.",
+    "serial_number": 184
+  },
+  {
+    "text": "Warriors advance to the NBA Finals for the second straight year ! Thunder led series 3 - 1 👀 🔥 # NotGoingHome",
+    "aspect": "Thunder",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_30_726.jpg",
+    "image_context": "A basketball player in a Warriors jersey confidently gestures on the court, surrounded by cheering fans in a vibrant, energetic atmosphere.",
+    "serial_number": 185
+  },
+  {
+    "text": "NBA ' s Raptors turn up heat in overtime to beat Miami",
+    "aspect": "Miami",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "16_05_05_987.jpg",
+    "image_context": "Three basketball players in Raptors jerseys walk on the court, with one pointing upwards, suggesting a moment of teamwork or victory in a game setting.",
+    "serial_number": 186
+  },
+  {
+    "text": "Can someone please shoot a horror movie here ? Or like a Harry Potter spinoff ?",
+    "aspect": "Harry Potter",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_1903.jpg",
+    "image_context": "The image depicts an industrial-looking room with exposed pipes and large metal basins, suggesting a utilitarian or maintenance environment.",
+    "serial_number": 187
+  },
+  {
+    "text": "NEW : Jennifer Lawrence out for dinner in London last night ( src : @ jlawgermany )",
+    "aspect": "Jennifer Lawrence",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_367.jpg",
+    "image_context": "A woman in a stylish black outfit and white top walks with a focused expression, clutching a black purse, in an evening urban setting.",
+    "serial_number": 188
+  },
+  {
+    "text": "Who doesn ' t love dish soap that smells good a works great ! # palmolivefusion thank you @ influenster",
+    "aspect": "influenster",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_28_220.jpg",
+    "image_context": "A bottle of Palmolive Fusion Clean dish soap with baking soda and lime, emphasizing freshness and cleanliness.",
+    "serial_number": 189
+  },
+  {
+    "text": "Steve Bruce : Promotion to the Premier League will inspire my Hull players - …",
+    "aspect": "Steve Bruce",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_27_195.jpg",
+    "image_context": "A man with a serious expression sits in a sports setting, wearing a black jacket, against a backdrop of red seats.",
+    "serial_number": 190
+  },
+  {
+    "text": "Steve Bruce : Promotion to the Premier League will inspire my Hull players - …",
+    "aspect": "Hull",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_27_195.jpg",
+    "image_context": "A man with a serious expression sits in a sports setting, wearing a black jacket, against a backdrop of red seats.",
+    "serial_number": 191
+  },
+  {
+    "text": "A team of British Special Forces is safe thanks to the efforts of a German Shepherd traine …",
+    "aspect": "German",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2721.jpg",
+    "image_context": "A German Shepherd gazes attentively upward, conveying alertness and focus in a natural outdoor setting.",
+    "serial_number": 192
+  },
+  {
+    "text": "High school football season in full swing in Niagara 0 . . .",
+    "aspect": "Niagara",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_22_412.jpg",
+    "image_context": "A football player in black is running with the ball, pursued by opponents in purple, showcasing intense competition on a grassy field.",
+    "serial_number": 193
+  },
+  {
+    "text": "Great to see him back in the premier league 👍",
+    "aspect": "premier league",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_28_195.jpg",
+    "image_context": "Two men in sports attire and suits, smiling and raising their fists in victory, hold a trophy on a sports field amid a cheering crowd.",
+    "serial_number": 194
+  },
+  {
+    "text": "Marco Rubio faces pressure to run for reelection as GOP fears grow over his Senate seat",
+    "aspect": "Marco Rubio",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_4244.jpg",
+    "image_context": "A man in a suit sits at a conference table with a serious expression, suggesting focus and attentiveness in a formal meeting setting.",
+    "serial_number": 195
+  },
+  {
+    "text": "Marco Rubio faces pressure to run for reelection as GOP fears grow over his Senate seat",
+    "aspect": "GOP",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4244.jpg",
+    "image_context": "A man in a suit sits at a conference table with a serious expression, suggesting focus and attentiveness in a formal meeting setting.",
+    "serial_number": 196
+  },
+  {
+    "text": "Justin Trudeau wears Muslim - themed socks at the Pride parade in Toronto . Makes sense .",
+    "aspect": "Justin Trudeau",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_292.jpg",
+    "image_context": "A person in a suit enthusiastically waves to a cheering crowd at an outdoor parade, with people holding rainbow flags and showing support.",
+    "serial_number": 197
+  },
+  {
+    "text": "The Alabama Football players we love : Hootie Jones and his Mom - BamaHammer",
+    "aspect": "BamaHammer",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_13235.jpg",
+    "image_context": "A football player in a red jersey raises his arms triumphantly on the field, exuding confidence and energy.",
+    "serial_number": 198
+  },
+  {
+    "text": "Jessica Alba on the past , present and future of The Honest Company",
+    "aspect": "The Honest Company",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2579.jpg",
+    "image_context": "A woman in a white blouse sits smiling on stage at a tech conference, conveying a positive and engaging atmosphere.",
+    "serial_number": 199
+  },
+  {
+    "text": "LSRC is hosting the Avoiding Catastrophe : Linking Armed Conflict , Harm to Ecosystems , and Public Health conference",
+    "aspect": "LSRC",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_02_460.jpg",
+    "image_context": "The poster promotes a conference on linking armed conflict, ecosystem harm, and public health, featuring images of a child in a muddy refugee camp, a flock of birds at sunset, and hands holding water, symbolizing themes of conflict, nature, and health.",
+    "serial_number": 200
+  },
+  {
+    "text": "Jennifer Lawrence on the cover of Harper ' s Bazaar Magazine [ Bulgaria ] ( June 2016 )",
+    "aspect": "Harper ' s Bazaar Magazine",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4229.jpg",
+    "image_context": "A woman with a confident expression and stylish attire poses on a magazine cover, conveying elegance and sophistication.",
+    "serial_number": 201
+  },
+  {
+    "text": "Q . Donald Trump , Hillary Clinton and Ted Cruz are on a plane . The plane crashes . Who survives ?",
+    "aspect": "Ted Cruz",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4973.jpg",
+    "image_context": "A smiling man in a black suit enthusiastically points towards the word \"AMERICA\" with both hands, conveying excitement or emphasis.",
+    "serial_number": 202
+  },
+  {
+    "text": "Emmanuel Adebayor signs 18 months deal with Turkish football club",
+    "aspect": "Emmanuel Adebayor",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_22630.jpg",
+    "image_context": "A man in a suit and another in casual attire smile while holding a sports jersey indoors, suggesting a celebratory or official signing event.",
+    "serial_number": 203
+  },
+  {
+    "text": "Emmanuel Adebayor signs 18 months deal with Turkish football club",
+    "aspect": "Turkish",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_22630.jpg",
+    "image_context": "A man in a suit and another in casual attire smile while holding a sports jersey indoors, suggesting a celebratory or official signing event.",
+    "serial_number": 204
+  },
+  {
+    "text": "Day well spent watching grassroot football in Kabete with @ MissKami27 . NYSA 4 - 0 Riara Uni . # ExtremeSuper8",
+    "aspect": "MissKami27",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_878.jpg",
+    "image_context": "Four people are outdoors on a sports field, smiling and holding a soccer ball together, suggesting a celebratory or friendly interaction.",
+    "serial_number": 205
+  },
+  {
+    "text": "Day well spent watching grassroot football in Kabete with @ MissKami27 . NYSA 4 - 0 Riara Uni . # ExtremeSuper8",
+    "aspect": "NYSA",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_02_878.jpg",
+    "image_context": "Four people are outdoors on a sports field, smiling and holding a soccer ball together, suggesting a celebratory or friendly interaction.",
+    "serial_number": 206
+  },
+  {
+    "text": "Bill Clinton Fired FBI Director One Day B4 Vince Fosters Death # PJNET",
+    "aspect": "FBI",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2630.jpg",
+    "image_context": "A person in formal attire appears contemplative, resting their face on their hand, accompanied by text referencing a past political decision.",
+    "serial_number": 207
+  },
+  {
+    "text": "Bill Clinton Fired FBI Director One Day B4 Vince Fosters Death # PJNET",
+    "aspect": "Vince Fosters",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_2630.jpg",
+    "image_context": "A person in formal attire appears contemplative, resting their face on their hand, accompanied by text referencing a past political decision.",
+    "serial_number": 208
+  },
+  {
+    "text": "Very excited to announce that Coach Staci Conner and her husband , basketball Coach Jeff Conner , are expecting ! ! 💗 👶 🏼 🍼",
+    "aspect": "Jeff Conner",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_06_1048.jpg",
+    "image_context": "A couple joyfully announces their pregnancy in a cozy bedroom, with the man reading a parenting book and the woman happily eating ice cream, surrounded by snacks.",
+    "serial_number": 209
+  },
+  {
+    "text": "An artist replaced all these old - school Nintendo games ' bad guys with Donald Trump",
+    "aspect": "Donald Trump",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_1035.jpg",
+    "image_context": "A pixelated boxer stands confidently in a ring, gloves raised, as a referee observes, creating a competitive and tense atmosphere.",
+    "serial_number": 210
+  },
+  {
+    "text": "Thank you to @ JHSbaseball2014 and Coach Gamble for the Rubberducks tickets !",
+    "aspect": "Gamble",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_107.jpg",
+    "image_context": "Spectators watch a baseball game from the stands, with players positioned on the field under a cloudy sky, creating a relaxed and engaged atmosphere.",
+    "serial_number": 211
+  },
+  {
+    "text": "Thank you to @ JHSbaseball2014 and Coach Gamble for the Rubberducks tickets !",
+    "aspect": "Rubberducks",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_107.jpg",
+    "image_context": "Spectators watch a baseball game from the stands, with players positioned on the field under a cloudy sky, creating a relaxed and engaged atmosphere.",
+    "serial_number": 212
+  },
+  {
+    "text": "The TackleAfrica London football marathon is go !",
+    "aspect": "London",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_5903.jpg",
+    "image_context": "People are playing sports on a sunny field, surrounded by tents and flags, creating a lively and energetic atmosphere.",
+    "serial_number": 213
+  },
+  {
+    "text": "# NFL # Colts sign third round pick Le ' Raven Clark",
+    "aspect": "NFL",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_29_944.jpg",
+    "image_context": "A football player in a Texas Tech uniform is in an intense stance, facing an opponent on the field during a game.",
+    "serial_number": 214
+  },
+  {
+    "text": "# NFL # Colts sign third round pick Le ' Raven Clark",
+    "aspect": "Le ' Raven Clark",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_29_944.jpg",
+    "image_context": "A football player in a Texas Tech uniform is in an intense stance, facing an opponent on the field during a game.",
+    "serial_number": 215
+  },
+  {
+    "text": "Exclusive — Donald Trump : ‘ Clinton Cash ’ Proves Hillary Is ‘ Crooked As Hell ’ - Breitbart",
+    "aspect": "Clinton Cash",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_288.jpg",
+    "image_context": "I'm sorry, I can't help with that.",
+    "serial_number": 216
+  },
+  {
+    "text": "always in my heart harry ' s hair , your sincerely one direction fandom 💔 💔",
+    "aspect": "one direction",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1952.jpg",
+    "image_context": "A person passionately sings into a microphone with closed eyes and a focused expression, conveying intense emotion.",
+    "serial_number": 217
+  },
+  {
+    "text": "NW Rankin eliminates Warren Central in Class 6 A baseball playoffs :",
+    "aspect": "NW Rankin",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "16_05_04_899.jpg",
+    "image_context": "A baseball player in a \"Vikings\" jersey sits on the field with a contemplative expression, hands clasped near his face, suggesting deep thought or concern.",
+    "serial_number": 218
+  },
+  {
+    "text": "Missed Micky Dolenz ' s live performance ? Watch whole concert here . Now !",
+    "aspect": "Micky Dolenz",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_13_157.jpg",
+    "image_context": "The image features a concert poster for Micky Dolenz in Clearwater, FL, with an expected setlist and silhouettes of cheering fans, conveying excitement and anticipation for the event.",
+    "serial_number": 219
+  },
+  {
+    "text": "David Beckham turns 41 today , Diego Costa is 27 .",
+    "aspect": "David Beckham",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2732.jpg",
+    "image_context": "The image shows two men, one in casual attire with a neutral expression indoors, and the other in a blue sports jersey on a field, appearing focused.",
+    "serial_number": 220
+  },
+  {
+    "text": "David Beckham turns 41 today , Diego Costa is 27 .",
+    "aspect": "Diego Costa",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2732.jpg",
+    "image_context": "The image shows two men, one in casual attire with a neutral expression indoors, and the other in a blue sports jersey on a field, appearing focused.",
+    "serial_number": 221
+  },
+  {
+    "text": "The women dressed in Calvin Klein Collection . # metgala",
+    "aspect": "metgala",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_2414.jpg",
+    "image_context": "A woman stands confidently in an elegant, form-fitting white gown with a high slit, exuding sophistication and poise in a minimalist indoor setting.",
+    "serial_number": 222
+  },
+  {
+    "text": "@ GaryBarlow Loved the concert in Manchester on Sunday amazing concert of my life",
+    "aspect": "Manchester",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_13647.jpg",
+    "image_context": "A performer in vibrant attire energetically sings on stage, smiling broadly, in a large stadium setting.",
+    "serial_number": 223
+  },
+  {
+    "text": "Clinton is on CNN Anderson Cooper right now ragging on Trump , s lavish lifestyle . She lives in this poor shack",
+    "aspect": "Clinton",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4073.jpg",
+    "image_context": "An aerial view of a large, luxurious estate with a pool, accompanied by text suggesting irony about wealth.",
+    "serial_number": 224
+  },
+  {
+    "text": "Clinton is on CNN Anderson Cooper right now ragging on Trump , s lavish lifestyle . She lives in this poor shack",
+    "aspect": "CNN",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4073.jpg",
+    "image_context": "An aerial view of a large, luxurious estate with a pool, accompanied by text suggesting irony about wealth.",
+    "serial_number": 225
+  },
+  {
+    "text": "Clinton is on CNN Anderson Cooper right now ragging on Trump , s lavish lifestyle . She lives in this poor shack",
+    "aspect": "Anderson Cooper",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4073.jpg",
+    "image_context": "An aerial view of a large, luxurious estate with a pool, accompanied by text suggesting irony about wealth.",
+    "serial_number": 226
+  },
+  {
+    "text": "Clinton is on CNN Anderson Cooper right now ragging on Trump , s lavish lifestyle . She lives in this poor shack",
+    "aspect": "Trump",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_4073.jpg",
+    "image_context": "An aerial view of a large, luxurious estate with a pool, accompanied by text suggesting irony about wealth.",
+    "serial_number": 227
+  },
+  {
+    "text": "Kim Kardashian Warns Khloe To ‘ Stay Away From ’ Odell Beckham Jr . After PDA With NFL Star",
+    "aspect": "Khloe",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "16_05_31_8.jpg",
+    "image_context": "A doctor in a white coat attentively engages with a patient in a clinical setting, conveying professionalism and care.",
+    "serial_number": 228
+  },
+  {
+    "text": "PHOTOS : Adam Pilachowski allows three hits , No . 9 South Hadley baseball tops Belchertown -",
+    "aspect": "South Hadley",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_03_208.jpg",
+    "image_context": "A baseball player in an orange and black uniform is poised to swing the bat on a grassy field, displaying focus and concentration.",
+    "serial_number": 229
+  },
+  {
+    "text": "Read about the newest member of the # WSU men ' s basketball program",
+    "aspect": "WSU",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_02_22.jpg",
+    "image_context": "Two individuals are engaged in a focused basketball game indoors, with one dribbling the ball while the other defends closely.",
+    "serial_number": 230
+  },
+  {
+    "text": "# LionelMessi ' s bride # antonellaRoccuzzo ' first lady of football ' |",
+    "aspect": "antonellaRoccuzzo",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_707.jpg",
+    "image_context": "A man in a red tuxedo and a woman in a sparkly dress smile warmly at an indoor event, suggesting a celebratory atmosphere.",
+    "serial_number": 231
+  },
+  {
+    "text": "BREAKING : United have made Ryan Giggs an offer to stay at the club # mufc",
+    "aspect": "Ryan Giggs",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_5051.jpg",
+    "image_context": "Two men in a sports setting share a close, friendly interaction, with one smiling and the other appearing thoughtful, suggesting camaraderie and mutual respect.",
+    "serial_number": 232
+  },
+  {
+    "text": "The Only 5 Times an NBA Players Posted a Quad Double",
+    "aspect": "NBA",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_281.jpg",
+    "image_context": "A basketball player in a Spurs jersey celebrates energetically on the court, conveying triumph and excitement, with impressive game statistics displayed beside him.",
+    "serial_number": 233
+  },
+  {
+    "text": "Lil bro @ jordanazzow been going CRAZY ! ! These hats are INSANE ! Hit em ASAP and grab you one . Think it ' s only 10",
+    "aspect": "jordanazzow",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_4944.jpg",
+    "image_context": "A collection of unfinished, colorful fabric hats with labels is spread across a worktable, suggesting a creative and industrious environment.",
+    "serial_number": 234
+  },
+  {
+    "text": "Nba - The Cavs are Shocked Draymond Green Keeps Getting Away With Kic -",
+    "aspect": "Cavs",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "16_05_27_191.jpg",
+    "image_context": "A basketball player in a white jersey flexes triumphantly in front of a cheering crowd, conveying confidence and celebration.",
+    "serial_number": 235
+  },
+  {
+    "text": "Great to be back ⚽ ️ Book now for Saturday 17 th June . # LoveTheGame # DFA # football",
+    "aspect": "DFA",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_5399.jpg",
+    "image_context": "Children are actively engaged in soccer drills on a grassy field, displaying focus and coordination in a training environment.",
+    "serial_number": 236
+  },
+  {
+    "text": "Are you partying with us tonight at forbidden festival 🎉 👀",
+    "aspect": "forbidden festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_01_697.jpg",
+    "image_context": "A performer breathes fire on stage in a vibrant nightclub, while a cheering crowd captures the lively and energetic atmosphere.",
+    "serial_number": 237
+  },
+  {
+    "text": "Hope everyone ' s having fun @ gabsfestival Sydney . Don ' t forget to get your @ ParrotDog tat ! # parrotdog4life",
+    "aspect": "Sydney",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_27_299.jpg",
+    "image_context": "A person with a temporary tattoo reading \"PARROTDOG\" on their arm holds a stack of books, suggesting a casual and relaxed indoor setting.",
+    "serial_number": 238
+  },
+  {
+    "text": "Canning Dock from last night , looking ready for the weekend ' s @ Merseyfestival . Lovely warm night for the solstice .",
+    "aspect": "Canning Dock",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_13687.jpg",
+    "image_context": "A tranquil evening cityscape with illuminated buildings reflecting on calm water, creating a serene and contemplative atmosphere.",
+    "serial_number": 239
+  },
+  {
+    "text": "Javier Mascherano has agreed a three - year deal with Juventus . ( Daily Mirror )",
+    "aspect": "Javier Mascherano",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4358.jpg",
+    "image_context": "A focused soccer player in a Barcelona jersey is running on the field, displaying determination and concentration.",
+    "serial_number": 240
+  },
+  {
+    "text": "Javier Mascherano has agreed a three - year deal with Juventus . ( Daily Mirror )",
+    "aspect": "Juventus",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4358.jpg",
+    "image_context": "A focused soccer player in a Barcelona jersey is running on the field, displaying determination and concentration.",
+    "serial_number": 241
+  },
+  {
+    "text": "Bourbonnais Friendship Festival is fast approaching , mark your calendars for June 21 .",
+    "aspect": "Bourbonnais Friendship Festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_6107.jpg",
+    "image_context": "A family joyfully plays skee-ball at a vibrant carnival, with children eagerly tossing balls while surrounded by colorful plush prizes.",
+    "serial_number": 242
+  },
+  {
+    "text": "David Bowie , 1975 by Steve Schapiro # TheThinWhiteDuke # rock # music # fashion # style # icon",
+    "aspect": "David Bowie",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_3216.jpg",
+    "image_context": "A person in a relaxed posture, wearing a white shirt, reads a script while smoking, conveying a contemplative and introspective mood in a cozy indoor setting.",
+    "serial_number": 243
+  },
+  {
+    "text": "Ryan ’ s Primary Opponent , Paul Nehlen , Says : “ Will Support Donald Trump ” …",
+    "aspect": "Ryan",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_3162.jpg",
+    "image_context": "A man in a button-up shirt stands with a neutral expression beside a critical political statement, conveying a serious and assertive sentiment.",
+    "serial_number": 244
+  },
+  {
+    "text": "‘ Stunning ’ swing state Q - polls shows Donald Trump closing gap , he takes lead over Hillary …",
+    "aspect": "Hillary",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4159.jpg",
+    "image_context": "Two individuals are speaking passionately at podiums, each with expressive gestures and focused expressions, suggesting a formal or political setting.",
+    "serial_number": 245
+  },
+  {
+    "text": "Too long to tweet . Too good to cut - The Danger of Flying Too Low - Seth Godin - see attached",
+    "aspect": "Seth Godin",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4295.jpg",
+    "image_context": "The text emphasizes the danger of settling for low expectations, urging individuals to embrace risk and strive for greater achievements.",
+    "serial_number": 246
+  },
+  {
+    "text": "Here ' s Every Dress Taylor Swift Has Ever Worn To The Met Gala",
+    "aspect": "Taylor Swift",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_358.jpg",
+    "image_context": "A woman in an elegant gold gown stands confidently on a red carpet, surrounded by a crowd in formal attire, suggesting a glamorous event.",
+    "serial_number": 247
+  },
+  {
+    "text": "when people have stopped speculating about your alleged romance with harry styles 🤔",
+    "aspect": "harry styles",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_1667.jpg",
+    "image_context": "The text expresses admiration for a man with unique fashion and tattoos, indicated by the butterfly emoji, suggesting a playful and appreciative tone.",
+    "serial_number": 248
+  },
+  {
+    "text": "Newcomb rooms after their first win in four years . Photo Credit @ KrockFootball @ AFLBarwon @ addyfootyfix",
+    "aspect": "KrockFootball",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_5913.jpg",
+    "image_context": "A group of athletes in sports attire sit closely together in a locker room, appearing relaxed and engaged, surrounded by standing team members and staff, suggesting a post-game discussion or celebration.",
+    "serial_number": 249
+  },
+  {
+    "text": "Just 115 days till # NBA regular season starts 😴",
+    "aspect": "NBA",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_2389.jpg",
+    "image_context": "A basketball player in a yellow jersey gestures confidently on the court, while another player in a dark jersey walks away, with a crowd watching intently.",
+    "serial_number": 250
+  },
+  {
+    "text": "The fantastic Grimsdyke Brass kick off this year ' s May Day Festival - on the Green , Harrow on the Hill , until 4 pm",
+    "aspect": "May Day Festival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_673.jpg",
+    "image_context": "A brass band performs energetically under a tent on a sunny street, with a conductor leading and an elderly man seated nearby, observing attentively.",
+    "serial_number": 251
+  },
+  {
+    "text": "Steph Curry debuted the Under Armour ' Curry 4 ' at Game 1 of the # NBAFinals",
+    "aspect": "Steph Curry",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_15155.jpg",
+    "image_context": "A basketball player in a blue and yellow jersey leans forward with a focused expression on a court, suggesting concentration and determination during a game.",
+    "serial_number": 252
+  },
+  {
+    "text": "# Beauty # Fashion JENNIFER LAWRENCE 1 new rare # Photo 8 x10 picture # 622",
+    "aspect": "JENNIFER LAWRENCE",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_2594.jpg",
+    "image_context": "A woman with long wavy hair and a serious expression stands indoors, reflected in a mirror, creating a contemplative and introspective atmosphere.",
+    "serial_number": 253
+  },
+  {
+    "text": "@ Soundkartell did an Interview with @ tomklose at @ spotfestival and it was very kind . We talked about @ SpotifyDE",
+    "aspect": "Soundkartell",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_01_254.jpg",
+    "image_context": "A person in a casual hoodie smiles warmly in an indoor setting with a decorative plant in the background, conveying a relaxed and positive mood.",
+    "serial_number": 254
+  },
+  {
+    "text": "@ Soundkartell did an Interview with @ tomklose at @ spotfestival and it was very kind . We talked about @ SpotifyDE",
+    "aspect": "spotfestival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_254.jpg",
+    "image_context": "A person in a casual hoodie smiles warmly in an indoor setting with a decorative plant in the background, conveying a relaxed and positive mood.",
+    "serial_number": 255
+  },
+  {
+    "text": "@ Soundkartell did an Interview with @ tomklose at @ spotfestival and it was very kind . We talked about @ SpotifyDE",
+    "aspect": "SpotifyDE",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_254.jpg",
+    "image_context": "A person in a casual hoodie smiles warmly in an indoor setting with a decorative plant in the background, conveying a relaxed and positive mood.",
+    "serial_number": 256
+  },
+  {
+    "text": "Tearing up Crown and Treaty for Yuck ' s birthday @ robinbastardd @ LiLphobe @ carawaydisco",
+    "aspect": "Yuck",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_02_709.jpg",
+    "image_context": "A group of people energetically perform on stage with microphones, creating a lively and engaging atmosphere in a dimly lit indoor setting.",
+    "serial_number": 257
+  },
+  {
+    "text": "Russell Westbrook will not back down from the chance to prove he is the best .",
+    "aspect": "Russell Westbrook",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_155.jpg",
+    "image_context": "The image presents a statistical comparison between two basketball players, highlighting their impressive achievements and setting a competitive tone for the season.",
+    "serial_number": 258
+  },
+  {
+    "text": "Roger Goodell and NFL hire new lawyer to help defeat Tom Brady in court .",
+    "aspect": "Roger Goodell",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_4052.jpg",
+    "image_context": "A man in a suit waves with a friendly expression, carrying a bag, suggesting a professional or travel context.",
+    "serial_number": 259
+  },
+  {
+    "text": "Statement from Roger Federer regarding his withdrawal from Roland Garros",
+    "aspect": "Roger Federer",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4235.jpg",
+    "image_context": "A public announcement expressing regret and determination, explaining a decision to skip the French Open for fitness reasons, while maintaining motivation and future aspirations.",
+    "serial_number": 260
+  },
+  {
+    "text": "Statement from Roger Federer regarding his withdrawal from Roland Garros",
+    "aspect": "Roland Garros",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_4235.jpg",
+    "image_context": "A public announcement expressing regret and determination, explaining a decision to skip the French Open for fitness reasons, while maintaining motivation and future aspirations.",
+    "serial_number": 261
+  },
+  {
+    "text": "Here ' s Hannah and Ruth performing at the Cabinet of Curiosities concert in lincoln last night .",
+    "aspect": "Hannah",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_5397.jpg",
+    "image_context": "Two women are seated and playing violins in a dimly lit indoor setting, focused and immersed in their performance.",
+    "serial_number": 262
+  },
+  {
+    "text": "Here ' s Hannah and Ruth performing at the Cabinet of Curiosities concert in lincoln last night .",
+    "aspect": "Ruth",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_5397.jpg",
+    "image_context": "Two women are seated and playing violins in a dimly lit indoor setting, focused and immersed in their performance.",
+    "serial_number": 263
+  },
+  {
+    "text": "Close up pictures of Lady Gaga on the red carpet at The MET Gala 2016 .",
+    "aspect": "Lady Gaga",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_207.jpg",
+    "image_context": "A person poses confidently in an elaborate, futuristic outfit with bold makeup and styled hair, exuding a glamorous and edgy vibe at a formal event.",
+    "serial_number": 264
+  },
+  {
+    "text": "Ariana Grande arrives in Manchester later , before the One Love Manchester benefit concert on Sunday night .",
+    "aspect": "Ariana Grande",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_14808.jpg",
+    "image_context": "Workers in safety vests are assembling a large outdoor stage, suggesting preparation for an upcoming event or concert.",
+    "serial_number": 265
+  },
+  {
+    "text": "Donald Trump Tells West Virginia Primary Voters to Stay Home",
+    "aspect": "Donald Trump",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "O_4946.jpg",
+    "image_context": "A man in a suit adjusts a hard hat while standing at a podium, suggesting a formal event or speech in a crowded indoor venue.",
+    "serial_number": 266
+  },
+  {
+    "text": "Donald Trump Tells West Virginia Primary Voters to Stay Home",
+    "aspect": "West Virginia",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4946.jpg",
+    "image_context": "A man in a suit adjusts a hard hat while standing at a podium, suggesting a formal event or speech in a crowded indoor venue.",
+    "serial_number": 267
+  },
+  {
+    "text": "BBC News - Donald Trump ' posed as own spokesperson ' in business dealings",
+    "aspect": "BBC",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_126.jpg",
+    "image_context": "A man in a suit, speaking confidently at a podium, gestures with his hand, surrounded by smiling individuals in a celebratory indoor setting.",
+    "serial_number": 268
+  },
+  {
+    "text": "Marcus Rashford has scored with his first shot in the Europa League , Premier League and now for England !",
+    "aspect": "Europa League",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_27_569.jpg",
+    "image_context": "A person in a red sports jacket smiles while standing outdoors in the rain, conveying a sense of enjoyment and resilience.",
+    "serial_number": 269
+  },
+  {
+    "text": "Marcus Rashford has scored with his first shot in the Europa League , Premier League and now for England !",
+    "aspect": "Premier League",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_27_569.jpg",
+    "image_context": "A person in a red sports jacket smiles while standing outdoors in the rain, conveying a sense of enjoyment and resilience.",
+    "serial_number": 270
+  },
+  {
+    "text": "Marcus Rashford has scored with his first shot in the Europa League , Premier League and now for England !",
+    "aspect": "England",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_27_569.jpg",
+    "image_context": "A person in a red sports jacket smiles while standing outdoors in the rain, conveying a sense of enjoyment and resilience.",
+    "serial_number": 271
+  },
+  {
+    "text": "# TheComeback reunion panel at @ ATXFestival with @ LisaKudrow , Michael Patrick King @ danbucatinsky Laura Silverman",
+    "aspect": "ATXFestival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_4983.jpg",
+    "image_context": "Four individuals are engaged in a panel discussion at the ATX Television Festival, with one woman speaking into a microphone while others listen attentively.",
+    "serial_number": 272
+  },
+  {
+    "text": "# TheComeback reunion panel at @ ATXFestival with @ LisaKudrow , Michael Patrick King @ danbucatinsky Laura Silverman",
+    "aspect": "LisaKudrow",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_4983.jpg",
+    "image_context": "Four individuals are engaged in a panel discussion at the ATX Television Festival, with one woman speaking into a microphone while others listen attentively.",
+    "serial_number": 273
+  },
+  {
+    "text": "# TheComeback reunion panel at @ ATXFestival with @ LisaKudrow , Michael Patrick King @ danbucatinsky Laura Silverman",
+    "aspect": "Michael Patrick King",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_4983.jpg",
+    "image_context": "Four individuals are engaged in a panel discussion at the ATX Television Festival, with one woman speaking into a microphone while others listen attentively.",
+    "serial_number": 274
+  },
+  {
+    "text": "# TheComeback reunion panel at @ ATXFestival with @ LisaKudrow , Michael Patrick King @ danbucatinsky Laura Silverman",
+    "aspect": "danbucatinsky",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_4983.jpg",
+    "image_context": "Four individuals are engaged in a panel discussion at the ATX Television Festival, with one woman speaking into a microphone while others listen attentively.",
+    "serial_number": 275
+  },
+  {
+    "text": "# TheComeback reunion panel at @ ATXFestival with @ LisaKudrow , Michael Patrick King @ danbucatinsky Laura Silverman",
+    "aspect": "Laura Silverman",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_4983.jpg",
+    "image_context": "Four individuals are engaged in a panel discussion at the ATX Television Festival, with one woman speaking into a microphone while others listen attentively.",
+    "serial_number": 276
+  },
+  {
+    "text": "📸 Bruno Mars via Maxwell ' s Instagram story ! # BETAwards17",
+    "aspect": "BETAwards17",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_3982.jpg",
+    "image_context": "Two individuals pose playfully outdoors, exuding a joyful and relaxed vibe, with one person smiling broadly and the other giving a thumbs-up.",
+    "serial_number": 277
+  },
+  {
+    "text": "MLB : White Sox 5, Blue Jays 2 . HIGHLIGHTS :",
+    "aspect": "Blue Jays",
+    "predict": "Negative",
+    "label": "Neutral",
+    "image_id": "17_06_5520.jpg",
+    "image_context": "The image shows a baseball game summary with Chicago White Sox defeating Toronto Blue Jays 5-2, highlighting player performances and pitcher statistics.",
+    "serial_number": 278
+  },
+  {
+    "text": "I had a great time at the Miamisburg Parade this morning . Be sure to check out the Spring Fling Festival today !",
+    "aspect": "Spring Fling Festival",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "16_05_21_556.jpg",
+    "image_context": "A smiling woman waves from a convertible with a \"County Commissioner\" sign, suggesting a celebratory or campaign event in a parking lot setting.",
+    "serial_number": 279
+  },
+  {
+    "text": "Great moment playing bubble hockey with the great Terry O ' Reilly ! ! @ NHLBruins @ CCRINews @ CCRIAthletics",
+    "aspect": "NHLBruins",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_16826.jpg",
+    "image_context": "Two men are engaged in a focused and competitive game of bubble hockey, one wearing a sports jersey, in an indoor setting.",
+    "serial_number": 280
+  },
+  {
+    "text": "Great moment playing bubble hockey with the great Terry O ' Reilly ! ! @ NHLBruins @ CCRINews @ CCRIAthletics",
+    "aspect": "CCRINews",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_16826.jpg",
+    "image_context": "Two men are engaged in a focused and competitive game of bubble hockey, one wearing a sports jersey, in an indoor setting.",
+    "serial_number": 281
+  },
+  {
+    "text": "Great moment playing bubble hockey with the great Terry O ' Reilly ! ! @ NHLBruins @ CCRINews @ CCRIAthletics",
+    "aspect": "CCRIAthletics",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_16826.jpg",
+    "image_context": "Two men are engaged in a focused and competitive game of bubble hockey, one wearing a sports jersey, in an indoor setting.",
+    "serial_number": 282
+  },
+  {
+    "text": "Drew Bishop ' s Way Too Early 2017 - 2018 NHL Power Rankings ( Part 1 )",
+    "aspect": "Drew Bishop",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_8704.jpg",
+    "image_context": "A hockey team in green jerseys stands on the ice, raising their sticks in unison, acknowledging an enthusiastic crowd with visible cheers and raised hands.",
+    "serial_number": 283
+  },
+  {
+    "text": "New jerseys bedevil NHL fans fashion sense",
+    "aspect": "NHL",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "17_06_7737.jpg",
+    "image_context": "A collection of colorful NHL jerseys is displayed, accompanied by an enthusiastic tweet likening their reveal to early Christmas presents, conveying excitement and anticipation.",
+    "serial_number": 284
+  },
+  {
+    "text": "Stoke City : £ 100 m Potters climb to 27 th in world football money league # StokeCityF . C .",
+    "aspect": "Stoke City",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_23088.jpg",
+    "image_context": "A large stadium exterior with overcast skies, featuring parked cars and prominent team branding, suggesting anticipation or aftermath of a sports event.",
+    "serial_number": 285
+  },
+  {
+    "text": "Stoke City : £ 100 m Potters climb to 27 th in world football money league # StokeCityF . C .",
+    "aspect": "Potters",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_23088.jpg",
+    "image_context": "A large stadium exterior with overcast skies, featuring parked cars and prominent team branding, suggesting anticipation or aftermath of a sports event.",
+    "serial_number": 286
+  },
+  {
+    "text": "Stoke City : £ 100 m Potters climb to 27 th in world football money league # StokeCityF . C .",
+    "aspect": "StokeCityF",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_01_23088.jpg",
+    "image_context": "A large stadium exterior with overcast skies, featuring parked cars and prominent team branding, suggesting anticipation or aftermath of a sports event.",
+    "serial_number": 287
+  },
+  {
+    "text": "Kurt Sutter joining us via FaceTime during the # sonsofanarchy panel @ ATXFestival # ATXTVs6",
+    "aspect": "Kurt Sutter",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_13819.jpg",
+    "image_context": "Three people are seated on a stage at a television festival panel, with one person smiling and holding a microphone, creating an engaging and conversational atmosphere.",
+    "serial_number": 288
+  },
+  {
+    "text": "A comment was made on Ellie Goulding ' s tweet about Donald Trump . Her reply was everything . 🔥 👏",
+    "aspect": "Ellie Goulding",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_3727.jpg",
+    "image_context": "A tweet expresses concern over Donald Trump's stance on climate change and the Paris Agreement, highlighting skepticism and potential policy changes.",
+    "serial_number": 289
+  },
+  {
+    "text": "David Cameron unveils his most convincing argument yet to stay in the EU . . .",
+    "aspect": "David Cameron",
+    "predict": "Neutral",
+    "label": "Negative",
+    "image_id": "O_4521.jpg",
+    "image_context": "A digitally altered image shows a man in a suit pointing with a concerned expression, alongside a Godzilla figure, with text humorously warning of Godzilla invading the UK if it leaves the EU.",
+    "serial_number": 290
+  },
+  {
+    "text": "# BrettEldredge : 2016 iHeartCountry Festival At The Frank Erwin Center - Press Room",
+    "aspect": "iHeartCountry Festival",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_01_163.jpg",
+    "image_context": "A man in a blue blazer and gray shirt smiles confidently on the red carpet at an iHeartRadio event.",
+    "serial_number": 291
+  },
+  {
+    "text": "Sky Arts are showing David Bowie ' s Glass Spider Tour tonight at 9 pm .",
+    "aspect": "David Bowie",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "O_3088.jpg",
+    "image_context": "A person in a vibrant red suit holds a microphone, exuding confidence and focus, suggesting a performance or public speaking setting.",
+    "serial_number": 292
+  },
+  {
+    "text": "We ' re here today at the @ TottBluegrass Festival ! @ NewTecumseth # tottenham",
+    "aspect": "NewTecumseth",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_5697.jpg",
+    "image_context": "A sign in a lush, green outdoor setting promotes the Tottenham Conservation Area and an upcoming bluegrass event, creating a welcoming and nature-focused atmosphere.",
+    "serial_number": 293
+  },
+  {
+    "text": "We ' re here today at the @ TottBluegrass Festival ! @ NewTecumseth # tottenham",
+    "aspect": "tottenham",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "17_06_5697.jpg",
+    "image_context": "A sign in a lush, green outdoor setting promotes the Tottenham Conservation Area and an upcoming bluegrass event, creating a welcoming and nature-focused atmosphere.",
+    "serial_number": 294
+  },
+  {
+    "text": "@ KahlenBarry i just made my mom buy this hat bc it looked like yours LMAO",
+    "aspect": "KahlenBarry",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "17_06_8357.jpg",
+    "image_context": "A red baseball cap sits in a shopping cart surrounded by various grocery items, suggesting a casual shopping environment.",
+    "serial_number": 295
+  },
+  {
+    "text": "Why does the media never show this Justin Bieber ?",
+    "aspect": "Justin Bieber",
+    "predict": "Negative",
+    "label": "Positive",
+    "image_id": "O_3484.jpg",
+    "image_context": "A person with tattoos gently embraces another person under a blanket in a cozy indoor setting, conveying warmth and comfort.",
+    "serial_number": 296
+  },
+  {
+    "text": "Roger Stone : I Hooked Up Nigel Farage With Donald Trump",
+    "aspect": "Roger Stone",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_175.jpg",
+    "image_context": "A man in a pinstripe suit stands confidently with arms outstretched in a victory gesture at a film festival backdrop.",
+    "serial_number": 297
+  },
+  {
+    "text": "Roger Stone : I Hooked Up Nigel Farage With Donald Trump",
+    "aspect": "Donald Trump",
+    "predict": "Positive",
+    "label": "Neutral",
+    "image_id": "O_175.jpg",
+    "image_context": "A man in a pinstripe suit stands confidently with arms outstretched in a victory gesture at a film festival backdrop.",
+    "serial_number": 298
+  },
+  {
+    "text": "Female trump is basically Taylor Swift . Coincidence ? Nope",
+    "aspect": "Taylor Swift",
+    "predict": "Positive",
+    "label": "Negative",
+    "image_id": "O_2050.jpg",
+    "image_context": "Two side-by-side portraits show a person with a neutral expression, one altered with a feminine appearance using an app.",
+    "serial_number": 299
+  },
+  {
+    "text": "@ hannuhnell after the rihanna concert",
+    "aspect": "rihanna",
+    "predict": "Neutral",
+    "label": "Positive",
+    "image_id": "16_05_17_498.jpg",
+    "image_context": "A person with vibrant eye makeup smiles warmly, wearing a denim hood in a dimly lit setting, conveying a sense of joy and playfulness.",
+    "serial_number": 300
+  }
+]
