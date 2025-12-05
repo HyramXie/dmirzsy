@@ -1,0 +1,48 @@
+# CUDA_VISIBLE_DEVICES=1 llamafactory-cli train 62/qwen3vl_lora_sft.yaml
+### model
+model_name_or_path: /root/huggingface/Qwen/Qwen3-VL-4B-Instruct
+image_max_pixels: 262144
+video_max_pixels: 16384
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 16
+lora_target: all
+
+### dataset
+dataset: mllm_demo_17
+template: qwen3_vl_nothink
+cutoff_len: 4096
+max_samples: 8000
+overwrite_cache: true
+preprocessing_num_workers: 16
+dataloader_num_workers: 0
+
+### output
+output_dir: saves_62/qwen3_vl-4b_nothink/lora/sft_17_sc
+logging_steps: 10
+save_steps: 500
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4
+learning_rate: 1.0e-4
+num_train_epochs: 8
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+mask_history: True
+
+# ## eval
+# val_size: 0.1
+# per_device_eval_batch_size: 1
+# eval_strategy: steps
+# eval_steps: 500

@@ -1,0 +1,51 @@
+[
+{
+    "text": "Life is what happens while you are busy planning other things John Lennon",
+    "aspect": "John Lennon",
+    "image_id": "29728.jpg",
+    "image_context": "A large crowd gathers at a concert, illuminated by stage lights, with an uplifting message displayed on a screen, creating a sense of shared joy and community.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C",
+    "prompt":"<image> Given the image and its description: \"A large crowd gathers at a concert, illuminated by stage lights, with an uplifting message displayed on a screen, creating a sense of shared joy and community.\", analyze the following text: 'Life is what happens while you are busy planning other things <target>John Lennon</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "Reflection": "The model incorrectly labeled the sentiment as 'neutral' by taking the text literally and missing the positive, playful comparison in text The peace sign, round glasses, and relaxed vibe reference John Lennon’s iconic, peace-associated image—indicating admiration.",
+    "Improvement": "The model should better recognize figurative language and cultural references. Comparing oneself to a positively viewed figure like Lennon typically signals positive sentiment. Leveraging contextual knowledge and detecting metaphorical or humorous tone can improve accuracy beyond literal interpretation."
+},
+{
+    "text": "RT @ CIothesPorn : USA defender Julie Johnston is perfection",
+    "aspect": "USA",
+    "image_id": "1377967.jpg",
+    "image_context": "A focused athlete in a blue jersey and headband stands on a sports field, appearing attentive and ready for action.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "B",
+    "Reflection": "The model erred by attributing the positive sentiment of 'Julie Johnston is perfection' to the target **USA**, though the praise is directed solely at the player. It failed to distinguish sentiment toward the individual from the neutral mention of her team/nationality.",
+    "Improvement": "The model should better disambiguate sentiment targets in multimodal content, recognizing that mentioning an entity (USA) as an attribute does not imply sentiment toward it. Separating sentiment toward individuals from associated groups will prevent misattribution and ensure accurate neutral classification for non-targeted entities."
+},
+{
+    "text": "RT @ chelseafc : Our last 10 league games away at Stoke City . . . # CFC",
+    "aspect": "Stoke City",
+    "image_id": "486167.jpg",
+    "image_context": "The image is a table showing the results of the last 10 league games between Stoke City and Chelsea at Stoke, highlighting Chelsea's dominance with six wins, one draw, and three losses.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "A",
+    "Reflection": "The model erred by focusing only on the neutral tweet text, ignoring the image’s stats showing Chelsea’s dominance (6 wins, 1 draw vs. Stoke), which frame #CFC positively.",
+    "Improvement": "Integrate multimodal cues—like win counts and performance visuals—to correctly infer positive sentiment toward #CFC, not neutral."
+},
+{
+    "prompt": "<image> Given the image and its description: \"A large crowd gathers at a concert, illuminated by stage lights, with an uplifting message displayed on a screen, creating a sense of shared joy and community.\", analyze the following text: 'Life is what happens while you are busy planning other things <target>John Lennon</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "Reflection": "The model incorrectly labeled the sentiment as 'neutral' by taking the text literally and missing the positive, playful comparison in text The peace sign, round glasses, and relaxed vibe reference John Lennon’s iconic, peace-associated image—indicating admiration.",
+    "Improvement": "The model should better recognize figurative language and cultural references. Comparing oneself to a positively viewed figure like Lennon typically signals positive sentiment. Leveraging contextual knowledge and detecting metaphorical or humorous tone can improve accuracy beyond literal interpretation."
+},
+{
+    "prompt": "<image> Given the image and its description: \"A focused athlete in a blue jersey and headband stands on a sports field, appearing attentive and ready for action.\", analyze the following text: 'RT @ CIothesPorn : USA defender <target>Julie Johnston</target> is perfection'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "Reflection": "The model erred by attributing the positive sentiment of 'Julie Johnston is perfection' to the target **USA**, though the praise is directed solely at the player. It failed to distinguish sentiment toward the individual from the neutral mention of her team/nationality.",
+    "Improvement": "The model should better disambiguate sentiment targets in multimodal content, recognizing that mentioning an entity (USA) as an attribute does not imply sentiment toward it. Separating sentiment toward individuals from associated groups will prevent misattribution and ensure accurate neutral classification for non-targeted entities."
+},
+{
+    "prompt": "<image> Given the image and its description: \"The image is a table showing the results of the last 10 league games between Stoke City and Chelsea at Stoke, highlighting Chelsea's dominance with six wins, one draw, and three losses.\", analyze the following text: 'RT @ chelseafc : Our last 10 league games away at <target>Stoke City</target> . . . # CFC'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "Reflection": "The model erred by focusing only on the neutral tweet text, ignoring the image’s stats showing Chelsea’s dominance (6 wins, 1 draw vs. Stoke), which frame #CFC positively.",
+    "Improvement": "Integrate multimodal cues—like win counts and performance visuals—to correctly infer positive sentiment toward #CFC, not neutral."
+}
+]

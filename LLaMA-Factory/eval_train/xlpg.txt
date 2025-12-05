@@ -1,0 +1,33 @@
+📊 Processing Summary:
+📁 Total input entries: 1680
+⏭️  Skipped (already processed): 0
+✅ Successfully processed: 1680
+❌ Errors occurred: 0
+🎯 Actually processed in this run: 1680
+⏱️  Total processing time: 10082.50s
+⏱️  Overall time (including setup): 10083.30s
+⚡ Average time per entry: 6.00s
+📈 Average prompt tokens per entry: 187.24
+📈 Average completion tokens per entry: 177.07
+📈 Average total tokens per entry: 364.31
+📝 Total prompt tokens: 314569
+📝 Total completion tokens: 297479
+📝 Total tokens: 612048
+✅ Results saved to: /root/user/zsy/LLaMA-Factory/eval_train/62/qwen3vl-4b/17_explain.jsonl
+
+📊 Processing Summary:
+📁 Total input entries: 1896
+⏭️  Skipped (already processed): 0
+✅ Successfully processed: 1895
+❌ Errors occurred: 1
+🎯 Actually processed in this run: 1895
+⏱️  Total processing time: 11681.18s
+⏱️  Overall time (including setup): 11689.13s
+⚡ Average time per entry: 6.16s
+📈 Average prompt tokens per entry: 188.55
+📈 Average completion tokens per entry: 181.83
+📈 Average total tokens per entry: 370.38
+📝 Total prompt tokens: 357309
+📝 Total completion tokens: 344565
+📝 Total tokens: 701874
+✅ Results saved to: /root/user/zsy/LLaMA-Factory/eval_train/62/qwen3vl-4b/15_explain.jsonl

@@ -1,0 +1,1292 @@
+[
+  {
+    "prompt": "Given the image and its description: \"A tweet expresses disbelief and criticism towards a musician's relevance, suggesting a negative sentiment.\", analyze the following text: 'Any team planning on signing Kevin Durant needs to include an \" Apologize to <target>Lil B</target> \" clause in the contract'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The newspaper article discusses David Cameron's stance against Nicola Sturgeon calling a new Scottish independence referendum without a clear mandate, emphasizing political tension and opposition claims of undemocratic actions.\", analyze the following text: 'Great to see <target>David Cameron</target> will be respecting the Edinburgh agreement .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The newspaper article discusses David Cameron's stance against Nicola Sturgeon calling a new Scottish independence referendum without a clear mandate, emphasizing political tension and opposition claims of undemocratic actions.\", analyze the following text: 'Great to see David Cameron will be respecting the <target>Edinburgh</target> agreement .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person stands on stage holding a microphone, eyes closed, wearing casual attire, suggesting a moment of emotional performance or introspection.\", analyze the following text: 'Why Chris Brown and <target>Beyonce</target> look like they tryna lead Praise and Worship ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A playful Twitter exchange shows a user humorously expressing distraction by tweets, with a light-hearted response and apology from another user.\", analyze the following text: 'If this ain ' t <target>Harry Styles</target> in a nutshell'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two basketball players in intense action on the court, one in a Lakers jersey holding the ball, the other in a Cavaliers jersey defending, set against a dark background with a quote highlighting their prowess.\", analyze the following text: 'I guess <target>Kevin Durant</target> , Terrance Jones , Carmelo , Kobe , Duncan are Jesus Christ'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two basketball players in intense action on the court, one in a Lakers jersey holding the ball, the other in a Cavaliers jersey defending, set against a dark background with a quote highlighting their prowess.\", analyze the following text: 'I guess Kevin Durant , <target>Terrance Jones</target> , Carmelo , Kobe , Duncan are Jesus Christ'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two basketball players in intense action on the court, one in a Lakers jersey holding the ball, the other in a Cavaliers jersey defending, set against a dark background with a quote highlighting their prowess.\", analyze the following text: 'I guess Kevin Durant , Terrance Jones , <target>Carmelo</target> , Kobe , Duncan are Jesus Christ'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two basketball players in intense action on the court, one in a Lakers jersey holding the ball, the other in a Cavaliers jersey defending, set against a dark background with a quote highlighting their prowess.\", analyze the following text: 'I guess Kevin Durant , Terrance Jones , Carmelo , <target>Kobe</target> , Duncan are Jesus Christ'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two basketball players in intense action on the court, one in a Lakers jersey holding the ball, the other in a Cavaliers jersey defending, set against a dark background with a quote highlighting their prowess.\", analyze the following text: 'I guess Kevin Durant , Terrance Jones , Carmelo , Kobe , <target>Duncan</target> are Jesus Christ'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of children in formal attire sing together, their expressions focused and engaged, suggesting a choir performance.\", analyze the following text: 'Forget the <target>X Factor</target> and One Direction — the next generation of boy bands will come from choirs'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of children in formal attire sing together, their expressions focused and engaged, suggesting a choir performance.\", analyze the following text: 'Forget the X Factor and <target>One Direction</target> — the next generation of boy bands will come from choirs'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit speaks passionately at a podium during a rally, surrounded by a cheering crowd holding supportive signs.\", analyze the following text: '<target>Donald Trump</target> tells drought - plagued Californians : \" There is no drought \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person stands confidently in an elaborate, futuristic outfit with bold makeup and styled hair, surrounded by formally dressed individuals in an event setting.\", analyze the following text: 'Lady Gaga ' s # <target>MetGala</target> look proves that you don ' t even need pants'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Three women in casual attire stand in a kitchen, displaying expressions of concern and curiosity, suggesting a serious or tense conversation.\", analyze the following text: 'When someone says they never seen <target>One Tree Hill</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two soccer players in team jerseys, one passionately shouting and the other focused, set against a stadium backdrop, conveying intense rivalry.\", analyze the following text: '<target>Barcelona</target> deserved to win La Liga : Real Madrid coach Zidane . . .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person is shown in close-up with a thoughtful expression, gently resting their chin on their hand, suggesting contemplation or introspection.\", analyze the following text: 'Why narcissistic behaviour is a plus for politicians — including <target>Justin Trudeau</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A humorous medal labeled \"Participation\" features a crying face, suggesting a satirical take on the Charlotte Hornets winning an award.\", analyze the following text: 'From NBAMemes : Congrats to the <target>Charlotte Hornets</target> on winning this award .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man stands confidently speaking into a microphone against a backdrop with bold political campaign text, suggesting a formal and persuasive setting.\", analyze the following text: '<target>Donald Trump Jr</target> . Trolls Democrats After They Lose In Georgia'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two side-by-side images show a young man with a neutral expression, one original and the other digitally altered to change his facial features.\", analyze the following text: 'CAPTAIN AMERICA : CIVIL WAR ' s <target>Sebastian Stan</target> Looks A Lot Like The Young Luke Skywalker .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A casually dressed person in a white tank top and blue shorts walks outdoors on a sunny day, holding a water bottle, with others nearby in a relaxed setting.\", analyze the following text: '<target>Harry styles</target> wearing white sneakers rt for good luck'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in a jersey passionately celebrates on the court, surrounded by cheering fans in a vibrant sports arena.\", analyze the following text: 'Stephen Curry Responds to <target>Kevin Durant</target> , Russell Westbrook ' s Defensive Criticism'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A pixelated character in red overalls jumps towards a brick platform in a classic video game setting, evoking nostalgia and adventure.\", analyze the following text: '<target>Kevin Durant</target> putting up more bricks than Super Mario Bros'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A pixelated character in red overalls jumps towards a brick platform in a classic video game setting, evoking nostalgia and adventure.\", analyze the following text: 'Kevin Durant putting up more bricks than <target>Super Mario Bros</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in a red blazer speaks confidently at a podium with microphones, set against a large American flag backdrop, suggesting a formal or political event.\", analyze the following text: '<target>Sarah Palin</target> thinks the US is giving immigrants gift baskets with ‘ teddy bears # Soccernews'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in a red blazer speaks confidently at a podium with microphones, set against a large American flag backdrop, suggesting a formal or political event.\", analyze the following text: 'Sarah Palin thinks the <target>US</target> is giving immigrants gift baskets with ‘ teddy bears # Soccernews'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two identical characters in superhero costumes point at each other in surprise and confusion, set in an urban environment.\", analyze the following text: '<target>Chris Paul</target> and James Harden blaming each other after they choke in the 2 nd Round'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two identical characters in superhero costumes point at each other in surprise and confusion, set in an urban environment.\", analyze the following text: 'Chris Paul and <target>James Harden</target> blaming each other after they choke in the 2 nd Round'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A green flag features the Seattle Supersonics logo with a yellow city skyline and bold text, evoking nostalgia and sports pride.\", analyze the following text: 'As <target>Seattle</target> stews about failed vote for NBA arena , was there a team ready to move ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person stands confidently on a red carpet in a glamorous silver dress, surrounded by photographers capturing the moment at a formal event.\", analyze the following text: '<target>Taylor Swift</target> dressed like the bottom of a salmon filet'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A hand is pouring Hennessy into a black mug in a dimly lit indoor setting, suggesting a casual or relaxed atmosphere.\", analyze the following text: '<target>LeBron</target> fans this morning like . . # NBAFinals # Cavs # warriors # next # year # reup'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two smiling individuals in sports attire stand closely together on a grassy field, suggesting camaraderie and celebration.\", analyze the following text: 'Last boys soccer game today ! I ' m going to miss watching <target>Gareth</target> play , even though he hates me 😜 ⚽ ️ 🤘 🏻 @ GarethBrewer4'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two smiling individuals in sports attire stand closely together on a grassy field, suggesting camaraderie and celebration.\", analyze the following text: 'Last boys soccer game today ! I ' m going to miss watching Gareth play , even though he hates me 😜 ⚽ ️ 🤘 🏻 @ <target>GarethBrewer4</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A dog, wearing a hat, sits calmly in a burning room with a neutral expression, saying \"This is fine,\" conveying a sense of denial or irony amidst chaos.\", analyze the following text: 'Everybody making power moves and # <target>DannyAinge</target> at home like # NBAFreeAgency'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Four men in leather jackets and sunglasses pose confidently outdoors, exuding a sense of camaraderie and rebellious style.\", analyze the following text: '@ <target>stevelackmeyer</target> These guys had a contempt for Shakespeare , too . None of them ended up with Michelle Pfeiffer .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Four men in leather jackets and sunglasses pose confidently outdoors, exuding a sense of camaraderie and rebellious style.\", analyze the following text: '@ stevelackmeyer These guys had a contempt for Shakespeare , too . None of them ended up with <target>Michelle Pfeiffer</target> .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in a jersey is preparing to shoot, with a humorous superimposed crying face on his head, suggesting a playful or ironic sentiment.\", analyze the following text: '@ <target>NBA</target> Refs worst in sports .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A globe with a green tint is accompanied by a biblical quote about the unexpected arrival of the day of the Lord, suggesting a theme of surprise and urgency.\", analyze the following text: 'This bible verse is literally talking about <target>Lady Gaga</target> and how she will release her next album'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit kneels humorously in front of a vending machine, gesturing animatedly to another man standing, creating a playful and lighthearted interaction.\", analyze the following text: 'Bernie Sanders is fast becoming <target>Stephen Colbert</target> ' s best recurring guest on \" The Late Show \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a dark suit interacts with a child while a woman behind him, holding a bouquet, smiles warmly in an outdoor setting with photographers present.\", analyze the following text: 'Not the Onion : \" <target>Kim Jong - un</target> to launch matchmaking contest to find his sister a husband \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in an elegant black and white gown stands confidently on a red carpeted staircase, surrounded by photographers capturing the moment.\", analyze the following text: '<target>EMMA WATSON</target> IS MOST DEFINITELY THE BEST PERSON ALIVE'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A hand holds a large mug with a prominent \"G\" logo, set in a cozy indoor environment with a leather chair in the background, suggesting a relaxed, personal moment.\", analyze the following text: 'Baseball fans ' current mood in # <target>SWOntario</target> : \" Is it football season yet ? \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A shirtless man with tattoos stands confidently on a beach, exuding a relaxed and casual vibe.\", analyze the following text: '<target>Justin Bieber</target> Shows Off His Package In Skin Tight Swimming Trun'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The image features logos of New York Red Bulls and FC Dallas alongside the text \"Full Highlights Week 9,\" suggesting a sports recap or summary.\", analyze the following text: 'Oscar Pareja concedes <target>FC Dallas</target> \" didn ' t have any # MLS # MajorLeagueSoccer # bettingtips'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person in a raincoat is running through shallow water, appearing determined and focused, with a fishing line trailing behind.\", analyze the following text: 'BREAKING NEWS : Liam Payne caught <target>Harry Styles</target> while fishing'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A soccer player in a red jersey appears frustrated as he is closely marked by an opponent in a blue jersey during a tense moment on the field.\", analyze the following text: 'That boy <target>Fellaini</target> , what a talent . . in MMA maybe . . dirty elbowing shithouse of a footballer though'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A soccer player in a red jersey appears frustrated as he is closely marked by an opponent in a blue jersey during a tense moment on the field.\", analyze the following text: 'That boy Fellaini , what a talent . . in <target>MMA</target> maybe . . dirty elbowing shithouse of a footballer though'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two men in suits are smiling and shaking hands in a professional studio setting, suggesting a positive and formal interaction.\", analyze the following text: '<target>Arizona Coyotes</target> leave 2016 NHL Draft Lottery empty - handed , . . .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A cartoon character appears disoriented and overwhelmed, with a blurred background suggesting chaos or confusion.\", analyze the following text: 'When you are at a <target>Rihanna</target> concert and she puts the mic in your face during ' Work ''. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in elegant white attire with a confident expression stands on a red carpet, surrounded by photographers in a formal event setting.\", analyze the following text: '<target>Sarah Jessica Parker</target> underwhelms as she hits the 2016 Met Gala red carpet # MetGala'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in white aggressively blocks an opponent in blue on the court, while a focused audience and team members watch intently from the sidelines.\", analyze the following text: 'There have been more nuts shots during the <target>NBA</target> Conf Finals than a BYU game'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in white aggressively blocks an opponent in blue on the court, while a focused audience and team members watch intently from the sidelines.\", analyze the following text: 'There have been more nuts shots during the NBA Conf Finals than a <target>BYU</target> game'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of young athletes in helmets and uniforms are engaged in a focused football practice on a grassy field, with coaches observing attentively under a clear blue sky.\", analyze the following text: '@ PopeFootball 7 th grade action against <target>Lassiter</target> . Yes , it ' s intense in the 7 th grade too ! # future # hounds'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A surreal and humorous text exchange features cryptic, playful language and images of lizard heads, suggesting a lighthearted, imaginative conversation.\", analyze the following text: 'I ' ve never seen <target>Mary Kate</target> and Ashley Olsen ' s texts , but I bet they look exactly like this :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A surreal and humorous text exchange features cryptic, playful language and images of lizard heads, suggesting a lighthearted, imaginative conversation.\", analyze the following text: 'I ' ve never seen Mary Kate and <target>Ashley Olsen</target> ' s texts , but I bet they look exactly like this :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a formal suit gestures while speaking to a child wearing a winter hat and backpack in an opulent indoor setting.\", analyze the following text: 'I ' d like to Congratulation our new President , Donald Trump and Vice President <target>Macaulay Culkin</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person in casual denim attire walks confidently indoors, carrying a small suitcase, suggesting travel or a busy lifestyle.\", analyze the following text: '<target>Little Monsters</target> are uniting and flooding Lady Gaga ' s Instagram comments with \" LG5 \" 😂'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The person displays a grimacing expression with furrowed brows, conveying displeasure or frustration, set against a neutral background.\", analyze the following text: 'NEW : Donald Trump is much uglier than his <target>Mika Brzezinski</target> tweet'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A character with elaborate purple makeup and a detailed costume holds a glowing orb, exuding a mysterious and authoritative presence in a dimly lit setting.\", analyze the following text: '<target>Donald Trump</target> Releases Supreme Court Justice Nominee List'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A soccer player in a red jersey prepares to take a corner kick as an enthusiastic crowd watches intently, with one fan gesturing animatedly nearby.\", analyze the following text: '<target>David Beckham</target> blows a kiss at a Chelsea fan giving him abuse , 1999 .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in a stylish black outfit and high heels strikes a playful pose indoors, exuding confidence and elegance.\", analyze the following text: 'RT if you would fuck the shit out of <target>Emma Stone</target> .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man with a mohawk and intense expression points a bloodied finger to his head in a dimly lit room, conveying a sense of distress or turmoil.\", analyze the following text: 'Taxi Driver is <target>Robert De Niro</target> ' s best movie and it ain ' t close'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Framed sports jerseys are displayed on a wall, suggesting a setting of admiration or tribute to athletes.\", analyze the following text: 'Watch : <target>Brandon Marshall</target> ' s jersey collection is an NFL fan ' s dream'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person wearing a blue robe and sunglasses poses confidently with peace signs on a basketball court, surrounded by a crowd in a lively sports arena.\", analyze the following text: '<target>Snoop</target> out here looking like Crip Hugh Hefner 😭'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person wearing a blue robe and sunglasses poses confidently with peace signs on a basketball court, surrounded by a crowd in a lively sports arena.\", analyze the following text: 'Snoop out here looking like Crip <target>Hugh Hefner</target> 😭'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person stands on a red carpet wearing stylish brown sneakers with white laces, suggesting a blend of casual and formal attire.\", analyze the following text: '<target>Markelle Fultz</target> Wearing Shoes Made Out Of Basketballs For NBA Draft'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman with an elegant hairstyle and confident expression stands in front of a \"Beauty and the Beast\" backdrop, suggesting a formal event or premiere.\", analyze the following text: 'well I mean by that logic where ' s <target>jennifer lawrence</target> ' s second oscar'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman with an elegant hairstyle and confident expression stands in front of a \"Beauty and the Beast\" backdrop, suggesting a formal event or premiere.\", analyze the following text: 'well I mean by that logic where ' s jennifer lawrence ' s second <target>oscar</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A young child wearing a hat and scarf smiles softly, conveying warmth and innocence in a close-up portrait.\", analyze the following text: 'Retweet Because Fetus <target>Justin Bieber</target> Is Blessing Your Timeline ! ! ! ! ! !'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two sofas are placed outside against a brick building, suggesting abandonment or disposal in an urban setting.\", analyze the following text: 'Glad they ' re putting on more seats for the <target>Southside Festival</target> this year'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person with a stern expression stands indoors, wearing dark robes, conveying seriousness or sarcasm.\", analyze the following text: 'When someone asks you if you ' ve actually read the <target>Harry Potter</target> books'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person is humorously depicted in a flamboyant, patriotic outfit, suggesting satire, with text criticizing their political stance.\", analyze the following text: '<target>Donald Trump</target> just got another boost in the general - Neocon Nutjob Lindsey Graham says he can ' t support him'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of cheerleaders with digitally altered faces and a man in the center, smiling confidently, in a humorous and playful setting.\", analyze the following text: '😂 RT @ NFLDraftInsider : Ezekial Elliot and his crop tops will fit in perfectly in <target>Dallas</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman with a calm expression stands outdoors, wearing a red outfit, suggesting a formal or celebratory event.\", analyze the following text: 'Honestly I can ' t believe <target>Blake lively</target> is real'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"I'm sorry, I can't describe the image as it is not available.\", analyze the following text: '2017 NBA Draft : How far could <target>Lonzo Ball</target> fall ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person with a thoughtful expression and dreadlocks is outdoors, wearing a dark sweatshirt and holding the collar close to their face.\", analyze the following text: '<target>Jaden Smith</target> just casually going from The Weeknd to Barack Obama'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person with a thoughtful expression and dreadlocks is outdoors, wearing a dark sweatshirt and holding the collar close to their face.\", analyze the following text: 'Jaden Smith just casually going from The Weeknd to <target>Barack Obama</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A black T-shirt features a graphic of a stern-faced man’s head on a spike with a crow perched atop, under the bold red text \"THE IRON PRICE,\" conveying a dark and intense theme.\", analyze the following text: 'Tom Brady is officially appealing Roger Goodell and the <target>NFL</target> ' s latest win in court'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person sits indoors on a chair, wearing a beanie and plaid shirt, smiling slightly, suggesting a relaxed and casual atmosphere.\", analyze the following text: 'why does <target>justin bieber</target> look like the theater thug'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in winter attire smiles confidently while holding a rifle, set against a serene outdoor landscape, suggesting a blend of adventure and leisure.\", analyze the following text: 'Pretty sure <target>Sarah Palin</target> is what happened when two Young Republicans Weird Science ' d the girl in this vintage beer ad'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person poses confidently on a red carpet in an elegant, patterned dress and high heels, surrounded by photographers capturing the moment.\", analyze the following text: 'Dead ass thought this was <target>Edward Scissorhands</target> RT @ SinnamonS : Another look at Taylor Swift for the road # metgala'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person poses confidently on a red carpet in an elegant, patterned dress and high heels, surrounded by photographers capturing the moment.\", analyze the following text: 'Dead ass thought this was Edward Scissorhands RT @ <target>SinnamonS</target> : Another look at Taylor Swift for the road # metgala'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person poses confidently on a red carpet in an elegant, patterned dress and high heels, surrounded by photographers capturing the moment.\", analyze the following text: 'Dead ass thought this was Edward Scissorhands RT @ SinnamonS : Another look at <target>Taylor Swift</target> for the road # metgala'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person poses confidently on a red carpet in an elegant, patterned dress and high heels, surrounded by photographers capturing the moment.\", analyze the following text: 'Dead ass thought this was Edward Scissorhands RT @ SinnamonS : Another look at Taylor Swift for the road # <target>metgala</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A shirtless individual with tattoos lies in a relaxed posture, eyes closed, bathed in sunlight, suggesting a calm and serene moment.\", analyze the following text: 'my sister posted my number on <target>Justin Biebers</target> Instagram cool'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A shirtless individual with tattoos lies in a relaxed posture, eyes closed, bathed in sunlight, suggesting a calm and serene moment.\", analyze the following text: 'my sister posted my number on Justin Biebers <target>Instagram</target> cool'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two men in suits sit at a talk show desk, both looking at their phones, suggesting a casual and humorous interaction.\", analyze the following text: 'Seth Rogen and Stephen Colbert show us the best way to troll <target>Donald Trump Jr</target> . :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Four men stand closely together, smiling and engaging with a cheering crowd, exuding a sense of camaraderie and celebration in an outdoor setting.\", analyze the following text: 'The Rolling Stones are not happy with <target>Donald Trump</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit stands thoughtfully with hands behind his back, facing a chalkboard filled with complex diagrams and equations, suggesting deep contemplation or problem-solving.\", analyze the following text: 'Me this morning , Still trying to figure out how @ LCFC won the <target>premier league</target> . . . . . . . 😲 👏 👏 👏 👏 🏆 ⚽'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The headline from The Sun discusses police investigations into claims that the Tories allegedly cheated in elections, suggesting potential breaches of spending rules.\", analyze the following text: 'You know you ' re in trouble , David Cameron , when even <target>The Sun</target> \" newspaper \" start to report your Electoral Fraud :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a red leather jacket and sunglasses points confidently to the side, holding a cigar, against a plain background.\", analyze the following text: '<target>R . Kelly</target> Stops His Concert To Clap back At Fans Who Called Him Broke'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two individuals are seated indoors, both smiling warmly at the camera, suggesting a positive interaction or interview setting.\", analyze the following text: 'Megyn Kelly Hits Back at Jokes About Handling <target>Donald Trump</target> . . .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A damaged cardboard box and two partially opened product boxes on a wooden table suggest a disappointing unboxing experience.\", analyze the following text: '@ <target>AmazonHelp</target> this is how my package arrived . I think someone used it to play football .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A letter from the Prime Minister, dated May 1, 2015, emphasizes the importance of voting in a marginal constituency, highlighting economic progress and political stakes.\", analyze the following text: '@ welshlabour @ cardiffnorth15 the only letter I received this am off <target>David Cameron</target> ! # VoteLabour'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two men in suits are walking and conversing outdoors, surrounded by a crowd taking photos, suggesting a public event or premiere.\", analyze the following text: 'LOL - Why @ theniceguys producer is \" Ripping \" into Ryan Gosling And <target>Russell Crowe</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A young woman with a neutral expression poses indoors against a starry backdrop, wearing a black choker and dark attire.\", analyze the following text: 'not a pic from the <target>russ</target> concert cause i was dancin my heart out ✨'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit sits at a desk with a confident expression, discussing political topics, while images of two other men are displayed on a screen beside him.\", analyze the following text: 'Seth Meyers tears apart <target>Donald Trump</target> over ' terrible Tinder date ' with James Comey'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A character lies on a wooden surface in a snowy environment, wearing earmuffs and a puffy jacket, with a surprised and uncomfortable expression.\", analyze the following text: 'The floor is my love for <target>One Piece</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A gorilla sits outdoors with a serious expression, surrounded by greenery, conveying a calm yet powerful presence.\", analyze the following text: 'Not The Onion : <target>CNN</target> Asks ' Would Donald Trump Have Killed the Gorilla ? ''. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A gorilla sits outdoors with a serious expression, surrounded by greenery, conveying a calm yet powerful presence.\", analyze the following text: 'Not The Onion : CNN Asks ' Would <target>Donald Trump</target> Have Killed the Gorilla ? ''. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A playful text exchange between a parent and child features emojis and humorous banter about a concert and pumpkin purée for pets.\", analyze the following text: 'MY MOM IS SO DRUNK AT THE <target>BRUNO MARS</target> CONCERT TONIGHT'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Three crudely drawn characters in wizard attire engage in humorous, exaggerated dialogue, capturing a playful and satirical take on a fantasy theme.\", analyze the following text: 'Every <target>Harry Potter</target> film encapsulated into some awful Microsoft Paint drawings'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The individual is smiling broadly and holding a microphone on stage, with a playful award graphic labeling them as the \"slowest speaker on this planet.\"\", analyze the following text: 'Some genius has edited <target>Harry Styles</target> ' voice to a normal human speed and it ' s kinda crazy'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A digital soccer game scene shows a ball being kicked towards a goal with a goalie figure, indicating a focus on scoring.\", analyze the following text: '<target>Ketchapp Football</target> - The perfect Pokemon GO trainer ! ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A digital soccer game scene shows a ball being kicked towards a goal with a goalie figure, indicating a focus on scoring.\", analyze the following text: 'Ketchapp Football - The perfect <target>Pokemon GO</target> trainer ! ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman with a thoughtful expression stands at a podium, dressed formally, suggesting a public speaking event.\", analyze the following text: '<target>J . K . Rowling</target> on Donald Trump : \" His freedom to speak protects my freedom to call him a bigot \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman with a thoughtful expression stands at a podium, dressed formally, suggesting a public speaking event.\", analyze the following text: 'J . K . Rowling on <target>Donald Trump</target> : \" His freedom to speak protects my freedom to call him a bigot \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Three individuals wearing dark clothing and face masks stand closely together at night, creating a mysterious and tense atmosphere.\", analyze the following text: '<target>ChanBaek</target> looking each other when Chanyeol holding pad . IRONIC .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman stands confidently on a street wearing an oversized coat, exuding a stylish and self-assured demeanor.\", analyze the following text: 'Kelly Rowland has HAD IT with <target>Tina Knowles</target> Instashenanigans'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A celebrity shares a warm hug with a fan, showcasing a softer side after a successful performance, creating a positive and affectionate atmosphere.\", analyze the following text: 'This isn ' t <target>Justin Bieber</target> ' s softer side , it ' s his real side'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A sculpted stone block features four distinct faces with varying expressions, resembling a parody of Mount Rushmore, set indoors on a reflective surface.\", analyze the following text: 'Someone made a <target>Harry Potter</target> Mount Rushmore 😂'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A digital playlist screen displays songs from Chance The Rapper's \"Coloring Book\" album, highlighting a vibrant and engaging musical selection.\", analyze the following text: 'Chance got future , young thug , lil yachty , <target>Kanye</target> , lil Wayne , ; 2 chainz on this 🔥 🔥'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A newspaper stand prominently displays covers with a \"DEAD\" stamp over a man's image, reflecting significant news and public interest, while a vendor stands behind.\", analyze the following text: 'Pakistan to <target>Donald Trump</target> : ' We are not a U . S . colony ' .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A newspaper stand prominently displays covers with a \"DEAD\" stamp over a man's image, reflecting significant news and public interest, while a vendor stands behind.\", analyze the following text: 'Pakistan to Donald Trump : ' We are not a <target>U . S</target> . colony ' .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A seated athlete with ice packs on his knees is being interviewed by a man holding a microphone, in a sports setting, conveying a sense of post-game reflection.\", analyze the following text: '<target>Kevin Durant</target> looks like Penny Proud when she joined the swim team'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two basketball players in team uniforms stand confidently with neutral expressions, while another image shows them smiling in a group photo wearing USA jerseys.\", analyze the following text: 'Never forget that Kevin Love is 6 ' 10 \" and <target>Kevin Durant</target> is 6 ' 9 \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A massive crowd surrounds mounted police officers, creating a sense of anticipation and tension in a densely packed outdoor setting.\", analyze the following text: '@ <target>MirrorFootball</target> they used horses to control a crowd at a football game ? Must be a new policing strategy .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in elegant attire lounges confidently on a lavish bed, surrounded by opulent decor and scattered fruit, holding a large fan with a poised expression.\", analyze the following text: '<target>Naomi Campbell</target> | Vogue Italia , Photos by Steven Meisel . Rich bitch giving looks .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A soccer player in a white jersey appears focused and determined on the field, with a background suggesting a sports stadium environment.\", analyze the following text: '<target>Bayern</target> is destroying football imo !'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of young people in swimwear enthusiastically pose around a large sand sculpture on a sunny beach, conveying a sense of fun and camaraderie.\", analyze the following text: 'I ' m tired and hungry and smell like seaweed but the <target>Savannah</target> sand festival was a - ok'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A cartoon character with long blonde hair and a confident smile stands in a glamorous outfit against a backdrop of silhouettes and bright lights, suggesting a concert or entertainment setting.\", analyze the following text: 'Tired of <target>Kim Kardashian : Hollywood</target> ? Britney Spears : American Dream is here -'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A marching band in green uniforms plays instruments during a lively outdoor parade, surrounded by onlookers and colorful flags, creating a festive atmosphere.\", analyze the following text: 'Passed by this # <target>MayDay</target> parade on my way to work . On a Sunday . The irony is not lost on me . # WorkersDay'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit stands at a podium with a joyful expression, clenching his fists in a celebratory gesture, in front of a Chicago Bulls basketball emblem.\", analyze the following text: 'has Jimmy Butler been practicing his \" yessssssssss No . 1 pick \" celebration before tonight ' s <target>NBA</target> draft lottery ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in glamorous attire, including a white fur coat, confidently performs on stage, exuding a powerful and commanding presence.\", analyze the following text: 'Nicki Minaj Performs a Medley of <target>Remy Ma Disses</target> at the NBA Awards'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit and cap waves confidently while standing near a plane with \"TRUMP\" written on it, surrounded by several people in a sunny outdoor setting.\", analyze the following text: '<target>Donald Trump</target> in 2007 : \" I ' m excited \" for the housing market crash .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A quote on a black background expresses irony about unrecognized potential in relationships, attributed to J. Cole, evoking introspection and realization.\", analyze the following text: '<target>J . Cole</target> why must you be so genius 😭'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit sits at a desk with a serious expression, speaking into a microphone, while images of two people are displayed on a screen beside him in a studio setting.\", analyze the following text: '<target>Seth Meyers</target> has a message for Hillary voters : Bernie is not hurting your candidate'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit sits at a desk with a serious expression, speaking into a microphone, while images of two people are displayed on a screen beside him in a studio setting.\", analyze the following text: 'Seth Meyers has a message for Hillary voters : <target>Bernie</target> is not hurting your candidate'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A digital basketball player in a blue jersey stands on a game stats screen, displaying a score of two points.\", analyze the following text: 'When <target>Michael Jackson</target> joins the NBA . . .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a casual plaid shirt enjoys a colorful shaved ice outdoors, appearing relaxed and content.\", analyze the following text: 'BARACK OBAMA : the best president , hilarious , chill , cute . most likely loves shaved ice more than he loves <target>america</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person on stage, wearing a white shirt and headband, smiles warmly amidst a cheering crowd in a blue-lit concert setting.\", analyze the following text: 'everyone got nice quality , up close , artsy pictures from the <target>tyler</target> concert and all i got was this 1 of jasper'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A collage of celebrities with neutral expressions is featured under a headline about moving to Canada if Trump is elected, suggesting political discontent.\", analyze the following text: 'Here is an excellent reason to vote for <target>Donald Trump</target> :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A small, withered plant in a makeshift pot sits on a windowsill, suggesting neglect or abandonment, with a sunny outdoor scene visible through the screen.\", analyze the following text: '@ <target>danielhowell</target> they were supposed to be sunflowers pls help'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit and tie speaks with an engaged expression, suggesting a formal or professional setting.\", analyze the following text: '<target>Sergio Ramos</target> : \" it would be a big opportunity missed \"'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in an elegant off-shoulder dress stands confidently in a formal event setting, exuding a calm and poised demeanor.\", analyze the following text: '<target>Emma Watson</target> wore an outfit made out of plastic bottles and people absolutely adore it'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two individuals are smiling warmly in an indoor setting, suggesting a positive and friendly interaction.\", analyze the following text: '<target>Jennifer Lopez</target> Seriously Called Drake a ' Booty Call ' at a Concert'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two individuals are smiling warmly in an indoor setting, suggesting a positive and friendly interaction.\", analyze the following text: 'Jennifer Lopez Seriously Called <target>Drake</target> a ' Booty Call ' at a Concert'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two cartoon duck heads with similar expressions are depicted side by side against a plain background, each labeled \"Donald,\" highlighting a humorous visual comparison.\", analyze the following text: 'Who knew ? If you turned <target>Donald</target> Duck upside down , you get the other Donald .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A lion stands confidently with an overlay of a man's face, accompanied by text suggesting strength and indifference to criticism, evoking a sense of power and resilience.\", analyze the following text: '<target>Obama</target> Says He ' s Eager to Campaign Against Donald Trump - Trump Isn ' t Losing Any Sleep .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A lion stands confidently with an overlay of a man's face, accompanied by text suggesting strength and indifference to criticism, evoking a sense of power and resilience.\", analyze the following text: 'Obama Says He ' s Eager to Campaign Against <target>Donald Trump</target> - Trump Isn ' t Losing Any Sleep .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A lion stands confidently with an overlay of a man's face, accompanied by text suggesting strength and indifference to criticism, evoking a sense of power and resilience.\", analyze the following text: 'Obama Says He ' s Eager to Campaign Against Donald <target>Trump</target> - Trump Isn ' t Losing Any Sleep .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A news headline lists topics including Hillary Clinton, Donald Trump, and a medical procedure, suggesting a mix of political and health-related content.\", analyze the following text: 'So Hilary Clinton donated her penis to <target>Donald Trump</target> ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A blue bus with political slogans and British flags is parked, conveying a satirical message about election fraud.\", analyze the following text: 'Prime minister David Cameron calls Nigeria curupt while his party is being investigated for election fraud # <target>c4news</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A vibrant billboard in an urban setting features two individuals in dynamic poses, exuding confidence and energy, promoting a glamorous cosmetics campaign.\", analyze the following text: 'BIG MAC BILLBOARD OUT IN <target>TIMES SQUARE</target> AND I AINT TALKIN BOUT MCDONALDS BITCH !'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A couple in wedding attire lovingly embraces on a historic balcony, exuding joy and intimacy in a romantic setting.\", analyze the following text: 'RIP all of us , this <target>Harry Potter</target> wedding is too much'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person in a suit speaks into a microphone while seated on a stage, engaging an attentive audience in a conference setting.\", analyze the following text: 'Houston we have a problem . Sir Martin Sorrell agrees there is a problem with advertising festivals . # <target>CannesLions</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in an Oklahoma City jersey is humorously edited to be shooting a brick, while an opposing player attempts to block the shot in an indoor sports arena.\", analyze the following text: '<target>Russell Westbrook</target> pulls up for a jumper during Game 7 :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A motivational tweet features a wall clock beneath the quote \"You can't recycle wasted time,\" emphasizing the importance of valuing time.\", analyze the following text: 'One thing we know , <target>Taylor Swift</target> ' s new single / album has something to do with TIME . # TS6'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A baby lies on a soft surface wearing a patterned onesie, next to wooden blocks spelling \"1 month,\" conveying a sense of celebration and milestone.\", analyze the following text: '<target>Russell Westbrook</target> ' s new son looks like he just dunked on 2 other babies'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A scoreboard displays a baseball game with a significant lead, indicating a competitive atmosphere, while a pitch chart shows various colored markers representing pitch locations.\", analyze the following text: 'I lost my BR bc this game fucking rung me up with bases Loaded this game is fucking broke @ <target>MLB_GGM_GOON</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A baseball player stands poised with a bat on a field at sunset, creating a calm yet anticipatory atmosphere.\", analyze the following text: 'Sharks take a 4 - 0 lead over @ <target>SeacoastMavs</target> after 3 complete nice night for baseball'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of people wearing \"Thunder Up\" shirts appear serious and focused, likely at a sports event, creating a tense and anticipatory atmosphere.\", analyze the following text: 'The pain of watching a game you have no control over - <target>nba</target> announcer # coachswifestruggle # loveher'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person with a thoughtful expression sits indoors, resting their arm on a couch, wearing a black jacket and pink top.\", analyze the following text: 'It ' s great that Azealia Banks got suspended but what about Tila Tequila , Piers Morgan , and <target>Donald Trump</target> .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A performer in a black leather outfit and hat stands confidently on stage, holding a microphone, with vibrant purple lighting creating a dynamic concert atmosphere.\", analyze the following text: 'Why does <target>Ally</target> from Fifth Harmony ' s knee look like Ed Sheeran'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A tweet by AJ+ quotes Trump emphasizing his commitment to Pittsburgh over Paris, reflecting a nationalistic sentiment.\", analyze the following text: 'Um . . . does Donald Trump think the <target>Paris</target> Accord . . . is actually about Paris ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A tweet by AJ+ quotes Trump emphasizing his commitment to Pittsburgh over Paris, reflecting a nationalistic sentiment.\", analyze the following text: 'Um . . . does Donald Trump think the <target>Paris</target> Accord . . . is actually about Paris ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A baseball team huddles together on the field, displaying camaraderie and focus, likely preparing for or celebrating a game.\", analyze the following text: 'And we win . 3 - 1 over <target>OSU</target> . Great way to end the last home game of the regular season . @ ORUBaseball'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in a Golden State Warriors jersey is energetically holding the ball near the hoop, displaying a focused and determined expression during an intense game moment.\", analyze the following text: '# nbanews Zach Lowe : One year after an unparalleled mistake , <target>Draymond Green</target> has no regrets'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The image collage humorously compares the expressions and postures of a basketball player in action with animated dinosaur characters, highlighting similarities in facial expressions and demeanor.\", analyze the following text: '<target>Russell Westbrook</target> lookin like ducky from Land Before Time . # NBAPlayoffs # OKCvsGSW 😂'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A group of four men stand together on a red carpet, casually dressed and posing for a photo, appearing relaxed and content.\", analyze the following text: 'The first pic of <target>One Direction</target> on Family Guy has arrived and what ' s up with Harry ' s lips ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A jubilant crowd surrounds an open-top bus carrying a sports team celebrating with a trophy, amidst a busy urban street, capturing a moment of communal excitement and victory.\", analyze the following text: 'Fake fans paid to cheer <target>Leicester City</target> during Bangkok victory parade'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A large crowd gathers in an indoor arena, attentively facing a speaker at a podium, suggesting a political rally or public address.\", analyze the following text: 'The Republican party has yet to unify and <target>Donald Trump</target> has already gained massive ground on Crooked Hillary .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in a Wizards jersey smiles confidently while holding a basketball towards the camera in a studio setting.\", analyze the following text: 'Enjoy your last quarter of <target>Kevin Durant</target> , Oklahoma City .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in a Wizards jersey smiles confidently while holding a basketball towards the camera in a studio setting.\", analyze the following text: 'Enjoy your last quarter of Kevin Durant , <target>Oklahoma City</target> .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two men in formal attire appear serious and contemplative, each in separate settings with one in front of a U.S. flag and the other against a blue backdrop.\", analyze the following text: 'John Boehner backs <target>Donald Trump</target> , adding \" Thank God \" Ted Cruz didn ' t win'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A basketball player in a white jersey is mid-air, poised to dunk, with focused expression and spectators watching intently in an indoor arena.\", analyze the following text: '<target>Chris Bosh</target> ’ s Situation – Why It is Complicated and How it Applies to You'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A smiling man in a suit gestures warmly in front of a trophy-filled display, suggesting pride and achievement.\", analyze the following text: 'Why Nigeria dominates <target>South Africa</target> in football – Babangida'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A series of reminders on a digital list emphasize the urgency of remembering chargers, suggesting a focus on preparation and organization.\", analyze the following text: 'This was the day of <target>Shawns</target> concert omg I legit wasn ' t letting my phone die for no oneeee'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A close-up of the Statue of Liberty's serene and solemn face against a clear blue sky, symbolizing freedom and hope.\", analyze the following text: 'Just realized the <target>Mona Lisa</target> looks just like Donald Trump Jr I am literally shaking'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A close-up of the Statue of Liberty's serene and solemn face against a clear blue sky, symbolizing freedom and hope.\", analyze the following text: 'Just realized the Mona Lisa looks just like <target>Donald Trump Jr</target> I am literally shaking'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A luxurious red skateboard case, adorned with designer logos, is open to reveal a skateboard inside, suggesting a blend of high fashion and street culture.\", analyze the following text: '<target>Louis Vuitton</target> x Supreme skate set that will be $ 54,500 retail 😳'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A luxurious red skateboard case, adorned with designer logos, is open to reveal a skateboard inside, suggesting a blend of high fashion and street culture.\", analyze the following text: 'Louis Vuitton x <target>Supreme</target> skate set that will be $ 54,500 retail 😳'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in a sparkling dress energetically performs on stage, holding a microphone, surrounded by bright lights and musicians.\", analyze the following text: '<target>Meghan Trainor</target> fell during the \" Tonight Show . \" See how Jimmy Fallon reacted .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The image shows a lineup of England's football midfielders in uniform, standing confidently against a plain background, conveying team unity and readiness.\", analyze the following text: 'I don ' t have a clue how the most average player in English football has landed a place in the <target>Euro</target> 2016 team 🙈'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A stylized logo of a bull's head incorporates a sad human face, conveying a humorous yet melancholic sentiment.\", analyze the following text: 'And again . . . @ chicagobulls need help . They just don ' t know what they do . . . # <target>nba</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a shirt and tie, with an intense expression, gestures animatedly in front of a wall covered in papers and red string, suggesting a frantic or conspiratorial atmosphere.\", analyze the following text: 'Me trying to explain <target>Harry Potter</target> to a muggle'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A newspaper headline announces \"Clinton impeached,\" featuring a serious image of a man and woman, suggesting a significant political event.\", analyze the following text: '♦ ️ 🇺 🇸 ♦ NYT implies that a ' flirty ' <target>Trump</target> can ' t be in the White House , but an impeached Bill Clinton can . # Trump2016'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A newspaper headline announces \"Clinton impeached,\" featuring a serious image of a man and woman, suggesting a significant political event.\", analyze the following text: '♦ ️ 🇺 🇸 ♦ NYT implies that a ' flirty ' Trump can ' t be in the <target>White House</target> , but an impeached Bill Clinton can . # Trump2016'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two people are smiling and standing close together outdoors, suggesting a friendly interaction.\", analyze the following text: 'It ' s so sad to see Pink and <target>Justin Timberlake</target> addicted to Spice :('. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person in a suit and red tie is seated indoors, appearing serious while signing documents next to a large stack of papers.\", analyze the following text: 'A look at how <target>Donald Trump</target> plays the tax game'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two boxes of a satirical card game titled \"Trump Against Humanity\" are displayed on a wooden surface, with text suggesting controversial and humorous content.\", analyze the following text: 'Love Cards Against Humanity and hating on <target>Donald Trump</target> ? Have we got the game for you :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in a suit sits in an airplane, looking contemplative as he holds a McDonald's fries container, with a burger and bottled water on the table.\", analyze the following text: '<target>Donald Trump</target> ’ s fast food hankerin ’ revives a nostalgic Ronald Reagan photo – who remembers …'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person in formal attire stands with a neutral expression, captured in a monochrome setting.\", analyze the following text: '<target>Harry Styles</target> new looks ! What do u think ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A young man in a sports jersey and cap smiles broadly with his arms around two older men in suits, suggesting a celebratory or congratulatory moment indoors.\", analyze the following text: '# NHLPlayoffs People are wondering — do the <target>Florida # Panthers</target> know what they ’ re . . .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The image features three individuals: one in medieval attire with a serious expression, another in formal wear with a neutral expression, and the third in a suit smiling slightly, each in separate settings.\", analyze the following text: '<target>Ellie Goulding</target> can ' t decide who she hates more : Ramsay Bolton or Donald Trump'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in a bright yellow dress holds a microphone and smiles confidently against a pink background, suggesting a comedic or lively setting.\", analyze the following text: '<target>Tom Brady</target> , Brad Pitt , Ellen Page and Hillary Clinton . Curious ? Of course you are ! WATCH :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person walks confidently in a casual outfit featuring a graphic t-shirt and striped sleeves, in an industrial indoor setting.\", analyze the following text: 'Russell Westbrook will dress like <target>Lizzy McGuire</target> then drop a triple double on your whole squad . Dude insane'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man stands on stage speaking to an attentive audience, with several individuals seated closely, some smiling and engaged, in a formal indoor setting.\", analyze the following text: '<target>Michelle Obama</target> lookin like she ' s ready to risk it all for Usher'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man stands on stage speaking to an attentive audience, with several individuals seated closely, some smiling and engaged, in a formal indoor setting.\", analyze the following text: 'Michelle Obama lookin like she ' s ready to risk it all for <target>Usher</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person walks confidently down a hallway wearing sunglasses, a red headband, and a sleeveless turquoise shirt, exuding a casual and bold style.\", analyze the following text: '<target>Russell Westbrook</target> out here thinking he ' s going to a Guns N ' Roses concert .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person walks confidently down a hallway wearing sunglasses, a red headband, and a sleeveless turquoise shirt, exuding a casual and bold style.\", analyze the following text: 'Russell Westbrook out here thinking he ' s going to a <target>Guns N ' Roses</target> concert .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A cartoon character is thoughtfully checking a list titled \"Reasons,\" with options like \"Spite\" and \"Profit,\" suggesting humorous contemplation.\", analyze the following text: 'Taylor Swift uploading her Albums to <target>Spotify</target> like'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in traditional attire and glasses gestures emphatically while speaking indoors, suggesting a serious or persuasive discussion.\", analyze the following text: 'The drum of war is sounding very loud , <target>Osinbajo</target> should Act now – Doyin Okupe'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A man in traditional attire and glasses gestures emphatically while speaking indoors, suggesting a serious or persuasive discussion.\", analyze the following text: 'The drum of war is sounding very loud , Osinbajo should Act now – <target>Doyin Okupe</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"An elderly person kneels on the pavement, clutching their chest with a pained expression, suggesting distress or discomfort.\", analyze the following text: '😂 RT @ <target>Redd</target> : When a guy you used to talk to got drafted to the NFL'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"An elderly person kneels on the pavement, clutching their chest with a pained expression, suggesting distress or discomfort.\", analyze the following text: '😂 RT @ Redd : When a guy you used to talk to got drafted to the <target>NFL</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman with an expressive, open-mouthed cheer stands in a crowded sports arena, displaying excitement and enthusiasm.\", analyze the following text: '<target>Rihanna</target> steals the spotlight from Cavs , Warriors during NBA Finals'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A woman in a blazer gestures expressively while speaking into a microphone in a studio setting, conveying engagement and intensity.\", analyze the following text: 'Nancy Pelosi , blinded by <target>Trump</target> , makes crazy ‘ guarantee ’ she can ’ t possibly make good on'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Three children playfully interact with a large yellow sculpture in a park, exuding joy and curiosity.\", analyze the following text: 'Can ' t rain on our parade ! ! ! @ <target>htubman2015</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A Tottenham Hotspur-themed celebration cake is displayed in a store with a prominent \"reduced\" price sticker, suggesting a markdown.\", analyze the following text: 'Whoops . Spurs are the best team I ' ve seen this year but this is the best thing that ' s happened to the <target>Premier League</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A green puppet sips tea with a nonchalant expression, conveying a sense of irony or sarcasm, accompanied by the text \"BUT THAT'S NONE OF MY BUSINESS.\"\", analyze the following text: '@ guga31bb Maybe don ' t report on hoops when ur dad is an <target>NBA</target> deadbeat ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A soccer player in a blue jersey smiles on the field, while a spectator in the background appears surprised or amused.\", analyze the following text: 'Throwback to when <target>Wayne Rooney</target> was spotted at Stamford Bridge in drag 😂'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A soccer player in a blue jersey smiles on the field, while a spectator in the background appears surprised or amused.\", analyze the following text: 'Throwback to when Wayne Rooney was spotted at <target>Stamford Bridge</target> in drag 😂'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"An older man in a suit smiles warmly with clasped hands, seated indoors with a blurred windowed background.\", analyze the following text: 'A <target>Donald Trump</target> presidency won ’ t slow Fiera Capital ’ s U . S . expansion : CEO'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The image humorously contrasts two baseball jerseys labeled \"Before\" and \"After\" with a detergent, suggesting a transformation with a playful, sarcastic tone.\", analyze the following text: '# Classic ! ! How many Dodger fans will I piss off with this one # <target>FreewaySeries</target> # AngelsBaseball # MLB # Baseball ⚾ ️ 🇺 🇸'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"The image humorously contrasts two baseball jerseys labeled \"Before\" and \"After\" with a detergent, suggesting a transformation with a playful, sarcastic tone.\", analyze the following text: '# Classic ! ! How many Dodger fans will I piss off with this one # FreewaySeries # AngelsBaseball # <target>MLB</target> # Baseball ⚾ ️ 🇺 🇸'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A content black and white cat sits upright on a wooden chair in a garden setting, exuding a calm and relaxed demeanor.\", analyze the following text: '<target>Jeremy Corbyn</target> ' s cat El Gato just threw some glorious shade at David Cameron . Yes , really'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A content black and white cat sits upright on a wooden chair in a garden setting, exuding a calm and relaxed demeanor.\", analyze the following text: 'Jeremy Corbyn ' s cat El Gato just threw some glorious shade at <target>David Cameron</target> . Yes , really'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Two women in a lively indoor setting appear engaged and intrigued, with expressions of surprise or curiosity.\", analyze the following text: 'When someone says they ' ve never heard of <target>One Tree Hill</target> .'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person with a neutral expression gives a thumbs-up gesture, wearing a patterned shirt and a colorful bracelet, suggesting a positive or approving sentiment.\", analyze the following text: '<target>Harry Styles</target> would be proud of Justin Bieber ' s deeply unbuttoned after - party shirt , tbh :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Positive",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A person with a neutral expression gives a thumbs-up gesture, wearing a patterned shirt and a colorful bracelet, suggesting a positive or approving sentiment.\", analyze the following text: 'Harry Styles would be proud of <target>Justin Bieber</target> ' s deeply unbuttoned after - party shirt , tbh :'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "positive",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A football player in a black and blue uniform is punting the ball on a grassy field, focused and in motion.\", analyze the following text: 'Punter shouldn ' t be something <target>Jaguars</target> fans talk about , finally # nfl'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A football player in a black and blue uniform is punting the ball on a grassy field, focused and in motion.\", analyze the following text: 'Punter shouldn ' t be something Jaguars fans talk about , finally # <target>nfl</target>'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "Negative",
+    "label": "neutral",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"A tweet by Ellie Goulding highlights Donald Trump's stance on climate change as a \"hoax\" and his intention to scrap the Paris agreement, implying criticism.\", analyze the following text: 'Someone commented on Ellie Goulding ' s tweet about <target>Donald Trump</target> . Her reply was everything . 👏'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "positive",
+    "label": "negative",
+    "ErrorType": "C"
+  },
+  {
+    "prompt": "Given the image and its description: \"Three men in formal attire, smiling and engaged in conversation at an indoor event, suggesting a celebratory or social gathering.\", analyze the following text: 'Just what were <target>Donald Trump</target> ' s ties to the mob ?'. What is the sentiment expressed towards the entity marked with <target>?\nPlease answer with one word: 'positive', 'neutral', or 'negative'.",
+    "predict": "neutral",
+    "label": "negative",
+    "ErrorType": "C"
+  }
+]
